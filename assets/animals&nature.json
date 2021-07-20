@@ -1,0 +1,1586 @@
+[
+	{
+		"no": 620,
+		"code": "U+1F435",
+		"emoji": "🐵",
+		"description": "MONKEY FACE",
+		"flagged": false,
+		"keywords": ["face", "monkey"]
+	},
+	{
+		"no": 621,
+		"code": "U+1F412",
+		"emoji": "🐒",
+		"description": "MONKEY",
+		"flagged": false,
+		"keywords": ["monkey"]
+	},
+	{
+		"no": 622,
+		"code": "U+1F98D",
+		"emoji": "🦍",
+		"description": "GORILLA",
+		"flagged": true,
+		"keywords": ["gorilla"]
+	},
+	{
+		"no": 623,
+		"code": "U+1F436",
+		"emoji": "🐶",
+		"description": "DOG FACE",
+		"flagged": false,
+		"keywords": ["dog", "face", "pet"]
+	},
+	{
+		"no": 624,
+		"code": "U+1F415",
+		"emoji": "🐕",
+		"description": "DOG",
+		"flagged": false,
+		"keywords": ["dog", "pet"]
+	},
+	{
+		"no": 625,
+		"code": "U+1F429",
+		"emoji": "🐩",
+		"description": "POODLE",
+		"flagged": false,
+		"keywords": ["dog", "poodle"]
+	},
+	{
+		"no": 626,
+		"code": "U+1F43A",
+		"emoji": "🐺",
+		"description": "WOLF FACE",
+		"flagged": false,
+		"keywords": ["face", "wolf"]
+	},
+	{
+		"no": 627,
+		"code": "U+1F98A",
+		"emoji": "🦊",
+		"description": "FOX FACE",
+		"flagged": true,
+		"keywords": ["face", "fox"]
+	},
+	{
+		"no": 628,
+		"code": "U+1F431",
+		"emoji": "🐱",
+		"description": "CAT FACE",
+		"flagged": false,
+		"keywords": ["cat", "face", "pet"]
+	},
+	{
+		"no": 629,
+		"code": "U+1F408",
+		"emoji": "🐈",
+		"description": "CAT",
+		"flagged": false,
+		"keywords": ["cat", "pet"]
+	},
+	{
+		"no": 630,
+		"code": "U+1F981",
+		"emoji": "🦁",
+		"description": "LION FACE",
+		"flagged": false,
+		"keywords": ["face", "leo", "lion", "zodiac"]
+	},
+	{
+		"no": 631,
+		"code": "U+1F42F",
+		"emoji": "🐯",
+		"description": "TIGER FACE",
+		"flagged": false,
+		"keywords": ["face", "tiger"]
+	},
+	{
+		"no": 632,
+		"code": "U+1F405",
+		"emoji": "🐅",
+		"description": "TIGER",
+		"flagged": false,
+		"keywords": ["tiger"]
+	},
+	{
+		"no": 633,
+		"code": "U+1F406",
+		"emoji": "🐆",
+		"description": "LEOPARD",
+		"flagged": false,
+		"keywords": ["leopard"]
+	},
+	{
+		"no": 634,
+		"code": "U+1F434",
+		"emoji": "🐴",
+		"description": "HORSE FACE",
+		"flagged": false,
+		"keywords": ["face", "horse"]
+	},
+	{
+		"no": 635,
+		"code": "U+1F40E",
+		"emoji": "🐎",
+		"description": "HORSE",
+		"flagged": false,
+		"keywords": ["horse", "racehorse", "racing"]
+	},
+	{
+		"no": 636,
+		"code": "U+1F98C",
+		"emoji": "🦌",
+		"description": "DEER",
+		"flagged": true,
+		"keywords": ["deer"]
+	},
+	{
+		"no": 637,
+		"code": "U+1F984",
+		"emoji": "🦄",
+		"description": "UNICORN FACE",
+		"flagged": false,
+		"keywords": ["face", "unicorn"]
+	},
+	{
+		"no": 638,
+		"code": "U+1F42E",
+		"emoji": "🐮",
+		"description": "COW FACE",
+		"flagged": false,
+		"keywords": ["cow", "face"]
+	},
+	{
+		"no": 639,
+		"code": "U+1F402",
+		"emoji": "🐂",
+		"description": "OX",
+		"flagged": false,
+		"keywords": ["bull", "ox", "taurus", "zodiac"]
+	},
+	{
+		"no": 640,
+		"code": "U+1F403",
+		"emoji": "🐃",
+		"description": "WATER BUFFALO",
+		"flagged": false,
+		"keywords": ["buffalo", "water"]
+	},
+	{
+		"no": 641,
+		"code": "U+1F404",
+		"emoji": "🐄",
+		"description": "COW",
+		"flagged": false,
+		"keywords": ["cow"]
+	},
+	{
+		"no": 642,
+		"code": "U+1F437",
+		"emoji": "🐷",
+		"description": "PIG FACE",
+		"flagged": false,
+		"keywords": ["face", "pig"]
+	},
+	{
+		"no": 643,
+		"code": "U+1F416",
+		"emoji": "🐖",
+		"description": "PIG",
+		"flagged": false,
+		"keywords": ["pig", "sow"]
+	},
+	{
+		"no": 644,
+		"code": "U+1F417",
+		"emoji": "🐗",
+		"description": "BOAR",
+		"flagged": false,
+		"keywords": ["boar", "pig"]
+	},
+	{
+		"no": 645,
+		"code": "U+1F43D",
+		"emoji": "🐽",
+		"description": "PIG NOSE",
+		"flagged": false,
+		"keywords": ["face", "nose", "pig"]
+	},
+	{
+		"no": 646,
+		"code": "U+1F40F",
+		"emoji": "🐏",
+		"description": "RAM",
+		"flagged": false,
+		"keywords": ["aries", "ram", "sheep", "zodiac"]
+	},
+	{
+		"no": 647,
+		"code": "U+1F411",
+		"emoji": "🐑",
+		"description": "SHEEP",
+		"flagged": false,
+		"keywords": ["ewe", "sheep"]
+	},
+	{
+		"no": 648,
+		"code": "U+1F410",
+		"emoji": "🐐",
+		"description": "GOAT",
+		"flagged": false,
+		"keywords": ["capricorn", "goat", "zodiac"]
+	},
+	{
+		"no": 649,
+		"code": "U+1F42A",
+		"emoji": "🐪",
+		"description": "DROMEDARY CAMEL≊ camel",
+		"flagged": false,
+		"keywords": ["camel", "dromedary", "hump"]
+	},
+	{
+		"no": 650,
+		"code": "U+1F42B",
+		"emoji": "🐫",
+		"description": "BACTRIAN CAMEL≊ two-hump camel",
+		"flagged": false,
+		"keywords": ["bactrian", "camel", "hump"]
+	},
+	{
+		"no": 651,
+		"code": "U+1F418",
+		"emoji": "🐘",
+		"description": "ELEPHANT",
+		"flagged": false,
+		"keywords": ["elephant"]
+	},
+	{
+		"no": 652,
+		"code": "U+1F98F",
+		"emoji": "🦏",
+		"description": "RHINOCEROS",
+		"flagged": true,
+		"keywords": ["rhinoceros"]
+	},
+	{
+		"no": 653,
+		"code": "U+1F42D",
+		"emoji": "🐭",
+		"description": "MOUSE FACE",
+		"flagged": false,
+		"keywords": ["face", "mouse"]
+	},
+	{
+		"no": 654,
+		"code": "U+1F401",
+		"emoji": "🐁",
+		"description": "MOUSE",
+		"flagged": false,
+		"keywords": ["mouse"]
+	},
+	{
+		"no": 655,
+		"code": "U+1F400",
+		"emoji": "🐀",
+		"description": "RAT",
+		"flagged": false,
+		"keywords": ["rat"]
+	},
+	{
+		"no": 656,
+		"code": "U+1F439",
+		"emoji": "🐹",
+		"description": "HAMSTER FACE",
+		"flagged": false,
+		"keywords": ["face", "hamster", "pet"]
+	},
+	{
+		"no": 657,
+		"code": "U+1F430",
+		"emoji": "🐰",
+		"description": "RABBIT FACE",
+		"flagged": false,
+		"keywords": ["bunny", "face", "pet", "rabbit"]
+	},
+	{
+		"no": 658,
+		"code": "U+1F407",
+		"emoji": "🐇",
+		"description": "RABBIT",
+		"flagged": false,
+		"keywords": ["bunny", "pet", "rabbit"]
+	},
+	{
+		"no": 659,
+		"code": "U+1F43F",
+		"emoji": "🐿",
+		"description": "CHIPMUNK",
+		"flagged": false,
+		"keywords": ["chipmunk"]
+	},
+	{
+		"no": 660,
+		"code": "U+1F987",
+		"emoji": "🦇",
+		"description": "BAT",
+		"flagged": true,
+		"keywords": ["bat", "vampire"]
+	},
+	{
+		"no": 661,
+		"code": "U+1F43B",
+		"emoji": "🐻",
+		"description": "BEAR FACE",
+		"flagged": false,
+		"keywords": ["bear", "face"]
+	},
+	{
+		"no": 662,
+		"code": "U+1F428",
+		"emoji": "🐨",
+		"description": "KOALA",
+		"flagged": false,
+		"keywords": ["bear", "koala"]
+	},
+	{
+		"no": 663,
+		"code": "U+1F43C",
+		"emoji": "🐼",
+		"description": "PANDA FACE",
+		"flagged": false,
+		"keywords": ["face", "panda"]
+	},
+	{
+		"no": 664,
+		"code": "U+1F43E",
+		"emoji": "🐾",
+		"description": "PAW PRINTS",
+		"flagged": false,
+		"keywords": ["feet", "paw", "print"]
+	},
+	{
+		"no": 665,
+		"code": "U+1F983",
+		"emoji": "🦃",
+		"description": "TURKEY",
+		"flagged": false,
+		"keywords": ["turkey"]
+	},
+	{
+		"no": 666,
+		"code": "U+1F414",
+		"emoji": "🐔",
+		"description": "CHICKEN",
+		"flagged": false,
+		"keywords": ["chicken"]
+	},
+	{
+		"no": 667,
+		"code": "U+1F413",
+		"emoji": "🐓",
+		"description": "ROOSTER",
+		"flagged": false,
+		"keywords": ["rooster"]
+	},
+	{
+		"no": 668,
+		"code": "U+1F423",
+		"emoji": "🐣",
+		"description": "HATCHING CHICK",
+		"flagged": false,
+		"keywords": ["baby", "chick", "hatching"]
+	},
+	{
+		"no": 669,
+		"code": "U+1F424",
+		"emoji": "🐤",
+		"description": "BABY CHICK",
+		"flagged": false,
+		"keywords": ["baby", "chick"]
+	},
+	{
+		"no": 670,
+		"code": "U+1F425",
+		"emoji": "🐥",
+		"description": "FRONT-FACING BABY CHICK",
+		"flagged": false,
+		"keywords": ["baby", "chick"]
+	},
+	{
+		"no": 671,
+		"code": "U+1F426",
+		"emoji": "🐦",
+		"description": "BIRD",
+		"flagged": false,
+		"keywords": ["bird"]
+	},
+	{
+		"no": 672,
+		"code": "U+1F427",
+		"emoji": "🐧",
+		"description": "PENGUIN",
+		"flagged": false,
+		"keywords": ["penguin"]
+	},
+	{
+		"no": 673,
+		"code": "U+1F54A",
+		"emoji": "🕊",
+		"description": "DOVE OF PEACE≊ dove",
+		"flagged": false,
+		"keywords": ["bird", "dove", "fly", "peace"]
+	},
+	{
+		"no": 674,
+		"code": "U+1F985",
+		"emoji": "🦅",
+		"description": "EAGLE",
+		"flagged": true,
+		"keywords": ["bird", "eagle"]
+	},
+	{
+		"no": 675,
+		"code": "U+1F986",
+		"emoji": "🦆",
+		"description": "DUCK",
+		"flagged": true,
+		"keywords": ["bird", "duck"]
+	},
+	{
+		"no": 676,
+		"code": "U+1F989",
+		"emoji": "🦉",
+		"description": "OWL",
+		"flagged": true,
+		"keywords": ["bird", "owl", "wise"]
+	},
+	{
+		"no": 677,
+		"code": "U+1F438",
+		"emoji": "🐸",
+		"description": "FROG FACE",
+		"flagged": false,
+		"keywords": ["face", "frog"]
+	},
+	{
+		"no": 678,
+		"code": "U+1F40A",
+		"emoji": "🐊",
+		"description": "CROCODILE",
+		"flagged": false,
+		"keywords": ["crocodile"]
+	},
+	{
+		"no": 679,
+		"code": "U+1F422",
+		"emoji": "🐢",
+		"description": "TURTLE",
+		"flagged": false,
+		"keywords": ["turtle"]
+	},
+	{
+		"no": 680,
+		"code": "U+1F98E",
+		"emoji": "🦎",
+		"description": "LIZARD",
+		"flagged": true,
+		"keywords": ["lizard", "reptile"]
+	},
+	{
+		"no": 681,
+		"code": "U+1F40D",
+		"emoji": "🐍",
+		"description": "SNAKE",
+		"flagged": false,
+		"keywords": ["bearer", "ophiuchus", "serpent", "snake", "zodiac"]
+	},
+	{
+		"no": 682,
+		"code": "U+1F432",
+		"emoji": "🐲",
+		"description": "DRAGON FACE",
+		"flagged": false,
+		"keywords": ["dragon", "face", "fairy tale"]
+	},
+	{
+		"no": 683,
+		"code": "U+1F409",
+		"emoji": "🐉",
+		"description": "DRAGON",
+		"flagged": false,
+		"keywords": ["dragon", "fairy tale"]
+	},
+	{
+		"no": 684,
+		"code": "U+1F433",
+		"emoji": "🐳",
+		"description": "SPOUTING WHALE",
+		"flagged": false,
+		"keywords": ["face", "spouting", "whale"]
+	},
+	{
+		"no": 685,
+		"code": "U+1F40B",
+		"emoji": "🐋",
+		"description": "WHALE",
+		"flagged": false,
+		"keywords": ["whale"]
+	},
+	{
+		"no": 686,
+		"code": "U+1F42C",
+		"emoji": "🐬",
+		"description": "DOLPHIN",
+		"flagged": false,
+		"keywords": ["dolphin", "flipper"]
+	},
+	{
+		"no": 687,
+		"code": "U+1F41F",
+		"emoji": "🐟",
+		"description": "FISH",
+		"flagged": false,
+		"keywords": ["fish", "pisces", "zodiac"]
+	},
+	{
+		"no": 688,
+		"code": "U+1F420",
+		"emoji": "🐠",
+		"description": "TROPICAL FISH",
+		"flagged": false,
+		"keywords": ["fish", "tropical"]
+	},
+	{
+		"no": 689,
+		"code": "U+1F421",
+		"emoji": "🐡",
+		"description": "BLOWFISH",
+		"flagged": false,
+		"keywords": ["blowfish", "fish"]
+	},
+	{
+		"no": 690,
+		"code": "U+1F988",
+		"emoji": "🦈",
+		"description": "SHARK",
+		"flagged": true,
+		"keywords": ["fish", "shark"]
+	},
+	{
+		"no": 691,
+		"code": "U+1F419",
+		"emoji": "🐙",
+		"description": "OCTOPUS",
+		"flagged": false,
+		"keywords": ["octopus"]
+	},
+	{
+		"no": 692,
+		"code": "U+1F41A",
+		"emoji": "🐚",
+		"description": "SPIRAL SHELL",
+		"flagged": false,
+		"keywords": ["shell", "spiral"]
+	},
+	{
+		"no": 693,
+		"code": "U+1F980",
+		"emoji": "🦀",
+		"description": "CRAB",
+		"flagged": false,
+		"keywords": ["cancer", "crab", "zodiac"]
+	},
+	{
+		"no": 694,
+		"code": "U+1F990",
+		"emoji": "🦐",
+		"description": "SHRIMP",
+		"flagged": true,
+		"keywords": ["shellfish", "shrimp", "small"]
+	},
+	{
+		"no": 695,
+		"code": "U+1F991",
+		"emoji": "🦑",
+		"description": "SQUID",
+		"flagged": true,
+		"keywords": ["molusc", "squid"]
+	},
+	{
+		"no": 696,
+		"code": "U+1F98B",
+		"emoji": "🦋",
+		"description": "BUTTERFLY",
+		"flagged": true,
+		"keywords": ["butterfly", "insect", "pretty"]
+	},
+	{
+		"no": 697,
+		"code": "U+1F40C",
+		"emoji": "🐌",
+		"description": "SNAIL",
+		"flagged": false,
+		"keywords": ["snail"]
+	},
+	{
+		"no": 698,
+		"code": "U+1F41B",
+		"emoji": "🐛",
+		"description": "BUG",
+		"flagged": false,
+		"keywords": ["bug", "insect"]
+	},
+	{
+		"no": 699,
+		"code": "U+1F41C",
+		"emoji": "🐜",
+		"description": "ANT",
+		"flagged": false,
+		"keywords": ["ant", "insect"]
+	},
+	{
+		"no": 700,
+		"code": "U+1F41D",
+		"emoji": "🐝",
+		"description": "HONEYBEE",
+		"flagged": false,
+		"keywords": ["bee", "honeybee", "insect"]
+	},
+	{
+		"no": 701,
+		"code": "U+1F41E",
+		"emoji": "🐞",
+		"description": "LADY BEETLE",
+		"flagged": false,
+		"keywords": ["beetle", "insect", "lady beetle", "ladybird", "ladybug"]
+	},
+	{
+		"no": 702,
+		"code": "U+1F577",
+		"emoji": "🕷",
+		"description": "SPIDER",
+		"flagged": false,
+		"keywords": ["insect", "spider"]
+	},
+	{
+		"no": 703,
+		"code": "U+1F578",
+		"emoji": "🕸",
+		"description": "SPIDER WEB",
+		"flagged": false,
+		"keywords": ["spider", "web"]
+	},
+	{
+		"no": 704,
+		"code": "U+1F982",
+		"emoji": "🦂",
+		"description": "SCORPION",
+		"flagged": false,
+		"keywords": ["scorpio", "scorpion", "scorpius", "zodiac"]
+	},
+	{
+		"no": 705,
+		"code": "U+1F490",
+		"emoji": "💐",
+		"description": "BOUQUET",
+		"flagged": false,
+		"keywords": ["bouquet", "flower", "plant", "romance"]
+	},
+	{
+		"no": 706,
+		"code": "U+1F338",
+		"emoji": "🌸",
+		"description": "CHERRY BLOSSOM",
+		"flagged": false,
+		"keywords": ["blossom", "cherry", "flower", "plant"]
+	},
+	{
+		"no": 707,
+		"code": "U+1F4AE",
+		"emoji": "💮",
+		"description": "WHITE FLOWER",
+		"flagged": false,
+		"keywords": ["flower"]
+	},
+	{
+		"no": 708,
+		"code": "U+1F3F5",
+		"emoji": "🏵",
+		"description": "ROSETTE",
+		"flagged": false,
+		"keywords": ["plant", "rosette"]
+	},
+	{
+		"no": 709,
+		"code": "U+1F339",
+		"emoji": "🌹",
+		"description": "ROSE",
+		"flagged": false,
+		"keywords": ["flower", "plant", "rose"]
+	},
+	{
+		"no": 710,
+		"code": "U+1F940",
+		"emoji": "🥀",
+		"description": "WILTED FLOWER",
+		"flagged": true,
+		"keywords": ["flower", "wilted"]
+	},
+	{
+		"no": 711,
+		"code": "U+1F33A",
+		"emoji": "🌺",
+		"description": "HIBISCUS",
+		"flagged": false,
+		"keywords": ["flower", "hibiscus", "plant"]
+	},
+	{
+		"no": 712,
+		"code": "U+1F33B",
+		"emoji": "🌻",
+		"description": "SUNFLOWER",
+		"flagged": false,
+		"keywords": ["flower", "plant", "sun", "sunflower"]
+	},
+	{
+		"no": 713,
+		"code": "U+1F33C",
+		"emoji": "🌼",
+		"description": "BLOSSOM",
+		"flagged": false,
+		"keywords": ["blossom", "flower", "plant"]
+	},
+	{
+		"no": 714,
+		"code": "U+1F337",
+		"emoji": "🌷",
+		"description": "TULIP",
+		"flagged": false,
+		"keywords": ["flower", "plant", "tulip"]
+	},
+	{
+		"no": 715,
+		"code": "U+1F331",
+		"emoji": "🌱",
+		"description": "SEEDLING",
+		"flagged": false,
+		"keywords": ["plant", "seedling", "young"]
+	},
+	{
+		"no": 716,
+		"code": "U+1F332",
+		"emoji": "🌲",
+		"description": "EVERGREEN TREE≊ evergreen",
+		"flagged": false,
+		"keywords": ["evergreen", "plant", "tree"]
+	},
+	{
+		"no": 717,
+		"code": "U+1F333",
+		"emoji": "🌳",
+		"description": "DECIDUOUS TREE",
+		"flagged": false,
+		"keywords": ["deciduous", "plant", "shedding", "tree"]
+	},
+	{
+		"no": 718,
+		"code": "U+1F334",
+		"emoji": "🌴",
+		"description": "PALM TREE",
+		"flagged": false,
+		"keywords": ["palm", "plant", "tree"]
+	},
+	{
+		"no": 719,
+		"code": "U+1F335",
+		"emoji": "🌵",
+		"description": "CACTUS",
+		"flagged": false,
+		"keywords": ["cactus", "plant"]
+	},
+	{
+		"no": 720,
+		"code": "U+1F33E",
+		"emoji": "🌾",
+		"description": "EAR OF RICE≊ sheaf of rice",
+		"flagged": false,
+		"keywords": ["ear", "plant", "rice"]
+	},
+	{
+		"no": 721,
+		"code": "U+1F33F",
+		"emoji": "🌿",
+		"description": "HERB",
+		"flagged": false,
+		"keywords": ["herb", "leaf", "plant"]
+	},
+	{
+		"no": 722,
+		"code": "U+2618",
+		"emoji": "☘",
+		"description": "SHAMROCK",
+		"flagged": false,
+		"keywords": ["plant", "shamrock"]
+	},
+	{
+		"no": 723,
+		"code": "U+1F340",
+		"emoji": "🍀",
+		"description": "FOUR LEAF CLOVER",
+		"flagged": false,
+		"keywords": ["4", "clover", "four", "leaf", "plant"]
+	},
+	{
+		"no": 724,
+		"code": "U+1F341",
+		"emoji": "🍁",
+		"description": "MAPLE LEAF",
+		"flagged": false,
+		"keywords": ["falling", "leaf", "maple", "plant"]
+	},
+	{
+		"no": 725,
+		"code": "U+1F342",
+		"emoji": "🍂",
+		"description": "FALLEN LEAF",
+		"flagged": false,
+		"keywords": ["falling", "leaf", "plant"]
+	},
+	{
+		"no": 726,
+		"code": "U+1F343",
+		"emoji": "🍃",
+		"description": "LEAF FLUTTERING IN WIND",
+		"flagged": false,
+		"keywords": ["blow", "flutter", "leaf", "plant", "wind"]
+	},
+	{
+		"no": 727,
+		"code": "U+1F347",
+		"emoji": "🍇",
+		"description": "GRAPES",
+		"flagged": false,
+		"keywords": ["fruit", "grape", "plant"]
+	},
+	{
+		"no": 728,
+		"code": "U+1F348",
+		"emoji": "🍈",
+		"description": "MELON",
+		"flagged": false,
+		"keywords": ["fruit", "melon", "plant"]
+	},
+	{
+		"no": 729,
+		"code": "U+1F349",
+		"emoji": "🍉",
+		"description": "WATERMELON",
+		"flagged": false,
+		"keywords": ["fruit", "plant", "watermelon"]
+	},
+	{
+		"no": 730,
+		"code": "U+1F34A",
+		"emoji": "🍊",
+		"description": "TANGERINE",
+		"flagged": false,
+		"keywords": ["fruit", "orange", "plant", "tangerine"]
+	},
+	{
+		"no": 731,
+		"code": "U+1F34B",
+		"emoji": "🍋",
+		"description": "LEMON",
+		"flagged": false,
+		"keywords": ["citrus", "fruit", "lemon", "plant"]
+	},
+	{
+		"no": 732,
+		"code": "U+1F34C",
+		"emoji": "🍌",
+		"description": "BANANA",
+		"flagged": false,
+		"keywords": ["banana", "fruit", "plant"]
+	},
+	{
+		"no": 733,
+		"code": "U+1F34D",
+		"emoji": "🍍",
+		"description": "PINEAPPLE",
+		"flagged": false,
+		"keywords": ["fruit", "pineapple", "plant"]
+	},
+	{
+		"no": 734,
+		"code": "U+1F34E",
+		"emoji": "🍎",
+		"description": "RED APPLE",
+		"flagged": false,
+		"keywords": ["apple", "fruit", "plant", "red"]
+	},
+	{
+		"no": 735,
+		"code": "U+1F34F",
+		"emoji": "🍏",
+		"description": "GREEN APPLE",
+		"flagged": false,
+		"keywords": ["apple", "fruit", "green", "plant"]
+	},
+	{
+		"no": 736,
+		"code": "U+1F350",
+		"emoji": "🍐",
+		"description": "PEAR",
+		"flagged": false,
+		"keywords": ["fruit", "pear", "plant"]
+	},
+	{
+		"no": 737,
+		"code": "U+1F351",
+		"emoji": "🍑",
+		"description": "PEACH",
+		"flagged": false,
+		"keywords": ["fruit", "peach", "plant"]
+	},
+	{
+		"no": 738,
+		"code": "U+1F352",
+		"emoji": "🍒",
+		"description": "CHERRIES",
+		"flagged": false,
+		"keywords": ["cherry", "fruit", "plant"]
+	},
+	{
+		"no": 739,
+		"code": "U+1F353",
+		"emoji": "🍓",
+		"description": "STRAWBERRY",
+		"flagged": false,
+		"keywords": ["berry", "fruit", "plant", "strawberry"]
+	},
+	{
+		"no": 740,
+		"code": "U+1F345",
+		"emoji": "🍅",
+		"description": "TOMATO",
+		"flagged": false,
+		"keywords": ["plant", "tomato", "vegetable"]
+	},
+	{
+		"no": 741,
+		"code": "U+1F95D",
+		"emoji": "🥝",
+		"description": "KIWIFRUIT",
+		"flagged": true,
+		"keywords": ["fruit", "kiwi"]
+	},
+	{
+		"no": 742,
+		"code": "U+1F951",
+		"emoji": "🥑",
+		"description": "AVOCADO",
+		"flagged": true,
+		"keywords": ["avocado", "fruit"]
+	},
+	{
+		"no": 743,
+		"code": "U+1F346",
+		"emoji": "🍆",
+		"description": "AUBERGINE≊ eggplant",
+		"flagged": false,
+		"keywords": ["aubergine", "eggplant", "plant", "vegetable"]
+	},
+	{
+		"no": 744,
+		"code": "U+1F954",
+		"emoji": "🥔",
+		"description": "POTATO",
+		"flagged": true,
+		"keywords": ["potato", "vegetable"]
+	},
+	{
+		"no": 745,
+		"code": "U+1F955",
+		"emoji": "🥕",
+		"description": "CARROT",
+		"flagged": true,
+		"keywords": ["carrot", "vegetable"]
+	},
+	{
+		"no": 746,
+		"code": "U+1F33D",
+		"emoji": "🌽",
+		"description": "EAR OF MAIZE≊ ear of corn",
+		"flagged": false,
+		"keywords": ["corn", "ear", "maize", "maze", "plant"]
+	},
+	{
+		"no": 747,
+		"code": "U+1F336",
+		"emoji": "🌶",
+		"description": "HOT PEPPER",
+		"flagged": false,
+		"keywords": ["hot", "pepper", "plant"]
+	},
+	{
+		"no": 748,
+		"code": "U+1F952",
+		"emoji": "🥒",
+		"description": "CUCUMBER",
+		"flagged": true,
+		"keywords": ["cucumber", "pickle", "vegetable"]
+	},
+	{
+		"no": 749,
+		"code": "U+1F344",
+		"emoji": "🍄",
+		"description": "MUSHROOM",
+		"flagged": false,
+		"keywords": ["mushroom", "plant"]
+	},
+	{
+		"no": 750,
+		"code": "U+1F95C",
+		"emoji": "🥜",
+		"description": "PEANUTS",
+		"flagged": false,
+		"keywords": ["nut", "peanut", "vegetable"]
+	},
+	{
+		"no": 751,
+		"code": "U+1F330",
+		"emoji": "🌰",
+		"description": "CHESTNUT",
+		"flagged": false,
+		"keywords": ["chestnut", "plant"]
+	},
+	{
+		"no": 752,
+		"code": "U+1F35E",
+		"emoji": "🍞",
+		"description": "BREAD",
+		"flagged": false,
+		"keywords": ["bread", "loaf"]
+	},
+	{
+		"no": 753,
+		"code": "U+1F950",
+		"emoji": "🥐",
+		"description": "CROISSANT",
+		"flagged": true,
+		"keywords": ["bread", "crescent roll", "croissant", "french"]
+	},
+	{
+		"no": 754,
+		"code": "U+1F956",
+		"emoji": "🥖",
+		"description": "BAGUETTE BREAD",
+		"flagged": true,
+		"keywords": ["baguette", "bread", "french"]
+	},
+	{
+		"no": 755,
+		"code": "U+1F95E",
+		"emoji": "🥞",
+		"description": "PANCAKES",
+		"flagged": true,
+		"keywords": ["crêpe", "hotcake", "pancake"]
+	},
+	{
+		"no": 756,
+		"code": "U+1F9C0",
+		"emoji": "🧀",
+		"description": "CHEESE WEDGE",
+		"flagged": false,
+		"keywords": ["cheese"]
+	},
+	{
+		"no": 757,
+		"code": "U+1F356",
+		"emoji": "🍖",
+		"description": "MEAT ON BONE",
+		"flagged": false,
+		"keywords": ["bone", "meat"]
+	},
+	{
+		"no": 758,
+		"code": "U+1F357",
+		"emoji": "🍗",
+		"description": "POULTRY LEG",
+		"flagged": false,
+		"keywords": ["bone", "chicken", "leg", "poultry"]
+	},
+	{
+		"no": 759,
+		"code": "U+1F953",
+		"emoji": "🥓",
+		"description": "BACON",
+		"flagged": true,
+		"keywords": ["bacon", "meat"]
+	},
+	{
+		"no": 760,
+		"code": "U+1F354",
+		"emoji": "🍔",
+		"description": "HAMBURGER",
+		"flagged": false,
+		"keywords": ["burger", "hamburger"]
+	},
+	{
+		"no": 761,
+		"code": "U+1F35F",
+		"emoji": "🍟",
+		"description": "FRENCH FRIES",
+		"flagged": false,
+		"keywords": ["french", "fries"]
+	},
+	{
+		"no": 762,
+		"code": "U+1F355",
+		"emoji": "🍕",
+		"description": "SLICE OF PIZZA≊ pizza",
+		"flagged": false,
+		"keywords": ["cheese", "pizza", "slice"]
+	},
+	{
+		"no": 763,
+		"code": "U+1F32D",
+		"emoji": "🌭",
+		"description": "HOT DOG",
+		"flagged": false,
+		"keywords": ["frankfurter", "hot dog", "hotdog", "sausage"]
+	},
+	{
+		"no": 764,
+		"code": "U+1F32E",
+		"emoji": "🌮",
+		"description": "TACO",
+		"flagged": false,
+		"keywords": ["mexican", "taco"]
+	},
+	{
+		"no": 765,
+		"code": "U+1F32F",
+		"emoji": "🌯",
+		"description": "BURRITO",
+		"flagged": false,
+		"keywords": ["burrito", "mexican"]
+	},
+	{
+		"no": 766,
+		"code": "U+1F959",
+		"emoji": "🥙",
+		"description": "STUFFED FLATBREAD",
+		"flagged": true,
+		"keywords": ["falafel", "flatbread", "gyro", "kebab", "stuffed"]
+	},
+	{
+		"no": 767,
+		"code": "U+1F95A",
+		"emoji": "🥚",
+		"description": "EGG",
+		"flagged": true,
+		"keywords": ["egg"]
+	},
+	{
+		"no": 768,
+		"code": "U+1F373",
+		"emoji": "🍳",
+		"description": "COOKING",
+		"flagged": false,
+		"keywords": ["cooking", "egg", "frying", "pan"]
+	},
+	{
+		"no": 769,
+		"code": "U+1F958",
+		"emoji": "🥘",
+		"description": "SHALLOW PAN OF FOOD",
+		"flagged": true,
+		"keywords": ["casserole", "paella", "pan", "shallow"]
+	},
+	{
+		"no": 770,
+		"code": "U+1F372",
+		"emoji": "🍲",
+		"description": "POT OF FOOD",
+		"flagged": false,
+		"keywords": ["pot", "stew"]
+	},
+	{
+		"no": 771,
+		"code": "U+1F957",
+		"emoji": "🥗",
+		"description": "GREEN SALAD",
+		"flagged": true,
+		"keywords": ["green", "salad"]
+	},
+	{
+		"no": 772,
+		"code": "U+1F37F",
+		"emoji": "🍿",
+		"description": "POPCORN",
+		"flagged": false,
+		"keywords": ["popcorn"]
+	},
+	{
+		"no": 773,
+		"code": "U+1F371",
+		"emoji": "🍱",
+		"description": "BENTO BOX",
+		"flagged": false,
+		"keywords": ["bento", "box"]
+	},
+	{
+		"no": 774,
+		"code": "U+1F358",
+		"emoji": "🍘",
+		"description": "RICE CRACKER",
+		"flagged": false,
+		"keywords": ["cracker", "rice"]
+	},
+	{
+		"no": 775,
+		"code": "U+1F359",
+		"emoji": "🍙",
+		"description": "RICE BALL",
+		"flagged": false,
+		"keywords": ["ball", "japanese", "rice"]
+	},
+	{
+		"no": 776,
+		"code": "U+1F35A",
+		"emoji": "🍚",
+		"description": "COOKED RICE",
+		"flagged": false,
+		"keywords": ["cooked", "rice"]
+	},
+	{
+		"no": 777,
+		"code": "U+1F35B",
+		"emoji": "🍛",
+		"description": "CURRY AND RICE≊ curry rice",
+		"flagged": false,
+		"keywords": ["curry", "rice"]
+	},
+	{
+		"no": 778,
+		"code": "U+1F35C",
+		"emoji": "🍜",
+		"description": "STEAMING BOWL",
+		"flagged": false,
+		"keywords": ["bowl", "noodle", "ramen", "steaming"]
+	},
+	{
+		"no": 779,
+		"code": "U+1F35D",
+		"emoji": "🍝",
+		"description": "SPAGHETTI",
+		"flagged": false,
+		"keywords": ["pasta", "spaghetti"]
+	},
+	{
+		"no": 780,
+		"code": "U+1F360",
+		"emoji": "🍠",
+		"description": "ROASTED SWEET POTATO",
+		"flagged": false,
+		"keywords": ["potato", "roasted", "sweet"]
+	},
+	{
+		"no": 781,
+		"code": "U+1F362",
+		"emoji": "🍢",
+		"description": "ODEN",
+		"flagged": false,
+		"keywords": ["kebab", "oden", "seafood", "skewer", "stick"]
+	},
+	{
+		"no": 782,
+		"code": "U+1F363",
+		"emoji": "🍣",
+		"description": "SUSHI",
+		"flagged": false,
+		"keywords": ["sushi"]
+	},
+	{
+		"no": 783,
+		"code": "U+1F364",
+		"emoji": "🍤",
+		"description": "FRIED SHRIMP",
+		"flagged": false,
+		"keywords": ["fried", "prawn", "shrimp", "tempura"]
+	},
+	{
+		"no": 784,
+		"code": "U+1F365",
+		"emoji": "🍥",
+		"description": "FISH CAKE WITH SWIRL DESIGN≊ fish cake with swirl",
+		"flagged": false,
+		"keywords": ["cake", "fish", "pastry", "swirl"]
+	},
+	{
+		"no": 785,
+		"code": "U+1F361",
+		"emoji": "🍡",
+		"description": "DANGO",
+		"flagged": false,
+		"keywords": ["dango", "dessert", "japanese", "skewer", "stick", "sweet"]
+	},
+	{
+		"no": 786,
+		"code": "U+1F366",
+		"emoji": "🍦",
+		"description": "SOFT ICE CREAM",
+		"flagged": false,
+		"keywords": ["cream", "dessert", "ice", "icecream", "soft", "sweet"]
+	},
+	{
+		"no": 787,
+		"code": "U+1F367",
+		"emoji": "🍧",
+		"description": "SHAVED ICE",
+		"flagged": false,
+		"keywords": ["dessert", "ice", "shaved", "sweet"]
+	},
+	{
+		"no": 788,
+		"code": "U+1F368",
+		"emoji": "🍨",
+		"description": "ICE CREAM",
+		"flagged": false,
+		"keywords": ["cream", "dessert", "ice", "sweet"]
+	},
+	{
+		"no": 789,
+		"code": "U+1F369",
+		"emoji": "🍩",
+		"description": "DOUGHNUT",
+		"flagged": false,
+		"keywords": ["dessert", "donut", "doughnut", "sweet"]
+	},
+	{
+		"no": 790,
+		"code": "U+1F36A",
+		"emoji": "🍪",
+		"description": "COOKIE",
+		"flagged": false,
+		"keywords": ["cookie", "dessert", "sweet"]
+	},
+	{
+		"no": 791,
+		"code": "U+1F382",
+		"emoji": "🎂",
+		"description": "BIRTHDAY CAKE",
+		"flagged": false,
+		"keywords": [
+			"birthday",
+			"cake",
+			"celebration",
+			"dessert",
+			"pastry",
+			"sweet"
+		]
+	},
+	{
+		"no": 792,
+		"code": "U+1F370",
+		"emoji": "🍰",
+		"description": "SHORTCAKE",
+		"flagged": false,
+		"keywords": ["cake", "dessert", "pastry", "shortcake", "slice", "sweet"]
+	},
+	{
+		"no": 793,
+		"code": "U+1F36B",
+		"emoji": "🍫",
+		"description": "CHOCOLATE BAR",
+		"flagged": false,
+		"keywords": ["bar", "chocolate", "dessert", "sweet"]
+	},
+	{
+		"no": 794,
+		"code": "U+1F36C",
+		"emoji": "🍬",
+		"description": "CANDY",
+		"flagged": false,
+		"keywords": ["candy", "dessert", "sweet"]
+	},
+	{
+		"no": 795,
+		"code": "U+1F36D",
+		"emoji": "🍭",
+		"description": "LOLLIPOP",
+		"flagged": false,
+		"keywords": ["candy", "dessert", "lollipop", "sweet"]
+	},
+	{
+		"no": 796,
+		"code": "U+1F36E",
+		"emoji": "🍮",
+		"description": "CUSTARD",
+		"flagged": false,
+		"keywords": ["custard", "dessert", "pudding", "sweet"]
+	},
+	{
+		"no": 797,
+		"code": "U+1F36F",
+		"emoji": "🍯",
+		"description": "HONEY POT",
+		"flagged": false,
+		"keywords": ["honey", "honeypot", "pot", "sweet"]
+	},
+	{
+		"no": 798,
+		"code": "U+1F37C",
+		"emoji": "🍼",
+		"description": "BABY BOTTLE",
+		"flagged": false,
+		"keywords": ["baby", "bottle", "drink", "milk"]
+	},
+	{
+		"no": 799,
+		"code": "U+1F95B",
+		"emoji": "🥛",
+		"description": "GLASS OF MILK",
+		"flagged": true,
+		"keywords": ["drink", "glass", "milk"]
+	},
+	{
+		"no": 800,
+		"code": "U+2615",
+		"emoji": "☕",
+		"description": "HOT BEVERAGE",
+		"flagged": false,
+		"keywords": ["beverage", "coffee", "drink", "hot", "steaming", "tea"]
+	},
+	{
+		"no": 801,
+		"code": "U+1F375",
+		"emoji": "🍵",
+		"description": "TEACUP WITHOUT HANDLE",
+		"flagged": false,
+		"keywords": ["beverage", "cup", "drink", "tea", "teacup"]
+	},
+	{
+		"no": 802,
+		"code": "U+1F376",
+		"emoji": "🍶",
+		"description": "SAKE BOTTLE AND CUP≊ sake",
+		"flagged": false,
+		"keywords": ["bar", "beverage", "bottle", "cup", "drink", "sake"]
+	},
+	{
+		"no": 803,
+		"code": "U+1F37E",
+		"emoji": "🍾",
+		"description": "BOTTLE WITH POPPING CORK",
+		"flagged": false,
+		"keywords": ["bar", "bottle", "cork", "drink", "popping"]
+	},
+	{
+		"no": 804,
+		"code": "U+1F377",
+		"emoji": "🍷",
+		"description": "WINE GLASS",
+		"flagged": false,
+		"keywords": ["bar", "beverage", "drink", "glass", "wine"]
+	},
+	{
+		"no": 805,
+		"code": "U+1F378",
+		"emoji": "🍸",
+		"description": "COCKTAIL GLASS",
+		"flagged": false,
+		"keywords": ["bar", "cocktail", "drink", "glass"]
+	},
+	{
+		"no": 806,
+		"code": "U+1F379",
+		"emoji": "🍹",
+		"description": "TROPICAL DRINK",
+		"flagged": false,
+		"keywords": ["bar", "drink", "tropical"]
+	},
+	{
+		"no": 807,
+		"code": "U+1F37A",
+		"emoji": "🍺",
+		"description": "BEER MUG",
+		"flagged": false,
+		"keywords": ["bar", "beer", "drink", "mug"]
+	},
+	{
+		"no": 808,
+		"code": "U+1F37B",
+		"emoji": "🍻",
+		"description": "CLINKING BEER MUGS",
+		"flagged": false,
+		"keywords": ["bar", "beer", "clink", "drink", "mug"]
+	},
+	{
+		"no": 809,
+		"code": "U+1F942",
+		"emoji": "🥂",
+		"description": "CLINKING GLASSES",
+		"flagged": true,
+		"keywords": ["celebrate", "clink", "drink", "glass"]
+	},
+	{
+		"no": 810,
+		"code": "U+1F943",
+		"emoji": "🥃",
+		"description": "TUMBLER GLASS",
+		"flagged": true,
+		"keywords": ["glass", "liquor", "shot", "tumbler", "whisky"]
+	},
+	{
+		"no": 811,
+		"code": "U+1F37D",
+		"emoji": "🍽",
+		"description": "FORK AND KNIFE WITH PLATE",
+		"flagged": false,
+		"keywords": ["cooking", "fork", "knife", "plate"]
+	},
+	{
+		"no": 812,
+		"code": "U+1F374",
+		"emoji": "🍴",
+		"description": "FORK AND KNIFE",
+		"flagged": false,
+		"keywords": ["cooking", "fork", "knife"]
+	},
+	{
+		"no": 813,
+		"code": "U+1F944",
+		"emoji": "🥄",
+		"description": "SPOON",
+		"flagged": true,
+		"keywords": ["spoon", "tableware"]
+	},
+	{
+		"no": 814,
+		"code": "U+1F52A",
+		"emoji": "🔪",
+		"description": "HOCHO≊ kitchen knife",
+		"flagged": false,
+		"keywords": ["cooking", "hocho", "knife", "tool", "weapon"]
+	},
+	{
+		"no": 815,
+		"code": "U+1F3FA",
+		"emoji": "🏺",
+		"description": "AMPHORA",
+		"flagged": false,
+		"keywords": [
+			"amphora",
+			"aquarius",
+			"cooking",
+			"drink",
+			"jug",
+			"tool",
+			"weapon",
+			"zodiac"
+		]
+	}
+]

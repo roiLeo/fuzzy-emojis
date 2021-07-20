@@ -1,0 +1,2183 @@
+[
+	{
+		"no": 1530,
+		"code": "U+1F3C1",
+		"emoji": "🏁",
+		"description": "CHEQUERED FLAG",
+		"flagged": false,
+		"keywords": ["checkered", "chequered", "flag", "racing"]
+	},
+	{
+		"no": 1531,
+		"code": "U+1F6A9",
+		"emoji": "🚩",
+		"description": "TRIANGULAR FLAG ON POST≊ triangular flag",
+		"flagged": false,
+		"keywords": ["flag", "post"]
+	},
+	{
+		"no": 1532,
+		"code": "U+1F38C",
+		"emoji": "🎌",
+		"description": "CROSSED FLAGS",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"celebration",
+			"cross",
+			"crossed",
+			"flag",
+			"japanese"
+		]
+	},
+	{
+		"no": 1533,
+		"code": "U+1F3F4",
+		"emoji": "🏴",
+		"description": "WAVING BLACK FLAG",
+		"flagged": false,
+		"keywords": ["flag", "waving"]
+	},
+	{
+		"no": 1534,
+		"code": "U+1F3F3",
+		"emoji": "🏳",
+		"description": "WAVING WHITE FLAG",
+		"flagged": false,
+		"keywords": ["flag", "waving"]
+	},
+	{
+		"no": 1535,
+		"code": "U+1F1E6 U+1F1E8",
+		"emoji": "🇦🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["ascension", "flag", "island"]
+	},
+	{
+		"no": 1536,
+		"code": "U+1F1E6 U+1F1E9",
+		"emoji": "🇦🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["andorra", "flag"]
+	},
+	{
+		"no": 1537,
+		"code": "U+1F1E6 U+1F1EA",
+		"emoji": "🇦🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["emirates", "flag", "uae", "united"]
+	},
+	{
+		"no": 1538,
+		"code": "U+1F1E6 U+1F1EB",
+		"emoji": "🇦🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["afghanistan", "flag"]
+	},
+	{
+		"no": 1539,
+		"code": "U+1F1E6 U+1F1EC",
+		"emoji": "🇦🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["antigua", "barbuda", "flag"]
+	},
+	{
+		"no": 1540,
+		"code": "U+1F1E6 U+1F1EE",
+		"emoji": "🇦🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["anguilla", "flag"]
+	},
+	{
+		"no": 1541,
+		"code": "U+1F1E6 U+1F1F1",
+		"emoji": "🇦🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["albania", "flag"]
+	},
+	{
+		"no": 1542,
+		"code": "U+1F1E6 U+1F1F2",
+		"emoji": "🇦🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["armenia", "flag"]
+	},
+	{
+		"no": 1543,
+		"code": "U+1F1E6 U+1F1F4",
+		"emoji": "🇦🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["angola", "flag"]
+	},
+	{
+		"no": 1544,
+		"code": "U+1F1E6 U+1F1F6",
+		"emoji": "🇦🇶",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Q",
+		"flagged": false,
+		"keywords": ["antarctica", "flag"]
+	},
+	{
+		"no": 1545,
+		"code": "U+1F1E6 U+1F1F7",
+		"emoji": "🇦🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["argentina", "flag"]
+	},
+	{
+		"no": 1546,
+		"code": "U+1F1E6 U+1F1F8",
+		"emoji": "🇦🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["american", "flag", "samoa"]
+	},
+	{
+		"no": 1547,
+		"code": "U+1F1E6 U+1F1F9",
+		"emoji": "🇦🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["austria", "flag"]
+	},
+	{
+		"no": 1548,
+		"code": "U+1F1E6 U+1F1FA",
+		"emoji": "🇦🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["australia", "flag"]
+	},
+	{
+		"no": 1549,
+		"code": "U+1F1E6 U+1F1FC",
+		"emoji": "🇦🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["aruba", "flag"]
+	},
+	{
+		"no": 1550,
+		"code": "U+1F1E6 U+1F1FD",
+		"emoji": "🇦🇽",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER X",
+		"flagged": false,
+		"keywords": ["åland", "flag"]
+	},
+	{
+		"no": 1551,
+		"code": "U+1F1E6 U+1F1FF",
+		"emoji": "🇦🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER A, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["azerbaijan", "flag"]
+	},
+	{
+		"no": 1552,
+		"code": "U+1F1E7 U+1F1E6",
+		"emoji": "🇧🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["bosnia", "flag", "herzegovina"]
+	},
+	{
+		"no": 1553,
+		"code": "U+1F1E7 U+1F1E7",
+		"emoji": "🇧🇧",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER B",
+		"flagged": false,
+		"keywords": ["barbados", "flag"]
+	},
+	{
+		"no": 1554,
+		"code": "U+1F1E7 U+1F1E9",
+		"emoji": "🇧🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["bangladesh", "flag"]
+	},
+	{
+		"no": 1555,
+		"code": "U+1F1E7 U+1F1EA",
+		"emoji": "🇧🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["belgium", "flag"]
+	},
+	{
+		"no": 1556,
+		"code": "U+1F1E7 U+1F1EB",
+		"emoji": "🇧🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["burkina faso", "flag"]
+	},
+	{
+		"no": 1557,
+		"code": "U+1F1E7 U+1F1EC",
+		"emoji": "🇧🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["bulgaria", "flag"]
+	},
+	{
+		"no": 1558,
+		"code": "U+1F1E7 U+1F1ED",
+		"emoji": "🇧🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["bahrain", "flag"]
+	},
+	{
+		"no": 1559,
+		"code": "U+1F1E7 U+1F1EE",
+		"emoji": "🇧🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["burundi", "flag"]
+	},
+	{
+		"no": 1560,
+		"code": "U+1F1E7 U+1F1EF",
+		"emoji": "🇧🇯",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER J",
+		"flagged": false,
+		"keywords": ["benin", "flag"]
+	},
+	{
+		"no": 1561,
+		"code": "U+1F1E7 U+1F1F1",
+		"emoji": "🇧🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["barthelemy", "barthélemy", "flag", "saint"]
+	},
+	{
+		"no": 1562,
+		"code": "U+1F1E7 U+1F1F2",
+		"emoji": "🇧🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["bermuda", "flag"]
+	},
+	{
+		"no": 1563,
+		"code": "U+1F1E7 U+1F1F3",
+		"emoji": "🇧🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["brunei", "darussalam", "flag"]
+	},
+	{
+		"no": 1564,
+		"code": "U+1F1E7 U+1F1F4",
+		"emoji": "🇧🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["bolivia", "flag"]
+	},
+	{
+		"no": 1565,
+		"code": "U+1F1E7 U+1F1F6",
+		"emoji": "🇧🇶",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Q",
+		"flagged": false,
+		"keywords": [
+			"bonaire",
+			"caribbean",
+			"eustatius",
+			"flag",
+			"netherlands",
+			"saba",
+			"sint"
+		]
+	},
+	{
+		"no": 1566,
+		"code": "U+1F1E7 U+1F1F7",
+		"emoji": "🇧🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["brazil", "flag"]
+	},
+	{
+		"no": 1567,
+		"code": "U+1F1E7 U+1F1F8",
+		"emoji": "🇧🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["bahamas", "flag"]
+	},
+	{
+		"no": 1568,
+		"code": "U+1F1E7 U+1F1F9",
+		"emoji": "🇧🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["bhutan", "flag"]
+	},
+	{
+		"no": 1569,
+		"code": "U+1F1E7 U+1F1FB",
+		"emoji": "🇧🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["bouvet", "flag", "island"]
+	},
+	{
+		"no": 1570,
+		"code": "U+1F1E7 U+1F1FC",
+		"emoji": "🇧🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["botswana", "flag"]
+	},
+	{
+		"no": 1571,
+		"code": "U+1F1E7 U+1F1FE",
+		"emoji": "🇧🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["belarus", "flag"]
+	},
+	{
+		"no": 1572,
+		"code": "U+1F1E7 U+1F1FF",
+		"emoji": "🇧🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER B, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["belize", "flag"]
+	},
+	{
+		"no": 1573,
+		"code": "U+1F1E8 U+1F1E6",
+		"emoji": "🇨🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["canada", "flag"]
+	},
+	{
+		"no": 1574,
+		"code": "U+1F1E8 U+1F1E8",
+		"emoji": "🇨🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["cocos", "flag", "island", "keeling"]
+	},
+	{
+		"no": 1575,
+		"code": "U+1F1E8 U+1F1E9",
+		"emoji": "🇨🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": [
+			"congo",
+			"congo-kinshasa",
+			"democratic republic of congo",
+			"drc",
+			"flag",
+			"kinshasa",
+			"republic"
+		]
+	},
+	{
+		"no": 1576,
+		"code": "U+1F1E8 U+1F1EB",
+		"emoji": "🇨🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["central african republic", "flag", "republic"]
+	},
+	{
+		"no": 1577,
+		"code": "U+1F1E8 U+1F1EC",
+		"emoji": "🇨🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": [
+			"brazzaville",
+			"congo",
+			"congo republic",
+			"congo-brazzaville",
+			"flag",
+			"republic",
+			"republic of the congo"
+		]
+	},
+	{
+		"no": 1578,
+		"code": "U+1F1E8 U+1F1ED",
+		"emoji": "🇨🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "switzerland"]
+	},
+	{
+		"no": 1579,
+		"code": "U+1F1E8 U+1F1EE",
+		"emoji": "🇨🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["cote ivoire", "côte ivoire", "flag", "ivory coast"]
+	},
+	{
+		"no": 1580,
+		"code": "U+1F1E8 U+1F1F0",
+		"emoji": "🇨🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["cook", "flag", "island"]
+	},
+	{
+		"no": 1581,
+		"code": "U+1F1E8 U+1F1F1",
+		"emoji": "🇨🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["chile", "flag"]
+	},
+	{
+		"no": 1582,
+		"code": "U+1F1E8 U+1F1F2",
+		"emoji": "🇨🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["cameroon", "flag"]
+	},
+	{
+		"no": 1583,
+		"code": "U+1F1E8 U+1F1F3",
+		"emoji": "🇨🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["china", "flag"]
+	},
+	{
+		"no": 1584,
+		"code": "U+1F1E8 U+1F1F4",
+		"emoji": "🇨🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["colombia", "flag"]
+	},
+	{
+		"no": 1585,
+		"code": "U+1F1E8 U+1F1F5",
+		"emoji": "🇨🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["clipperton", "flag", "island"]
+	},
+	{
+		"no": 1586,
+		"code": "U+1F1E8 U+1F1F7",
+		"emoji": "🇨🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["costa rica", "flag"]
+	},
+	{
+		"no": 1587,
+		"code": "U+1F1E8 U+1F1FA",
+		"emoji": "🇨🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["cuba", "flag"]
+	},
+	{
+		"no": 1588,
+		"code": "U+1F1E8 U+1F1FB",
+		"emoji": "🇨🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["cabo", "cape", "flag", "verde"]
+	},
+	{
+		"no": 1589,
+		"code": "U+1F1E8 U+1F1FC",
+		"emoji": "🇨🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["antilles", "curacao", "curaçao", "flag"]
+	},
+	{
+		"no": 1590,
+		"code": "U+1F1E8 U+1F1FD",
+		"emoji": "🇨🇽",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER X",
+		"flagged": false,
+		"keywords": ["christmas", "flag", "island"]
+	},
+	{
+		"no": 1591,
+		"code": "U+1F1E8 U+1F1FE",
+		"emoji": "🇨🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["cyprus", "flag"]
+	},
+	{
+		"no": 1592,
+		"code": "U+1F1E8 U+1F1FF",
+		"emoji": "🇨🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER C, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["czech republic", "flag"]
+	},
+	{
+		"no": 1593,
+		"code": "U+1F1E9 U+1F1EA",
+		"emoji": "🇩🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "germany"]
+	},
+	{
+		"no": 1594,
+		"code": "U+1F1E9 U+1F1EC",
+		"emoji": "🇩🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["diego garcia", "flag"]
+	},
+	{
+		"no": 1595,
+		"code": "U+1F1E9 U+1F1EF",
+		"emoji": "🇩🇯",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER J",
+		"flagged": false,
+		"keywords": ["djibouti", "flag"]
+	},
+	{
+		"no": 1596,
+		"code": "U+1F1E9 U+1F1F0",
+		"emoji": "🇩🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["denmark", "flag"]
+	},
+	{
+		"no": 1597,
+		"code": "U+1F1E9 U+1F1F2",
+		"emoji": "🇩🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["dominica", "flag"]
+	},
+	{
+		"no": 1598,
+		"code": "U+1F1E9 U+1F1F4",
+		"emoji": "🇩🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["dominican republic", "flag"]
+	},
+	{
+		"no": 1599,
+		"code": "U+1F1E9 U+1F1FF",
+		"emoji": "🇩🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER D, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["algeria", "flag"]
+	},
+	{
+		"no": 1600,
+		"code": "U+1F1EA U+1F1E6",
+		"emoji": "🇪🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["ceuta", "flag", "melilla"]
+	},
+	{
+		"no": 1601,
+		"code": "U+1F1EA U+1F1E8",
+		"emoji": "🇪🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["ecuador", "flag"]
+	},
+	{
+		"no": 1602,
+		"code": "U+1F1EA U+1F1EA",
+		"emoji": "🇪🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["estonia", "flag"]
+	},
+	{
+		"no": 1603,
+		"code": "U+1F1EA U+1F1EC",
+		"emoji": "🇪🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["egypt", "flag"]
+	},
+	{
+		"no": 1604,
+		"code": "U+1F1EA U+1F1ED",
+		"emoji": "🇪🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "sahara", "west", "western sahara"]
+	},
+	{
+		"no": 1605,
+		"code": "U+1F1EA U+1F1F7",
+		"emoji": "🇪🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["eritrea", "flag"]
+	},
+	{
+		"no": 1606,
+		"code": "U+1F1EA U+1F1F8",
+		"emoji": "🇪🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "spain"]
+	},
+	{
+		"no": 1607,
+		"code": "U+1F1EA U+1F1F9",
+		"emoji": "🇪🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["ethiopia", "flag"]
+	},
+	{
+		"no": 1608,
+		"code": "U+1F1EA U+1F1FA",
+		"emoji": "🇪🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER E, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["european union", "flag"]
+	},
+	{
+		"no": 1609,
+		"code": "U+1F1EB U+1F1EE",
+		"emoji": "🇫🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["finland", "flag"]
+	},
+	{
+		"no": 1610,
+		"code": "U+1F1EB U+1F1EF",
+		"emoji": "🇫🇯",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER J",
+		"flagged": false,
+		"keywords": ["fiji", "flag"]
+	},
+	{
+		"no": 1611,
+		"code": "U+1F1EB U+1F1F0",
+		"emoji": "🇫🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": [
+			"falkland",
+			"falklands",
+			"flag",
+			"island",
+			"islas",
+			"malvinas"
+		]
+	},
+	{
+		"no": 1612,
+		"code": "U+1F1EB U+1F1F2",
+		"emoji": "🇫🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "micronesia"]
+	},
+	{
+		"no": 1613,
+		"code": "U+1F1EB U+1F1F4",
+		"emoji": "🇫🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["faroe", "flag", "island"]
+	},
+	{
+		"no": 1614,
+		"code": "U+1F1EB U+1F1F7",
+		"emoji": "🇫🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER F, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "france"]
+	},
+	{
+		"no": 1615,
+		"code": "U+1F1EC U+1F1E6",
+		"emoji": "🇬🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "gabon"]
+	},
+	{
+		"no": 1616,
+		"code": "U+1F1EC U+1F1E7",
+		"emoji": "🇬🇧",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER B",
+		"flagged": false,
+		"keywords": [
+			"britain",
+			"british",
+			"cornwall",
+			"england",
+			"flag",
+			"great britain",
+			"ireland",
+			"northern ireland",
+			"scotland",
+			"uk",
+			"union jack",
+			"united",
+			"united kingdom",
+			"wales"
+		]
+	},
+	{
+		"no": 1617,
+		"code": "U+1F1EC U+1F1E9",
+		"emoji": "🇬🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["flag", "grenada"]
+	},
+	{
+		"no": 1618,
+		"code": "U+1F1EC U+1F1EA",
+		"emoji": "🇬🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "georgia"]
+	},
+	{
+		"no": 1619,
+		"code": "U+1F1EC U+1F1EB",
+		"emoji": "🇬🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["flag", "french", "guiana"]
+	},
+	{
+		"no": 1620,
+		"code": "U+1F1EC U+1F1EC",
+		"emoji": "🇬🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "guernsey"]
+	},
+	{
+		"no": 1621,
+		"code": "U+1F1EC U+1F1ED",
+		"emoji": "🇬🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "ghana"]
+	},
+	{
+		"no": 1622,
+		"code": "U+1F1EC U+1F1EE",
+		"emoji": "🇬🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["flag", "gibraltar"]
+	},
+	{
+		"no": 1623,
+		"code": "U+1F1EC U+1F1F1",
+		"emoji": "🇬🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "greenland"]
+	},
+	{
+		"no": 1624,
+		"code": "U+1F1EC U+1F1F2",
+		"emoji": "🇬🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "gambia"]
+	},
+	{
+		"no": 1625,
+		"code": "U+1F1EC U+1F1F3",
+		"emoji": "🇬🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "guinea"]
+	},
+	{
+		"no": 1626,
+		"code": "U+1F1EC U+1F1F5",
+		"emoji": "🇬🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["flag", "guadeloupe"]
+	},
+	{
+		"no": 1627,
+		"code": "U+1F1EC U+1F1F6",
+		"emoji": "🇬🇶",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Q",
+		"flagged": false,
+		"keywords": ["equatorial guinea", "flag", "guinea"]
+	},
+	{
+		"no": 1628,
+		"code": "U+1F1EC U+1F1F7",
+		"emoji": "🇬🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "greece"]
+	},
+	{
+		"no": 1629,
+		"code": "U+1F1EC U+1F1F8",
+		"emoji": "🇬🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": [
+			"flag",
+			"georgia",
+			"island",
+			"south",
+			"south georgia",
+			"south sandwich"
+		]
+	},
+	{
+		"no": 1630,
+		"code": "U+1F1EC U+1F1F9",
+		"emoji": "🇬🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "guatemala"]
+	},
+	{
+		"no": 1631,
+		"code": "U+1F1EC U+1F1FA",
+		"emoji": "🇬🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "guam"]
+	},
+	{
+		"no": 1632,
+		"code": "U+1F1EC U+1F1FC",
+		"emoji": "🇬🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["bissau", "flag", "guinea"]
+	},
+	{
+		"no": 1633,
+		"code": "U+1F1EC U+1F1FE",
+		"emoji": "🇬🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER G, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "guyana"]
+	},
+	{
+		"no": 1634,
+		"code": "U+1F1ED U+1F1F0",
+		"emoji": "🇭🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["china", "flag", "hong kong"]
+	},
+	{
+		"no": 1635,
+		"code": "U+1F1ED U+1F1F2",
+		"emoji": "🇭🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "heard", "island", "mcdonald"]
+	},
+	{
+		"no": 1636,
+		"code": "U+1F1ED U+1F1F3",
+		"emoji": "🇭🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "honduras"]
+	},
+	{
+		"no": 1637,
+		"code": "U+1F1ED U+1F1F7",
+		"emoji": "🇭🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["croatia", "flag"]
+	},
+	{
+		"no": 1638,
+		"code": "U+1F1ED U+1F1F9",
+		"emoji": "🇭🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "haiti"]
+	},
+	{
+		"no": 1639,
+		"code": "U+1F1ED U+1F1FA",
+		"emoji": "🇭🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER H, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "hungary"]
+	},
+	{
+		"no": 1640,
+		"code": "U+1F1EE U+1F1E8",
+		"emoji": "🇮🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["canary", "flag", "island"]
+	},
+	{
+		"no": 1641,
+		"code": "U+1F1EE U+1F1E9",
+		"emoji": "🇮🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["flag", "indonesia"]
+	},
+	{
+		"no": 1642,
+		"code": "U+1F1EE U+1F1EA",
+		"emoji": "🇮🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "ireland"]
+	},
+	{
+		"no": 1643,
+		"code": "U+1F1EE U+1F1F1",
+		"emoji": "🇮🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "israel"]
+	},
+	{
+		"no": 1644,
+		"code": "U+1F1EE U+1F1F2",
+		"emoji": "🇮🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "isle of man"]
+	},
+	{
+		"no": 1645,
+		"code": "U+1F1EE U+1F1F3",
+		"emoji": "🇮🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "india"]
+	},
+	{
+		"no": 1646,
+		"code": "U+1F1EE U+1F1F4",
+		"emoji": "🇮🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["british", "chagos", "flag", "indian ocean", "island"]
+	},
+	{
+		"no": 1647,
+		"code": "U+1F1EE U+1F1F6",
+		"emoji": "🇮🇶",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER Q",
+		"flagged": false,
+		"keywords": ["flag", "iraq"]
+	},
+	{
+		"no": 1648,
+		"code": "U+1F1EE U+1F1F7",
+		"emoji": "🇮🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "iran"]
+	},
+	{
+		"no": 1649,
+		"code": "U+1F1EE U+1F1F8",
+		"emoji": "🇮🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "iceland"]
+	},
+	{
+		"no": 1650,
+		"code": "U+1F1EE U+1F1F9",
+		"emoji": "🇮🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER I, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "italy"]
+	},
+	{
+		"no": 1651,
+		"code": "U+1F1EF U+1F1EA",
+		"emoji": "🇯🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "jersey"]
+	},
+	{
+		"no": 1652,
+		"code": "U+1F1EF U+1F1F2",
+		"emoji": "🇯🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "jamaica"]
+	},
+	{
+		"no": 1653,
+		"code": "U+1F1EF U+1F1F4",
+		"emoji": "🇯🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["flag", "jordan"]
+	},
+	{
+		"no": 1654,
+		"code": "U+1F1EF U+1F1F5",
+		"emoji": "🇯🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER J, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["flag", "japan"]
+	},
+	{
+		"no": 1655,
+		"code": "U+1F1F0 U+1F1EA",
+		"emoji": "🇰🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "kenya"]
+	},
+	{
+		"no": 1656,
+		"code": "U+1F1F0 U+1F1EC",
+		"emoji": "🇰🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "kyrgyzstan"]
+	},
+	{
+		"no": 1657,
+		"code": "U+1F1F0 U+1F1ED",
+		"emoji": "🇰🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["cambodia", "flag"]
+	},
+	{
+		"no": 1658,
+		"code": "U+1F1F0 U+1F1EE",
+		"emoji": "🇰🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["flag", "kiribati"]
+	},
+	{
+		"no": 1659,
+		"code": "U+1F1F0 U+1F1F2",
+		"emoji": "🇰🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["comoros", "flag"]
+	},
+	{
+		"no": 1660,
+		"code": "U+1F1F0 U+1F1F3",
+		"emoji": "🇰🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "kitts", "nevis", "saint"]
+	},
+	{
+		"no": 1661,
+		"code": "U+1F1F0 U+1F1F5",
+		"emoji": "🇰🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["flag", "korea", "north", "north korea"]
+	},
+	{
+		"no": 1662,
+		"code": "U+1F1F0 U+1F1F7",
+		"emoji": "🇰🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "korea", "south", "south korea"]
+	},
+	{
+		"no": 1663,
+		"code": "U+1F1F0 U+1F1FC",
+		"emoji": "🇰🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["flag", "kuwait"]
+	},
+	{
+		"no": 1664,
+		"code": "U+1F1F0 U+1F1FE",
+		"emoji": "🇰🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["cayman", "flag", "island"]
+	},
+	{
+		"no": 1665,
+		"code": "U+1F1F0 U+1F1FF",
+		"emoji": "🇰🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER K, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "kazakhstan"]
+	},
+	{
+		"no": 1666,
+		"code": "U+1F1F1 U+1F1E6",
+		"emoji": "🇱🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "laos"]
+	},
+	{
+		"no": 1667,
+		"code": "U+1F1F1 U+1F1E7",
+		"emoji": "🇱🇧",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER B",
+		"flagged": false,
+		"keywords": ["flag", "lebanon"]
+	},
+	{
+		"no": 1668,
+		"code": "U+1F1F1 U+1F1E8",
+		"emoji": "🇱🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["flag", "lucia", "saint"]
+	},
+	{
+		"no": 1669,
+		"code": "U+1F1F1 U+1F1EE",
+		"emoji": "🇱🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["flag", "liechtenstein"]
+	},
+	{
+		"no": 1670,
+		"code": "U+1F1F1 U+1F1F0",
+		"emoji": "🇱🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "sri lanka"]
+	},
+	{
+		"no": 1671,
+		"code": "U+1F1F1 U+1F1F7",
+		"emoji": "🇱🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "liberia"]
+	},
+	{
+		"no": 1672,
+		"code": "U+1F1F1 U+1F1F8",
+		"emoji": "🇱🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "lesotho"]
+	},
+	{
+		"no": 1673,
+		"code": "U+1F1F1 U+1F1F9",
+		"emoji": "🇱🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "lithuania"]
+	},
+	{
+		"no": 1674,
+		"code": "U+1F1F1 U+1F1FA",
+		"emoji": "🇱🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "luxembourg"]
+	},
+	{
+		"no": 1675,
+		"code": "U+1F1F1 U+1F1FB",
+		"emoji": "🇱🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["flag", "latvia"]
+	},
+	{
+		"no": 1676,
+		"code": "U+1F1F1 U+1F1FE",
+		"emoji": "🇱🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER L, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "libya"]
+	},
+	{
+		"no": 1677,
+		"code": "U+1F1F2 U+1F1E6",
+		"emoji": "🇲🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "morocco"]
+	},
+	{
+		"no": 1678,
+		"code": "U+1F1F2 U+1F1E8",
+		"emoji": "🇲🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["flag", "monaco"]
+	},
+	{
+		"no": 1679,
+		"code": "U+1F1F2 U+1F1E9",
+		"emoji": "🇲🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["flag", "moldova"]
+	},
+	{
+		"no": 1680,
+		"code": "U+1F1F2 U+1F1EA",
+		"emoji": "🇲🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "montenegro"]
+	},
+	{
+		"no": 1681,
+		"code": "U+1F1F2 U+1F1EB",
+		"emoji": "🇲🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["flag", "french", "martin", "saint"]
+	},
+	{
+		"no": 1682,
+		"code": "U+1F1F2 U+1F1EC",
+		"emoji": "🇲🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "madagascar"]
+	},
+	{
+		"no": 1683,
+		"code": "U+1F1F2 U+1F1ED",
+		"emoji": "🇲🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "island", "marshall"]
+	},
+	{
+		"no": 1684,
+		"code": "U+1F1F2 U+1F1F0",
+		"emoji": "🇲🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "macedonia"]
+	},
+	{
+		"no": 1685,
+		"code": "U+1F1F2 U+1F1F1",
+		"emoji": "🇲🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "mali"]
+	},
+	{
+		"no": 1686,
+		"code": "U+1F1F2 U+1F1F2",
+		"emoji": "🇲🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["burma", "flag", "myanmar"]
+	},
+	{
+		"no": 1687,
+		"code": "U+1F1F2 U+1F1F3",
+		"emoji": "🇲🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "mongolia"]
+	},
+	{
+		"no": 1688,
+		"code": "U+1F1F2 U+1F1F4",
+		"emoji": "🇲🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["china", "flag", "macao", "macau"]
+	},
+	{
+		"no": 1689,
+		"code": "U+1F1F2 U+1F1F5",
+		"emoji": "🇲🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["flag", "island", "mariana", "north", "northern mariana"]
+	},
+	{
+		"no": 1690,
+		"code": "U+1F1F2 U+1F1F6",
+		"emoji": "🇲🇶",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Q",
+		"flagged": false,
+		"keywords": ["flag", "martinique"]
+	},
+	{
+		"no": 1691,
+		"code": "U+1F1F2 U+1F1F7",
+		"emoji": "🇲🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "mauritania"]
+	},
+	{
+		"no": 1692,
+		"code": "U+1F1F2 U+1F1F8",
+		"emoji": "🇲🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "montserrat"]
+	},
+	{
+		"no": 1693,
+		"code": "U+1F1F2 U+1F1F9",
+		"emoji": "🇲🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "malta"]
+	},
+	{
+		"no": 1694,
+		"code": "U+1F1F2 U+1F1FA",
+		"emoji": "🇲🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "mauritius"]
+	},
+	{
+		"no": 1695,
+		"code": "U+1F1F2 U+1F1FB",
+		"emoji": "🇲🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["flag", "maldives"]
+	},
+	{
+		"no": 1696,
+		"code": "U+1F1F2 U+1F1FC",
+		"emoji": "🇲🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["flag", "malawi"]
+	},
+	{
+		"no": 1697,
+		"code": "U+1F1F2 U+1F1FD",
+		"emoji": "🇲🇽",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER X",
+		"flagged": false,
+		"keywords": ["flag", "mexico"]
+	},
+	{
+		"no": 1698,
+		"code": "U+1F1F2 U+1F1FE",
+		"emoji": "🇲🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "malaysia"]
+	},
+	{
+		"no": 1699,
+		"code": "U+1F1F2 U+1F1FF",
+		"emoji": "🇲🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER M, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "mozambique"]
+	},
+	{
+		"no": 1700,
+		"code": "U+1F1F3 U+1F1E6",
+		"emoji": "🇳🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "namibia"]
+	},
+	{
+		"no": 1701,
+		"code": "U+1F1F3 U+1F1E8",
+		"emoji": "🇳🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["flag", "new", "new caledonia"]
+	},
+	{
+		"no": 1702,
+		"code": "U+1F1F3 U+1F1EA",
+		"emoji": "🇳🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "niger"]
+	},
+	{
+		"no": 1703,
+		"code": "U+1F1F3 U+1F1EB",
+		"emoji": "🇳🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["flag", "island", "norfolk"]
+	},
+	{
+		"no": 1704,
+		"code": "U+1F1F3 U+1F1EC",
+		"emoji": "🇳🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "nigeria"]
+	},
+	{
+		"no": 1705,
+		"code": "U+1F1F3 U+1F1EE",
+		"emoji": "🇳🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["flag", "nicaragua"]
+	},
+	{
+		"no": 1706,
+		"code": "U+1F1F3 U+1F1F1",
+		"emoji": "🇳🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "netherlands"]
+	},
+	{
+		"no": 1707,
+		"code": "U+1F1F3 U+1F1F4",
+		"emoji": "🇳🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["flag", "norway"]
+	},
+	{
+		"no": 1708,
+		"code": "U+1F1F3 U+1F1F5",
+		"emoji": "🇳🇵",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER P",
+		"flagged": false,
+		"keywords": ["flag", "nepal"]
+	},
+	{
+		"no": 1709,
+		"code": "U+1F1F3 U+1F1F7",
+		"emoji": "🇳🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "nauru"]
+	},
+	{
+		"no": 1710,
+		"code": "U+1F1F3 U+1F1FA",
+		"emoji": "🇳🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "niue"]
+	},
+	{
+		"no": 1711,
+		"code": "U+1F1F3 U+1F1FF",
+		"emoji": "🇳🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER N, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "new", "new zealand"]
+	},
+	{
+		"no": 1712,
+		"code": "U+1F1F4 U+1F1F2",
+		"emoji": "🇴🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER O, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "oman"]
+	},
+	{
+		"no": 1713,
+		"code": "U+1F1F5 U+1F1E6",
+		"emoji": "🇵🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "panama"]
+	},
+	{
+		"no": 1714,
+		"code": "U+1F1F5 U+1F1EA",
+		"emoji": "🇵🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "peru"]
+	},
+	{
+		"no": 1715,
+		"code": "U+1F1F5 U+1F1EB",
+		"emoji": "🇵🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["flag", "french", "polynesia"]
+	},
+	{
+		"no": 1716,
+		"code": "U+1F1F5 U+1F1EC",
+		"emoji": "🇵🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "guinea", "new", "papua new guinea"]
+	},
+	{
+		"no": 1717,
+		"code": "U+1F1F5 U+1F1ED",
+		"emoji": "🇵🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "philippines"]
+	},
+	{
+		"no": 1718,
+		"code": "U+1F1F5 U+1F1F0",
+		"emoji": "🇵🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "pakistan"]
+	},
+	{
+		"no": 1719,
+		"code": "U+1F1F5 U+1F1F1",
+		"emoji": "🇵🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "poland"]
+	},
+	{
+		"no": 1720,
+		"code": "U+1F1F5 U+1F1F2",
+		"emoji": "🇵🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "miquelon", "pierre", "saint"]
+	},
+	{
+		"no": 1721,
+		"code": "U+1F1F5 U+1F1F3",
+		"emoji": "🇵🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "island", "pitcairn"]
+	},
+	{
+		"no": 1722,
+		"code": "U+1F1F5 U+1F1F7",
+		"emoji": "🇵🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "puerto rico"]
+	},
+	{
+		"no": 1723,
+		"code": "U+1F1F5 U+1F1F8",
+		"emoji": "🇵🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "palestine"]
+	},
+	{
+		"no": 1724,
+		"code": "U+1F1F5 U+1F1F9",
+		"emoji": "🇵🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "portugal"]
+	},
+	{
+		"no": 1725,
+		"code": "U+1F1F5 U+1F1FC",
+		"emoji": "🇵🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["flag", "palau"]
+	},
+	{
+		"no": 1726,
+		"code": "U+1F1F5 U+1F1FE",
+		"emoji": "🇵🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER P, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "paraguay"]
+	},
+	{
+		"no": 1727,
+		"code": "U+1F1F6 U+1F1E6",
+		"emoji": "🇶🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Q, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "qatar"]
+	},
+	{
+		"no": 1728,
+		"code": "U+1F1F7 U+1F1EA",
+		"emoji": "🇷🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "reunion", "réunion"]
+	},
+	{
+		"no": 1729,
+		"code": "U+1F1F7 U+1F1F4",
+		"emoji": "🇷🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["flag", "romania"]
+	},
+	{
+		"no": 1730,
+		"code": "U+1F1F7 U+1F1F8",
+		"emoji": "🇷🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "serbia"]
+	},
+	{
+		"no": 1731,
+		"code": "U+1F1F7 U+1F1FA",
+		"emoji": "🇷🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "russia"]
+	},
+	{
+		"no": 1732,
+		"code": "U+1F1F7 U+1F1FC",
+		"emoji": "🇷🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER R, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["flag", "rwanda"]
+	},
+	{
+		"no": 1733,
+		"code": "U+1F1F8 U+1F1E6",
+		"emoji": "🇸🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "saudi arabia"]
+	},
+	{
+		"no": 1734,
+		"code": "U+1F1F8 U+1F1E7",
+		"emoji": "🇸🇧",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER B",
+		"flagged": false,
+		"keywords": ["flag", "island", "solomon"]
+	},
+	{
+		"no": 1735,
+		"code": "U+1F1F8 U+1F1E8",
+		"emoji": "🇸🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["flag", "seychelles"]
+	},
+	{
+		"no": 1736,
+		"code": "U+1F1F8 U+1F1E9",
+		"emoji": "🇸🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["flag", "sudan"]
+	},
+	{
+		"no": 1737,
+		"code": "U+1F1F8 U+1F1EA",
+		"emoji": "🇸🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "sweden"]
+	},
+	{
+		"no": 1738,
+		"code": "U+1F1F8 U+1F1EC",
+		"emoji": "🇸🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "singapore"]
+	},
+	{
+		"no": 1739,
+		"code": "U+1F1F8 U+1F1ED",
+		"emoji": "🇸🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "helena", "saint"]
+	},
+	{
+		"no": 1740,
+		"code": "U+1F1F8 U+1F1EE",
+		"emoji": "🇸🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": ["flag", "slovenia"]
+	},
+	{
+		"no": 1741,
+		"code": "U+1F1F8 U+1F1EF",
+		"emoji": "🇸🇯",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER J",
+		"flagged": false,
+		"keywords": ["flag", "jan mayen", "svalbard"]
+	},
+	{
+		"no": 1742,
+		"code": "U+1F1F8 U+1F1F0",
+		"emoji": "🇸🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "slovakia"]
+	},
+	{
+		"no": 1743,
+		"code": "U+1F1F8 U+1F1F1",
+		"emoji": "🇸🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["flag", "sierra leone"]
+	},
+	{
+		"no": 1744,
+		"code": "U+1F1F8 U+1F1F2",
+		"emoji": "🇸🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "san marino"]
+	},
+	{
+		"no": 1745,
+		"code": "U+1F1F8 U+1F1F3",
+		"emoji": "🇸🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "senegal"]
+	},
+	{
+		"no": 1746,
+		"code": "U+1F1F8 U+1F1F4",
+		"emoji": "🇸🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["flag", "somalia"]
+	},
+	{
+		"no": 1747,
+		"code": "U+1F1F8 U+1F1F7",
+		"emoji": "🇸🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "suriname"]
+	},
+	{
+		"no": 1748,
+		"code": "U+1F1F8 U+1F1F8",
+		"emoji": "🇸🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "south", "south sudan", "sudan"]
+	},
+	{
+		"no": 1749,
+		"code": "U+1F1F8 U+1F1F9",
+		"emoji": "🇸🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "principe", "príncipe", "sao tome", "são tomé"]
+	},
+	{
+		"no": 1750,
+		"code": "U+1F1F8 U+1F1FB",
+		"emoji": "🇸🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["el salvador", "flag"]
+	},
+	{
+		"no": 1751,
+		"code": "U+1F1F8 U+1F1FD",
+		"emoji": "🇸🇽",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER X",
+		"flagged": false,
+		"keywords": ["flag", "maarten", "sint"]
+	},
+	{
+		"no": 1752,
+		"code": "U+1F1F8 U+1F1FE",
+		"emoji": "🇸🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "syria"]
+	},
+	{
+		"no": 1753,
+		"code": "U+1F1F8 U+1F1FF",
+		"emoji": "🇸🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER S, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "swaziland"]
+	},
+	{
+		"no": 1754,
+		"code": "U+1F1F9 U+1F1E6",
+		"emoji": "🇹🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "tristan da cunha"]
+	},
+	{
+		"no": 1755,
+		"code": "U+1F1F9 U+1F1E8",
+		"emoji": "🇹🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["caicos", "flag", "island", "turks"]
+	},
+	{
+		"no": 1756,
+		"code": "U+1F1F9 U+1F1E9",
+		"emoji": "🇹🇩",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER D",
+		"flagged": false,
+		"keywords": ["chad", "flag"]
+	},
+	{
+		"no": 1757,
+		"code": "U+1F1F9 U+1F1EB",
+		"emoji": "🇹🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["antarctic", "flag", "french"]
+	},
+	{
+		"no": 1758,
+		"code": "U+1F1F9 U+1F1EC",
+		"emoji": "🇹🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "togo"]
+	},
+	{
+		"no": 1759,
+		"code": "U+1F1F9 U+1F1ED",
+		"emoji": "🇹🇭",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER H",
+		"flagged": false,
+		"keywords": ["flag", "thailand"]
+	},
+	{
+		"no": 1760,
+		"code": "U+1F1F9 U+1F1EF",
+		"emoji": "🇹🇯",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER J",
+		"flagged": false,
+		"keywords": ["flag", "tajikistan"]
+	},
+	{
+		"no": 1761,
+		"code": "U+1F1F9 U+1F1F0",
+		"emoji": "🇹🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "tokelau"]
+	},
+	{
+		"no": 1762,
+		"code": "U+1F1F9 U+1F1F1",
+		"emoji": "🇹🇱",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER L",
+		"flagged": false,
+		"keywords": ["east", "east timor", "flag", "timor-leste"]
+	},
+	{
+		"no": 1763,
+		"code": "U+1F1F9 U+1F1F2",
+		"emoji": "🇹🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "turkmenistan"]
+	},
+	{
+		"no": 1764,
+		"code": "U+1F1F9 U+1F1F3",
+		"emoji": "🇹🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "tunisia"]
+	},
+	{
+		"no": 1765,
+		"code": "U+1F1F9 U+1F1F4",
+		"emoji": "🇹🇴",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER O",
+		"flagged": false,
+		"keywords": ["flag", "tonga"]
+	},
+	{
+		"no": 1766,
+		"code": "U+1F1F9 U+1F1F7",
+		"emoji": "🇹🇷",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER R",
+		"flagged": false,
+		"keywords": ["flag", "turkey"]
+	},
+	{
+		"no": 1767,
+		"code": "U+1F1F9 U+1F1F9",
+		"emoji": "🇹🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "tobago", "trinidad"]
+	},
+	{
+		"no": 1768,
+		"code": "U+1F1F9 U+1F1FB",
+		"emoji": "🇹🇻",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER V",
+		"flagged": false,
+		"keywords": ["flag", "tuvalu"]
+	},
+	{
+		"no": 1769,
+		"code": "U+1F1F9 U+1F1FC",
+		"emoji": "🇹🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["china", "flag", "taiwan"]
+	},
+	{
+		"no": 1770,
+		"code": "U+1F1F9 U+1F1FF",
+		"emoji": "🇹🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER T, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "tanzania"]
+	},
+	{
+		"no": 1771,
+		"code": "U+1F1FA U+1F1E6",
+		"emoji": "🇺🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "ukraine"]
+	},
+	{
+		"no": 1772,
+		"code": "U+1F1FA U+1F1EC",
+		"emoji": "🇺🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["flag", "uganda"]
+	},
+	{
+		"no": 1773,
+		"code": "U+1F1FA U+1F1F2",
+		"emoji": "🇺🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": [
+			"america",
+			"flag",
+			"island",
+			"minor outlying",
+			"united",
+			"united states",
+			"us",
+			"usa"
+		]
+	},
+	{
+		"no": 1774,
+		"code": "U+1F1FA U+1F1F8",
+		"emoji": "🇺🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": [
+			"america",
+			"flag",
+			"stars and stripes",
+			"united",
+			"united states"
+		]
+	},
+	{
+		"no": 1775,
+		"code": "U+1F1FA U+1F1FE",
+		"emoji": "🇺🇾",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Y",
+		"flagged": false,
+		"keywords": ["flag", "uruguay"]
+	},
+	{
+		"no": 1776,
+		"code": "U+1F1FA U+1F1FF",
+		"emoji": "🇺🇿",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER U, REGIONAL INDICATOR SYMBOL LETTER Z",
+		"flagged": false,
+		"keywords": ["flag", "uzbekistan"]
+	},
+	{
+		"no": 1777,
+		"code": "U+1F1FB U+1F1E6",
+		"emoji": "🇻🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "vatican"]
+	},
+	{
+		"no": 1778,
+		"code": "U+1F1FB U+1F1E8",
+		"emoji": "🇻🇨",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER C",
+		"flagged": false,
+		"keywords": ["flag", "grenadines", "saint", "vincent"]
+	},
+	{
+		"no": 1779,
+		"code": "U+1F1FB U+1F1EA",
+		"emoji": "🇻🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "venezuela"]
+	},
+	{
+		"no": 1780,
+		"code": "U+1F1FB U+1F1EC",
+		"emoji": "🇻🇬",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER G",
+		"flagged": false,
+		"keywords": ["british", "flag", "island", "virgin"]
+	},
+	{
+		"no": 1781,
+		"code": "U+1F1FB U+1F1EE",
+		"emoji": "🇻🇮",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER I",
+		"flagged": false,
+		"keywords": [
+			"america",
+			"american",
+			"flag",
+			"island",
+			"united",
+			"united states",
+			"us",
+			"usa",
+			"virgin"
+		]
+	},
+	{
+		"no": 1782,
+		"code": "U+1F1FB U+1F1F3",
+		"emoji": "🇻🇳",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER N",
+		"flagged": false,
+		"keywords": ["flag", "viet nam", "vietnam"]
+	},
+	{
+		"no": 1783,
+		"code": "U+1F1FB U+1F1FA",
+		"emoji": "🇻🇺",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER V, REGIONAL INDICATOR SYMBOL LETTER U",
+		"flagged": false,
+		"keywords": ["flag", "vanuatu"]
+	},
+	{
+		"no": 1784,
+		"code": "U+1F1FC U+1F1EB",
+		"emoji": "🇼🇫",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER F",
+		"flagged": false,
+		"keywords": ["flag", "futuna", "wallis"]
+	},
+	{
+		"no": 1785,
+		"code": "U+1F1FC U+1F1F8",
+		"emoji": "🇼🇸",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER W, REGIONAL INDICATOR SYMBOL LETTER S",
+		"flagged": false,
+		"keywords": ["flag", "samoa"]
+	},
+	{
+		"no": 1786,
+		"code": "U+1F1FD U+1F1F0",
+		"emoji": "🇽🇰",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER X, REGIONAL INDICATOR SYMBOL LETTER K",
+		"flagged": false,
+		"keywords": ["flag", "kosovo"]
+	},
+	{
+		"no": 1787,
+		"code": "U+1F1FE U+1F1EA",
+		"emoji": "🇾🇪",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER E",
+		"flagged": false,
+		"keywords": ["flag", "yemen"]
+	},
+	{
+		"no": 1788,
+		"code": "U+1F1FE U+1F1F9",
+		"emoji": "🇾🇹",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Y, REGIONAL INDICATOR SYMBOL LETTER T",
+		"flagged": false,
+		"keywords": ["flag", "mayotte"]
+	},
+	{
+		"no": 1789,
+		"code": "U+1F1FF U+1F1E6",
+		"emoji": "🇿🇦",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER A",
+		"flagged": false,
+		"keywords": ["flag", "south", "south africa"]
+	},
+	{
+		"no": 1790,
+		"code": "U+1F1FF U+1F1F2",
+		"emoji": "🇿🇲",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER M",
+		"flagged": false,
+		"keywords": ["flag", "zambia"]
+	},
+	{
+		"no": 1791,
+		"code": "U+1F1FF U+1F1FC",
+		"emoji": "🇿🇼",
+		"description": "REGIONAL INDICATOR SYMBOL LETTER Z, REGIONAL INDICATOR SYMBOL LETTER W",
+		"flagged": false,
+		"keywords": ["flag", "zimbabwe"]
+	}
+]

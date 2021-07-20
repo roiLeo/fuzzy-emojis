@@ -1,0 +1,1708 @@
+[
+	{
+		"no": 1328,
+		"code": "U+1F3E7",
+		"emoji": "🏧",
+		"description": "AUTOMATED TELLER MACHINE≊ ATM sign",
+		"flagged": false,
+		"keywords": ["atm", "automated", "bank", "teller"]
+	},
+	{
+		"no": 1329,
+		"code": "U+1F6AE",
+		"emoji": "🚮",
+		"description": "PUT LITTER IN ITS PLACE SYMBOL≊ litter in bin sign",
+		"flagged": false,
+		"keywords": ["litter", "litterbox"]
+	},
+	{
+		"no": 1330,
+		"code": "U+1F6B0",
+		"emoji": "🚰",
+		"description": "POTABLE WATER SYMBOL≊ potable water",
+		"flagged": false,
+		"keywords": ["drink", "potable", "water"]
+	},
+	{
+		"no": 1331,
+		"code": "U+267F",
+		"emoji": "♿",
+		"description": "WHEELCHAIR SYMBOL≊ wheelchair",
+		"flagged": false,
+		"keywords": ["access", "wheelchair"]
+	},
+	{
+		"no": 1332,
+		"code": "U+1F6B9",
+		"emoji": "🚹",
+		"description": "MENS SYMBOL≊ men’s room",
+		"flagged": false,
+		"keywords": ["lavatory", "man", "restroom", "wc"]
+	},
+	{
+		"no": 1333,
+		"code": "U+1F6BA",
+		"emoji": "🚺",
+		"description": "WOMENS SYMBOL≊ women’s room",
+		"flagged": false,
+		"keywords": ["lavatory", "restroom", "wc", "woman"]
+	},
+	{
+		"no": 1334,
+		"code": "U+1F6BB",
+		"emoji": "🚻",
+		"description": "RESTROOM",
+		"flagged": false,
+		"keywords": ["lavatory", "restroom", "wc"]
+	},
+	{
+		"no": 1335,
+		"code": "U+1F6BC",
+		"emoji": "🚼",
+		"description": "BABY SYMBOL",
+		"flagged": false,
+		"keywords": ["baby", "changing"]
+	},
+	{
+		"no": 1336,
+		"code": "U+1F6BE",
+		"emoji": "🚾",
+		"description": "WATER CLOSET",
+		"flagged": false,
+		"keywords": ["closet", "lavatory", "restroom", "water", "wc"]
+	},
+	{
+		"no": 1337,
+		"code": "U+1F6C2",
+		"emoji": "🛂",
+		"description": "PASSPORT CONTROL",
+		"flagged": false,
+		"keywords": ["control", "passport"]
+	},
+	{
+		"no": 1338,
+		"code": "U+1F6C3",
+		"emoji": "🛃",
+		"description": "CUSTOMS",
+		"flagged": false,
+		"keywords": ["customs"]
+	},
+	{
+		"no": 1339,
+		"code": "U+1F6C4",
+		"emoji": "🛄",
+		"description": "BAGGAGE CLAIM",
+		"flagged": false,
+		"keywords": ["baggage", "claim"]
+	},
+	{
+		"no": 1340,
+		"code": "U+1F6C5",
+		"emoji": "🛅",
+		"description": "LEFT LUGGAGE",
+		"flagged": false,
+		"keywords": ["baggage", "left luggage", "locker", "luggage"]
+	},
+	{
+		"no": 1341,
+		"code": "U+26A0",
+		"emoji": "⚠",
+		"description": "WARNING SIGN≊ warning",
+		"flagged": false,
+		"keywords": ["warning"]
+	},
+	{
+		"no": 1342,
+		"code": "U+1F6B8",
+		"emoji": "🚸",
+		"description": "CHILDREN CROSSING",
+		"flagged": false,
+		"keywords": ["child", "crossing", "pedestrian", "traffic"]
+	},
+	{
+		"no": 1343,
+		"code": "U+26D4",
+		"emoji": "⛔",
+		"description": "NO ENTRY",
+		"flagged": false,
+		"keywords": ["entry", "forbidden", "no", "not", "prohibited", "traffic"]
+	},
+	{
+		"no": 1344,
+		"code": "U+1F6AB",
+		"emoji": "🚫",
+		"description": "NO ENTRY SIGN≊ prohibited",
+		"flagged": false,
+		"keywords": ["entry", "forbidden", "no", "not", "prohibited"]
+	},
+	{
+		"no": 1345,
+		"code": "U+1F6B3",
+		"emoji": "🚳",
+		"description": "NO BICYCLES",
+		"flagged": false,
+		"keywords": [
+			"bicycle",
+			"bike",
+			"forbidden",
+			"no",
+			"not",
+			"prohibited",
+			"vehicle"
+		]
+	},
+	{
+		"no": 1346,
+		"code": "U+1F6AD",
+		"emoji": "🚭",
+		"description": "NO SMOKING SYMBOL≊ no smoking",
+		"flagged": false,
+		"keywords": ["forbidden", "no", "not", "prohibited", "smoking"]
+	},
+	{
+		"no": 1347,
+		"code": "U+1F6AF",
+		"emoji": "🚯",
+		"description": "DO NOT LITTER SYMBOL≊ no littering",
+		"flagged": false,
+		"keywords": ["forbidden", "litter", "no", "not", "prohibited"]
+	},
+	{
+		"no": 1348,
+		"code": "U+1F6B1",
+		"emoji": "🚱",
+		"description": "NON-POTABLE WATER SYMBOL≊ non-potable water",
+		"flagged": false,
+		"keywords": [
+			"drink",
+			"forbidden",
+			"no",
+			"not",
+			"potable",
+			"prohibited",
+			"water"
+		]
+	},
+	{
+		"no": 1349,
+		"code": "U+1F6B7",
+		"emoji": "🚷",
+		"description": "NO PEDESTRIANS",
+		"flagged": false,
+		"keywords": ["forbidden", "no", "not", "pedestrian", "prohibited"]
+	},
+	{
+		"no": 1350,
+		"code": "U+1F4F5",
+		"emoji": "📵",
+		"description": "NO MOBILE PHONES",
+		"flagged": false,
+		"keywords": [
+			"cell",
+			"communication",
+			"forbidden",
+			"mobile",
+			"no",
+			"not",
+			"phone",
+			"prohibited",
+			"telephone"
+		]
+	},
+	{
+		"no": 1351,
+		"code": "U+1F51E",
+		"emoji": "🔞",
+		"description": "NO ONE UNDER EIGHTEEN SYMBOL≊ no one under eighteen",
+		"flagged": false,
+		"keywords": [
+			"18",
+			"age restriction",
+			"eighteen",
+			"forbidden",
+			"no",
+			"not",
+			"prohibited",
+			"underage"
+		]
+	},
+	{
+		"no": 1352,
+		"code": "U+2622",
+		"emoji": "☢",
+		"description": "RADIOACTIVE SIGN≊ radioactive",
+		"flagged": false,
+		"keywords": ["radioactive"]
+	},
+	{
+		"no": 1353,
+		"code": "U+2623",
+		"emoji": "☣",
+		"description": "BIOHAZARD SIGN≊ biohazard",
+		"flagged": false,
+		"keywords": ["biohazard"]
+	},
+	{
+		"no": 1354,
+		"code": "U+2B06",
+		"emoji": "⬆",
+		"description": "UPWARDS BLACK ARROW≊ up arrow",
+		"flagged": false,
+		"keywords": ["arrow", "cardinal", "direction", "north"]
+	},
+	{
+		"no": 1355,
+		"code": "U+2197",
+		"emoji": "↗",
+		"description": "NORTH EAST ARROW≊ up-right arrow",
+		"flagged": false,
+		"keywords": ["arrow", "direction", "intercardinal", "northeast"]
+	},
+	{
+		"no": 1356,
+		"code": "U+27A1",
+		"emoji": "➡",
+		"description": "BLACK RIGHTWARDS ARROW≊ right arrow",
+		"flagged": false,
+		"keywords": ["arrow", "cardinal", "direction", "east"]
+	},
+	{
+		"no": 1357,
+		"code": "U+2198",
+		"emoji": "↘",
+		"description": "SOUTH EAST ARROW≊ down-right arrow",
+		"flagged": false,
+		"keywords": ["arrow", "direction", "intercardinal", "southeast"]
+	},
+	{
+		"no": 1358,
+		"code": "U+2B07",
+		"emoji": "⬇",
+		"description": "DOWNWARDS BLACK ARROW≊ down arrow",
+		"flagged": false,
+		"keywords": ["arrow", "cardinal", "direction", "down", "south"]
+	},
+	{
+		"no": 1359,
+		"code": "U+2199",
+		"emoji": "↙",
+		"description": "SOUTH WEST ARROW≊ down-left arrow",
+		"flagged": false,
+		"keywords": ["arrow", "direction", "intercardinal", "southwest"]
+	},
+	{
+		"no": 1360,
+		"code": "U+2B05",
+		"emoji": "⬅",
+		"description": "LEFTWARDS BLACK ARROW≊ left arrow",
+		"flagged": false,
+		"keywords": ["arrow", "cardinal", "direction", "west"]
+	},
+	{
+		"no": 1361,
+		"code": "U+2196",
+		"emoji": "↖",
+		"description": "NORTH WEST ARROW≊ up-left arrow",
+		"flagged": false,
+		"keywords": ["arrow", "direction", "intercardinal", "northwest"]
+	},
+	{
+		"no": 1362,
+		"code": "U+2195",
+		"emoji": "↕",
+		"description": "UP DOWN ARROW≊ up-down arrow",
+		"flagged": false,
+		"keywords": ["arrow"]
+	},
+	{
+		"no": 1363,
+		"code": "U+2194",
+		"emoji": "↔",
+		"description": "LEFT RIGHT ARROW≊ left-right arrow",
+		"flagged": false,
+		"keywords": ["arrow"]
+	},
+	{
+		"no": 1364,
+		"code": "U+21A9",
+		"emoji": "↩",
+		"description": "LEFTWARDS ARROW WITH HOOK≊ right arrow curving left",
+		"flagged": false,
+		"keywords": ["arrow"]
+	},
+	{
+		"no": 1365,
+		"code": "U+21AA",
+		"emoji": "↪",
+		"description": "RIGHTWARDS ARROW WITH HOOK≊ left arrow curving right",
+		"flagged": false,
+		"keywords": ["arrow"]
+	},
+	{
+		"no": 1366,
+		"code": "U+2934",
+		"emoji": "⤴",
+		"description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS≊ right arrow curving up",
+		"flagged": false,
+		"keywords": ["arrow"]
+	},
+	{
+		"no": 1367,
+		"code": "U+2935",
+		"emoji": "⤵",
+		"description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS≊ right arrow curving down",
+		"flagged": false,
+		"keywords": ["arrow", "down"]
+	},
+	{
+		"no": 1368,
+		"code": "U+1F503",
+		"emoji": "🔃",
+		"description": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS≊ clockwise vertical arrows",
+		"flagged": false,
+		"keywords": ["arrow", "clockwise", "reload"]
+	},
+	{
+		"no": 1369,
+		"code": "U+1F504",
+		"emoji": "🔄",
+		"description": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS≊ anticlockwise arrows button",
+		"flagged": false,
+		"keywords": [
+			"anticlockwise",
+			"arrow",
+			"counterclockwise",
+			"withershins"
+		]
+	},
+	{
+		"no": 1370,
+		"code": "U+1F519",
+		"emoji": "🔙",
+		"description": "BACK WITH LEFTWARDS ARROW ABOVE≊ back arrow",
+		"flagged": false,
+		"keywords": ["arrow", "back"]
+	},
+	{
+		"no": 1371,
+		"code": "U+1F51A",
+		"emoji": "🔚",
+		"description": "END WITH LEFTWARDS ARROW ABOVE≊ end arrow",
+		"flagged": false,
+		"keywords": ["arrow", "end"]
+	},
+	{
+		"no": 1372,
+		"code": "U+1F51B",
+		"emoji": "🔛",
+		"description": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE≊ on! arrow",
+		"flagged": false,
+		"keywords": ["arrow", "mark", "on"]
+	},
+	{
+		"no": 1373,
+		"code": "U+1F51C",
+		"emoji": "🔜",
+		"description": "SOON WITH RIGHTWARDS ARROW ABOVE≊ soon arrow",
+		"flagged": false,
+		"keywords": ["arrow", "soon"]
+	},
+	{
+		"no": 1374,
+		"code": "U+1F51D",
+		"emoji": "🔝",
+		"description": "TOP WITH UPWARDS ARROW ABOVE≊ top arrow",
+		"flagged": false,
+		"keywords": ["arrow", "top", "up"]
+	},
+	{
+		"no": 1375,
+		"code": "U+1F6D0",
+		"emoji": "🛐",
+		"description": "PLACE OF WORSHIP",
+		"flagged": false,
+		"keywords": ["religion", "worship"]
+	},
+	{
+		"no": 1376,
+		"code": "U+269B",
+		"emoji": "⚛",
+		"description": "ATOM SYMBOL",
+		"flagged": false,
+		"keywords": ["atheist", "atom"]
+	},
+	{
+		"no": 1377,
+		"code": "U+1F549",
+		"emoji": "🕉",
+		"description": "OM SYMBOL≊ om",
+		"flagged": false,
+		"keywords": ["hindu", "om", "religion"]
+	},
+	{
+		"no": 1378,
+		"code": "U+2721",
+		"emoji": "✡",
+		"description": "STAR OF DAVID",
+		"flagged": false,
+		"keywords": ["david", "jew", "jewish", "religion", "star"]
+	},
+	{
+		"no": 1379,
+		"code": "U+2638",
+		"emoji": "☸",
+		"description": "WHEEL OF DHARMA",
+		"flagged": false,
+		"keywords": ["buddhist", "dharma", "religion", "wheel"]
+	},
+	{
+		"no": 1380,
+		"code": "U+262F",
+		"emoji": "☯",
+		"description": "YIN YANG",
+		"flagged": false,
+		"keywords": ["religion", "tao", "taoist", "yang", "yin"]
+	},
+	{
+		"no": 1381,
+		"code": "U+271D",
+		"emoji": "✝",
+		"description": "LATIN CROSS",
+		"flagged": false,
+		"keywords": ["christian", "cross", "religion"]
+	},
+	{
+		"no": 1382,
+		"code": "U+2626",
+		"emoji": "☦",
+		"description": "ORTHODOX CROSS",
+		"flagged": false,
+		"keywords": ["christian", "cross", "religion"]
+	},
+	{
+		"no": 1383,
+		"code": "U+262A",
+		"emoji": "☪",
+		"description": "STAR AND CRESCENT",
+		"flagged": false,
+		"keywords": ["islam", "muslim", "religion"]
+	},
+	{
+		"no": 1384,
+		"code": "U+262E",
+		"emoji": "☮",
+		"description": "PEACE SYMBOL",
+		"flagged": false,
+		"keywords": ["peace"]
+	},
+	{
+		"no": 1385,
+		"code": "U+1F54E",
+		"emoji": "🕎",
+		"description": "MENORAH WITH NINE BRANCHES≊ menorah",
+		"flagged": false,
+		"keywords": ["candelabrum", "candlestick", "menorah", "religion"]
+	},
+	{
+		"no": 1386,
+		"code": "U+1F52F",
+		"emoji": "🔯",
+		"description": "SIX POINTED STAR WITH MIDDLE DOT≊ dotted six-pointed star",
+		"flagged": false,
+		"keywords": ["fortune", "star"]
+	},
+	{
+		"no": 1387,
+		"code": "U+267B",
+		"emoji": "♻",
+		"description": "BLACK UNIVERSAL RECYCLING SYMBOL≊ recycling symbol",
+		"flagged": false,
+		"keywords": ["recycle"]
+	},
+	{
+		"no": 1388,
+		"code": "U+1F4DB",
+		"emoji": "📛",
+		"description": "NAME BADGE",
+		"flagged": false,
+		"keywords": ["badge", "name"]
+	},
+	{
+		"no": 1389,
+		"code": "U+269C",
+		"emoji": "⚜",
+		"description": "FLEUR-DE-LIS",
+		"flagged": false,
+		"keywords": ["fleur-de-lis"]
+	},
+	{
+		"no": 1390,
+		"code": "U+1F530",
+		"emoji": "🔰",
+		"description": "JAPANESE SYMBOL FOR BEGINNER",
+		"flagged": false,
+		"keywords": [
+			"beginner",
+			"chevron",
+			"green",
+			"japanese",
+			"leaf",
+			"tool",
+			"yellow"
+		]
+	},
+	{
+		"no": 1391,
+		"code": "U+1F531",
+		"emoji": "🔱",
+		"description": "TRIDENT EMBLEM",
+		"flagged": false,
+		"keywords": ["anchor", "emblem", "ship", "tool", "trident"]
+	},
+	{
+		"no": 1392,
+		"code": "U+2B55",
+		"emoji": "⭕",
+		"description": "HEAVY LARGE CIRCLE",
+		"flagged": false,
+		"keywords": ["circle", "o"]
+	},
+	{
+		"no": 1393,
+		"code": "U+2705",
+		"emoji": "✅",
+		"description": "WHITE HEAVY CHECK MARK",
+		"flagged": false,
+		"keywords": ["check", "mark"]
+	},
+	{
+		"no": 1394,
+		"code": "U+2611",
+		"emoji": "☑",
+		"description": "BALLOT BOX WITH CHECK",
+		"flagged": false,
+		"keywords": ["ballot", "box", "check"]
+	},
+	{
+		"no": 1395,
+		"code": "U+2714",
+		"emoji": "✔",
+		"description": "HEAVY CHECK MARK",
+		"flagged": false,
+		"keywords": ["check", "mark"]
+	},
+	{
+		"no": 1396,
+		"code": "U+2716",
+		"emoji": "✖",
+		"description": "HEAVY MULTIPLICATION X",
+		"flagged": false,
+		"keywords": ["cancel", "multiplication", "multiply", "x"]
+	},
+	{
+		"no": 1397,
+		"code": "U+274C",
+		"emoji": "❌",
+		"description": "CROSS MARK",
+		"flagged": false,
+		"keywords": ["cancel", "mark", "multiplication", "multiply", "x"]
+	},
+	{
+		"no": 1398,
+		"code": "U+274E",
+		"emoji": "❎",
+		"description": "NEGATIVE SQUARED CROSS MARK≊ cross mark button",
+		"flagged": false,
+		"keywords": ["mark", "square"]
+	},
+	{
+		"no": 1399,
+		"code": "U+2795",
+		"emoji": "➕",
+		"description": "HEAVY PLUS SIGN",
+		"flagged": false,
+		"keywords": ["math", "plus"]
+	},
+	{
+		"no": 1400,
+		"code": "U+2796",
+		"emoji": "➖",
+		"description": "HEAVY MINUS SIGN",
+		"flagged": false,
+		"keywords": ["math", "minus"]
+	},
+	{
+		"no": 1401,
+		"code": "U+2797",
+		"emoji": "➗",
+		"description": "HEAVY DIVISION SIGN",
+		"flagged": false,
+		"keywords": ["division", "math"]
+	},
+	{
+		"no": 1402,
+		"code": "U+27B0",
+		"emoji": "➰",
+		"description": "CURLY LOOP",
+		"flagged": false,
+		"keywords": ["curl", "loop"]
+	},
+	{
+		"no": 1403,
+		"code": "U+27BF",
+		"emoji": "➿",
+		"description": "DOUBLE CURLY LOOP",
+		"flagged": false,
+		"keywords": ["curl", "double", "loop"]
+	},
+	{
+		"no": 1404,
+		"code": "U+303D",
+		"emoji": "〽",
+		"description": "PART ALTERNATION MARK",
+		"flagged": false,
+		"keywords": ["mark", "part"]
+	},
+	{
+		"no": 1405,
+		"code": "U+2733",
+		"emoji": "✳",
+		"description": "EIGHT SPOKED ASTERISK≊ eight-spoked asterisk",
+		"flagged": false,
+		"keywords": ["asterisk"]
+	},
+	{
+		"no": 1406,
+		"code": "U+2734",
+		"emoji": "✴",
+		"description": "EIGHT POINTED BLACK STAR≊ eight-pointed star",
+		"flagged": false,
+		"keywords": ["star"]
+	},
+	{
+		"no": 1407,
+		"code": "U+2747",
+		"emoji": "❇",
+		"description": "SPARKLE",
+		"flagged": false,
+		"keywords": ["sparkle"]
+	},
+	{
+		"no": 1408,
+		"code": "U+203C",
+		"emoji": "‼",
+		"description": "DOUBLE EXCLAMATION MARK",
+		"flagged": false,
+		"keywords": ["bangbang", "exclamation", "mark", "punctuation"]
+	},
+	{
+		"no": 1409,
+		"code": "U+2049",
+		"emoji": "⁉",
+		"description": "EXCLAMATION QUESTION MARK",
+		"flagged": false,
+		"keywords": [
+			"exclamation",
+			"interrobang",
+			"mark",
+			"punctuation",
+			"question"
+		]
+	},
+	{
+		"no": 1410,
+		"code": "U+2753",
+		"emoji": "❓",
+		"description": "BLACK QUESTION MARK ORNAMENT≊ question mark",
+		"flagged": false,
+		"keywords": ["mark", "punctuation", "question"]
+	},
+	{
+		"no": 1411,
+		"code": "U+2754",
+		"emoji": "❔",
+		"description": "WHITE QUESTION MARK ORNAMENT≊ white question mark",
+		"flagged": false,
+		"keywords": ["mark", "outlined", "punctuation", "question"]
+	},
+	{
+		"no": 1412,
+		"code": "U+2755",
+		"emoji": "❕",
+		"description": "WHITE EXCLAMATION MARK ORNAMENT≊ white exclamation mark",
+		"flagged": false,
+		"keywords": ["exclamation", "mark", "outlined", "punctuation"]
+	},
+	{
+		"no": 1413,
+		"code": "U+2757",
+		"emoji": "❗",
+		"description": "HEAVY EXCLAMATION MARK SYMBOL≊ exclamation mark",
+		"flagged": false,
+		"keywords": ["exclamation", "mark", "punctuation"]
+	},
+	{
+		"no": 1414,
+		"code": "U+3030",
+		"emoji": "〰",
+		"description": "WAVY DASH",
+		"flagged": false,
+		"keywords": ["dash", "punctuation", "wavy"]
+	},
+	{
+		"no": 1415,
+		"code": "U+00A9",
+		"emoji": "©",
+		"description": "COPYRIGHT SIGN≊ copyright",
+		"flagged": false,
+		"keywords": ["copyright"]
+	},
+	{
+		"no": 1416,
+		"code": "U+00AE",
+		"emoji": "®",
+		"description": "REGISTERED SIGN≊ registered",
+		"flagged": false,
+		"keywords": ["registered"]
+	},
+	{
+		"no": 1417,
+		"code": "U+2122",
+		"emoji": "™",
+		"description": "TRADE MARK SIGN≊ trade mark",
+		"flagged": false,
+		"keywords": ["mark", "tm", "trademark"]
+	},
+	{
+		"no": 1418,
+		"code": "U+2648",
+		"emoji": "♈",
+		"description": "ARIES",
+		"flagged": false,
+		"keywords": ["aries", "ram", "zodiac"]
+	},
+	{
+		"no": 1419,
+		"code": "U+2649",
+		"emoji": "♉",
+		"description": "TAURUS",
+		"flagged": false,
+		"keywords": ["bull", "ox", "taurus", "zodiac"]
+	},
+	{
+		"no": 1420,
+		"code": "U+264A",
+		"emoji": "♊",
+		"description": "GEMINI",
+		"flagged": false,
+		"keywords": ["gemini", "twins", "zodiac"]
+	},
+	{
+		"no": 1421,
+		"code": "U+264B",
+		"emoji": "♋",
+		"description": "CANCER",
+		"flagged": false,
+		"keywords": ["cancer", "crab", "zodiac"]
+	},
+	{
+		"no": 1422,
+		"code": "U+264C",
+		"emoji": "♌",
+		"description": "LEO",
+		"flagged": false,
+		"keywords": ["leo", "lion", "zodiac"]
+	},
+	{
+		"no": 1423,
+		"code": "U+264D",
+		"emoji": "♍",
+		"description": "VIRGO",
+		"flagged": false,
+		"keywords": ["maiden", "virgin", "virgo", "zodiac"]
+	},
+	{
+		"no": 1424,
+		"code": "U+264E",
+		"emoji": "♎",
+		"description": "LIBRA",
+		"flagged": false,
+		"keywords": ["balance", "justice", "libra", "scales", "zodiac"]
+	},
+	{
+		"no": 1425,
+		"code": "U+264F",
+		"emoji": "♏",
+		"description": "SCORPIUS",
+		"flagged": false,
+		"keywords": ["scorpio", "scorpion", "scorpius", "zodiac"]
+	},
+	{
+		"no": 1426,
+		"code": "U+2650",
+		"emoji": "♐",
+		"description": "SAGITTARIUS",
+		"flagged": false,
+		"keywords": ["archer", "sagittarius", "zodiac"]
+	},
+	{
+		"no": 1427,
+		"code": "U+2651",
+		"emoji": "♑",
+		"description": "CAPRICORN",
+		"flagged": false,
+		"keywords": ["capricorn", "goat", "zodiac"]
+	},
+	{
+		"no": 1428,
+		"code": "U+2652",
+		"emoji": "♒",
+		"description": "AQUARIUS",
+		"flagged": false,
+		"keywords": ["aquarius", "bearer", "water", "zodiac"]
+	},
+	{
+		"no": 1429,
+		"code": "U+2653",
+		"emoji": "♓",
+		"description": "PISCES",
+		"flagged": false,
+		"keywords": ["fish", "pisces", "zodiac"]
+	},
+	{
+		"no": 1430,
+		"code": "U+26CE",
+		"emoji": "⛎",
+		"description": "OPHIUCHUS",
+		"flagged": false,
+		"keywords": ["bearer", "ophiuchus", "serpent", "snake", "zodiac"]
+	},
+	{
+		"no": 1431,
+		"code": "U+1F500",
+		"emoji": "🔀",
+		"description": "TWISTED RIGHTWARDS ARROWS≊ shuffle tracks button",
+		"flagged": false,
+		"keywords": ["arrow", "crossed"]
+	},
+	{
+		"no": 1432,
+		"code": "U+1F501",
+		"emoji": "🔁",
+		"description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS≊ repeat button",
+		"flagged": false,
+		"keywords": ["arrow", "clockwise", "repeat"]
+	},
+	{
+		"no": 1433,
+		"code": "U+1F502",
+		"emoji": "🔂",
+		"description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY≊ repeat single button",
+		"flagged": false,
+		"keywords": ["arrow", "clockwise", "once"]
+	},
+	{
+		"no": 1434,
+		"code": "U+25B6",
+		"emoji": "▶",
+		"description": "BLACK RIGHT-POINTING TRIANGLE≊ play button",
+		"flagged": false,
+		"keywords": ["arrow", "play", "right", "triangle"]
+	},
+	{
+		"no": 1435,
+		"code": "U+23E9",
+		"emoji": "⏩",
+		"description": "BLACK RIGHT-POINTING DOUBLE TRIANGLE≊ fast-forword button",
+		"flagged": false,
+		"keywords": ["arrow", "double", "fast", "forward"]
+	},
+	{
+		"no": 1436,
+		"code": "U+23ED",
+		"emoji": "⏭",
+		"description": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR≊ next track button",
+		"flagged": false,
+		"keywords": ["arrow", "next scene", "next track", "triangle"]
+	},
+	{
+		"no": 1437,
+		"code": "U+23EF",
+		"emoji": "⏯",
+		"description": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR≊ play or pause button",
+		"flagged": false,
+		"keywords": ["arrow", "pause", "play", "right", "triangle"]
+	},
+	{
+		"no": 1438,
+		"code": "U+25C0",
+		"emoji": "◀",
+		"description": "BLACK LEFT-POINTING TRIANGLE≊ reverse button",
+		"flagged": false,
+		"keywords": ["arrow", "left", "reverse", "triangle"]
+	},
+	{
+		"no": 1439,
+		"code": "U+23EA",
+		"emoji": "⏪",
+		"description": "BLACK LEFT-POINTING DOUBLE TRIANGLE≊ fast reverse button",
+		"flagged": false,
+		"keywords": ["arrow", "double", "rewind"]
+	},
+	{
+		"no": 1440,
+		"code": "U+23EE",
+		"emoji": "⏮",
+		"description": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR≊ last track button",
+		"flagged": false,
+		"keywords": ["arrow", "previous scene", "previous track", "triangle"]
+	},
+	{
+		"no": 1441,
+		"code": "U+1F53C",
+		"emoji": "🔼",
+		"description": "UP-POINTING SMALL RED TRIANGLE≊ up button",
+		"flagged": false,
+		"keywords": ["arrow", "button", "red"]
+	},
+	{
+		"no": 1442,
+		"code": "U+23EB",
+		"emoji": "⏫",
+		"description": "BLACK UP-POINTING DOUBLE TRIANGLE≊ fast up button",
+		"flagged": false,
+		"keywords": ["arrow", "double"]
+	},
+	{
+		"no": 1443,
+		"code": "U+1F53D",
+		"emoji": "🔽",
+		"description": "DOWN-POINTING SMALL RED TRIANGLE≊ down button",
+		"flagged": false,
+		"keywords": ["arrow", "button", "down", "red"]
+	},
+	{
+		"no": 1444,
+		"code": "U+23EC",
+		"emoji": "⏬",
+		"description": "BLACK DOWN-POINTING DOUBLE TRIANGLE≊ fast down button",
+		"flagged": false,
+		"keywords": ["arrow", "double", "down"]
+	},
+	{
+		"no": 1445,
+		"code": "U+23F8",
+		"emoji": "⏸",
+		"description": "DOUBLE VERTICAL BAR≊ pause button",
+		"flagged": false,
+		"keywords": ["bar", "double", "pause", "vertical"]
+	},
+	{
+		"no": 1446,
+		"code": "U+23F9",
+		"emoji": "⏹",
+		"description": "BLACK SQUARE FOR STOP≊ stop button",
+		"flagged": false,
+		"keywords": ["square", "stop"]
+	},
+	{
+		"no": 1447,
+		"code": "U+23FA",
+		"emoji": "⏺",
+		"description": "BLACK CIRCLE FOR RECORD≊ record button",
+		"flagged": false,
+		"keywords": ["circle", "record"]
+	},
+	{
+		"no": 1448,
+		"code": "U+23CF",
+		"emoji": "⏏",
+		"description": "EJECT SYMBOL≊ eject button",
+		"flagged": true,
+		"keywords": ["eject"]
+	},
+	{
+		"no": 1449,
+		"code": "U+1F3A6",
+		"emoji": "🎦",
+		"description": "CINEMA",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"camera",
+			"cinema",
+			"entertainment",
+			"film",
+			"movie"
+		]
+	},
+	{
+		"no": 1450,
+		"code": "U+1F505",
+		"emoji": "🔅",
+		"description": "LOW BRIGHTNESS SYMBOL≊ dim button",
+		"flagged": false,
+		"keywords": ["brightness", "dim", "low"]
+	},
+	{
+		"no": 1451,
+		"code": "U+1F506",
+		"emoji": "🔆",
+		"description": "HIGH BRIGHTNESS SYMBOL≊ bright button",
+		"flagged": false,
+		"keywords": ["bright", "brightness"]
+	},
+	{
+		"no": 1452,
+		"code": "U+1F4F6",
+		"emoji": "📶",
+		"description": "ANTENNA WITH BARS≊ antenna bars",
+		"flagged": false,
+		"keywords": [
+			"antenna",
+			"bar",
+			"cell",
+			"communication",
+			"mobile",
+			"phone",
+			"signal",
+			"telephone"
+		]
+	},
+	{
+		"no": 1453,
+		"code": "U+1F4F3",
+		"emoji": "📳",
+		"description": "VIBRATION MODE",
+		"flagged": false,
+		"keywords": [
+			"cell",
+			"communication",
+			"mobile",
+			"mode",
+			"phone",
+			"telephone",
+			"vibration"
+		]
+	},
+	{
+		"no": 1454,
+		"code": "U+1F4F4",
+		"emoji": "📴",
+		"description": "MOBILE PHONE OFF",
+		"flagged": false,
+		"keywords": [
+			"cell",
+			"communication",
+			"mobile",
+			"off",
+			"phone",
+			"telephone"
+		]
+	},
+	{
+		"no": 1455,
+		"code": "U+0023 U+FE0F U+20E3",
+		"emoji": "#️⃣",
+		"description": "Keycap NUMBER SIGN",
+		"flagged": false,
+		"keywords": ["hash", "keycap", "pound"]
+	},
+	{
+		"no": 1456,
+		"code": "U+002A U+FE0F U+20E3",
+		"emoji": "*️⃣",
+		"description": "Keycap ASTERISK",
+		"flagged": false,
+		"keywords": ["asterisk", "keycap", "star"]
+	},
+	{
+		"no": 1457,
+		"code": "U+0030 U+FE0F U+20E3",
+		"emoji": "0️⃣",
+		"description": "Keycap DIGIT ZERO",
+		"flagged": false,
+		"keywords": ["0", "keycap", "zero"]
+	},
+	{
+		"no": 1458,
+		"code": "U+0031 U+FE0F U+20E3",
+		"emoji": "1️⃣",
+		"description": "Keycap DIGIT ONE",
+		"flagged": false,
+		"keywords": ["1", "keycap", "one"]
+	},
+	{
+		"no": 1459,
+		"code": "U+0032 U+FE0F U+20E3",
+		"emoji": "2️⃣",
+		"description": "Keycap DIGIT TWO",
+		"flagged": false,
+		"keywords": ["2", "keycap", "two"]
+	},
+	{
+		"no": 1460,
+		"code": "U+0033 U+FE0F U+20E3",
+		"emoji": "3️⃣",
+		"description": "Keycap DIGIT THREE",
+		"flagged": false,
+		"keywords": ["3", "keycap", "three"]
+	},
+	{
+		"no": 1461,
+		"code": "U+0034 U+FE0F U+20E3",
+		"emoji": "4️⃣",
+		"description": "Keycap DIGIT FOUR",
+		"flagged": false,
+		"keywords": ["4", "four", "keycap"]
+	},
+	{
+		"no": 1462,
+		"code": "U+0035 U+FE0F U+20E3",
+		"emoji": "5️⃣",
+		"description": "Keycap DIGIT FIVE",
+		"flagged": false,
+		"keywords": ["5", "five", "keycap"]
+	},
+	{
+		"no": 1463,
+		"code": "U+0036 U+FE0F U+20E3",
+		"emoji": "6️⃣",
+		"description": "Keycap DIGIT SIX",
+		"flagged": false,
+		"keywords": ["6", "keycap", "six"]
+	},
+	{
+		"no": 1464,
+		"code": "U+0037 U+FE0F U+20E3",
+		"emoji": "7️⃣",
+		"description": "Keycap DIGIT SEVEN",
+		"flagged": false,
+		"keywords": ["7", "keycap", "seven"]
+	},
+	{
+		"no": 1465,
+		"code": "U+0038 U+FE0F U+20E3",
+		"emoji": "8️⃣",
+		"description": "Keycap DIGIT EIGHT",
+		"flagged": false,
+		"keywords": ["8", "eight", "keycap"]
+	},
+	{
+		"no": 1466,
+		"code": "U+0039 U+FE0F U+20E3",
+		"emoji": "9️⃣",
+		"description": "Keycap DIGIT NINE",
+		"flagged": false,
+		"keywords": ["9", "keycap", "nine"]
+	},
+	{
+		"no": 1467,
+		"code": "U+1F51F",
+		"emoji": "🔟",
+		"description": "KEYCAP TEN",
+		"flagged": false,
+		"keywords": ["10", "keycap", "ten"]
+	},
+	{
+		"no": 1468,
+		"code": "U+1F4AF",
+		"emoji": "💯",
+		"description": "HUNDRED POINTS SYMBOL≊ hundred points",
+		"flagged": false,
+		"keywords": ["100", "full", "hundred", "score"]
+	},
+	{
+		"no": 1469,
+		"code": "U+1F520",
+		"emoji": "🔠",
+		"description": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS≊ input latin uppercase",
+		"flagged": false,
+		"keywords": ["input", "latin", "letters", "uppercase"]
+	},
+	{
+		"no": 1470,
+		"code": "U+1F521",
+		"emoji": "🔡",
+		"description": "INPUT SYMBOL FOR LATIN SMALL LETTERS≊ input latin lowercase",
+		"flagged": false,
+		"keywords": ["abcd", "input", "latin", "letters", "lowercase"]
+	},
+	{
+		"no": 1471,
+		"code": "U+1F522",
+		"emoji": "🔢",
+		"description": "INPUT SYMBOL FOR NUMBERS≊ input numbers",
+		"flagged": false,
+		"keywords": ["1234", "input", "numbers"]
+	},
+	{
+		"no": 1472,
+		"code": "U+1F523",
+		"emoji": "🔣",
+		"description": "INPUT SYMBOL FOR SYMBOLS≊ input symbols",
+		"flagged": false,
+		"keywords": ["input"]
+	},
+	{
+		"no": 1473,
+		"code": "U+1F524",
+		"emoji": "🔤",
+		"description": "INPUT SYMBOL FOR LATIN LETTERS≊ input latin letters",
+		"flagged": false,
+		"keywords": ["abc", "alphabet", "input", "latin", "letters"]
+	},
+	{
+		"no": 1474,
+		"code": "U+1F170",
+		"emoji": "🅰",
+		"description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A≊ a button",
+		"flagged": false,
+		"keywords": ["a", "blood"]
+	},
+	{
+		"no": 1475,
+		"code": "U+1F18E",
+		"emoji": "🆎",
+		"description": "NEGATIVE SQUARED AB≊ ab button",
+		"flagged": false,
+		"keywords": ["ab", "blood"]
+	},
+	{
+		"no": 1476,
+		"code": "U+1F171",
+		"emoji": "🅱",
+		"description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B≊ b button",
+		"flagged": false,
+		"keywords": ["b", "blood"]
+	},
+	{
+		"no": 1477,
+		"code": "U+1F191",
+		"emoji": "🆑",
+		"description": "SQUARED CL",
+		"flagged": false,
+		"keywords": ["cl"]
+	},
+	{
+		"no": 1478,
+		"code": "U+1F192",
+		"emoji": "🆒",
+		"description": "SQUARED COOL",
+		"flagged": false,
+		"keywords": ["cool"]
+	},
+	{
+		"no": 1479,
+		"code": "U+1F193",
+		"emoji": "🆓",
+		"description": "SQUARED FREE",
+		"flagged": false,
+		"keywords": ["free"]
+	},
+	{
+		"no": 1480,
+		"code": "U+2139",
+		"emoji": "ℹ",
+		"description": "INFORMATION SOURCE",
+		"flagged": false,
+		"keywords": ["i", "information"]
+	},
+	{
+		"no": 1481,
+		"code": "U+1F194",
+		"emoji": "🆔",
+		"description": "SQUARED ID",
+		"flagged": false,
+		"keywords": ["id", "identity"]
+	},
+	{
+		"no": 1482,
+		"code": "U+24C2",
+		"emoji": "Ⓜ",
+		"description": "CIRCLED LATIN CAPITAL LETTER M≊ circled letter m",
+		"flagged": false,
+		"keywords": ["circle", "m"]
+	},
+	{
+		"no": 1483,
+		"code": "U+1F195",
+		"emoji": "🆕",
+		"description": "SQUARED NEW",
+		"flagged": false,
+		"keywords": ["new"]
+	},
+	{
+		"no": 1484,
+		"code": "U+1F196",
+		"emoji": "🆖",
+		"description": "SQUARED NG",
+		"flagged": false,
+		"keywords": ["ng"]
+	},
+	{
+		"no": 1485,
+		"code": "U+1F17E",
+		"emoji": "🅾",
+		"description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O≊ o button",
+		"flagged": false,
+		"keywords": ["blood", "o"]
+	},
+	{
+		"no": 1486,
+		"code": "U+1F197",
+		"emoji": "🆗",
+		"description": "SQUARED OK",
+		"flagged": false,
+		"keywords": ["ok"]
+	},
+	{
+		"no": 1487,
+		"code": "U+1F17F",
+		"emoji": "🅿",
+		"description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P≊ p button",
+		"flagged": false,
+		"keywords": ["parking"]
+	},
+	{
+		"no": 1488,
+		"code": "U+1F198",
+		"emoji": "🆘",
+		"description": "SQUARED SOS",
+		"flagged": false,
+		"keywords": ["help", "sos"]
+	},
+	{
+		"no": 1489,
+		"code": "U+1F199",
+		"emoji": "🆙",
+		"description": "SQUARED UP WITH EXCLAMATION MARK≊ up! button",
+		"flagged": false,
+		"keywords": ["mark", "up"]
+	},
+	{
+		"no": 1490,
+		"code": "U+1F19A",
+		"emoji": "🆚",
+		"description": "SQUARED VS",
+		"flagged": false,
+		"keywords": ["versus", "vs"]
+	},
+	{
+		"no": 1491,
+		"code": "U+1F201",
+		"emoji": "🈁",
+		"description": "SQUARED KATAKANA KOKO",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1492,
+		"code": "U+1F202",
+		"emoji": "🈂",
+		"description": "SQUARED KATAKANA SA",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1493,
+		"code": "U+1F237",
+		"emoji": "🈷",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-6708≊ squared moon ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1494,
+		"code": "U+1F236",
+		"emoji": "🈶",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-6709≊ squared exist ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1495,
+		"code": "U+1F22F",
+		"emoji": "🈯",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-6307≊ squared finger ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1496,
+		"code": "U+1F250",
+		"emoji": "🉐",
+		"description": "CIRCLED IDEOGRAPH ADVANTAGE≊ circled advantage ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1497,
+		"code": "U+1F239",
+		"emoji": "🈹",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-5272≊ squared divide ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1498,
+		"code": "U+1F21A",
+		"emoji": "🈚",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-7121≊ squared negation ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1499,
+		"code": "U+1F232",
+		"emoji": "🈲",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-7981≊ squared prohibit ideograph",
+		"flagged": false,
+		"keywords": ["japanese"]
+	},
+	{
+		"no": 1500,
+		"code": "U+1F251",
+		"emoji": "🉑",
+		"description": "CIRCLED IDEOGRAPH ACCEPT≊ circled accept ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1501,
+		"code": "U+1F238",
+		"emoji": "🈸",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-7533≊ squared apply ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1502,
+		"code": "U+1F234",
+		"emoji": "🈴",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-5408≊ squared together ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1503,
+		"code": "U+1F233",
+		"emoji": "🈳",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A≊ squared empty ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1504,
+		"code": "U+3297",
+		"emoji": "㊗",
+		"description": "CIRCLED IDEOGRAPH CONGRATULATION≊ circled congratulate ideograph",
+		"flagged": false,
+		"keywords": [
+			"chinese",
+			"congratulation",
+			"congratulations",
+			"ideograph"
+		]
+	},
+	{
+		"no": 1505,
+		"code": "U+3299",
+		"emoji": "㊙",
+		"description": "CIRCLED IDEOGRAPH SECRET≊ circled secret ideograph",
+		"flagged": false,
+		"keywords": ["chinese", "ideograph", "secret"]
+	},
+	{
+		"no": 1506,
+		"code": "U+1F23A",
+		"emoji": "🈺",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-55B6≊ squared operating ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1507,
+		"code": "U+1F235",
+		"emoji": "🈵",
+		"description": "SQUARED CJK UNIFIED IDEOGRAPH-6E80≊ squared fullness ideograph",
+		"flagged": false,
+		"keywords": ["chinese"]
+	},
+	{
+		"no": 1508,
+		"code": "U+25AA",
+		"emoji": "▪",
+		"description": "BLACK SMALL SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1509,
+		"code": "U+25AB",
+		"emoji": "▫",
+		"description": "WHITE SMALL SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1510,
+		"code": "U+25FB",
+		"emoji": "◻",
+		"description": "WHITE MEDIUM SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1511,
+		"code": "U+25FC",
+		"emoji": "◼",
+		"description": "BLACK MEDIUM SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1512,
+		"code": "U+25FD",
+		"emoji": "◽",
+		"description": "WHITE MEDIUM SMALL SQUARE≊ white medium-small square",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1513,
+		"code": "U+25FE",
+		"emoji": "◾",
+		"description": "BLACK MEDIUM SMALL SQUARE≊ black medium-small square",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1514,
+		"code": "U+2B1B",
+		"emoji": "⬛",
+		"description": "BLACK LARGE SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1515,
+		"code": "U+2B1C",
+		"emoji": "⬜",
+		"description": "WHITE LARGE SQUARE",
+		"flagged": false,
+		"keywords": ["geometric", "square"]
+	},
+	{
+		"no": 1516,
+		"code": "U+1F536",
+		"emoji": "🔶",
+		"description": "LARGE ORANGE DIAMOND",
+		"flagged": false,
+		"keywords": ["diamond", "geometric", "orange"]
+	},
+	{
+		"no": 1517,
+		"code": "U+1F537",
+		"emoji": "🔷",
+		"description": "LARGE BLUE DIAMOND",
+		"flagged": false,
+		"keywords": ["blue", "diamond", "geometric"]
+	},
+	{
+		"no": 1518,
+		"code": "U+1F538",
+		"emoji": "🔸",
+		"description": "SMALL ORANGE DIAMOND",
+		"flagged": false,
+		"keywords": ["diamond", "geometric", "orange"]
+	},
+	{
+		"no": 1519,
+		"code": "U+1F539",
+		"emoji": "🔹",
+		"description": "SMALL BLUE DIAMOND",
+		"flagged": false,
+		"keywords": ["blue", "diamond", "geometric"]
+	},
+	{
+		"no": 1520,
+		"code": "U+1F53A",
+		"emoji": "🔺",
+		"description": "UP-POINTING RED TRIANGLE≊ red triangle pointed up",
+		"flagged": false,
+		"keywords": ["geometric", "red"]
+	},
+	{
+		"no": 1521,
+		"code": "U+1F53B",
+		"emoji": "🔻",
+		"description": "DOWN-POINTING RED TRIANGLE≊ red triangle pointed down",
+		"flagged": false,
+		"keywords": ["down", "geometric", "red"]
+	},
+	{
+		"no": 1522,
+		"code": "U+1F4A0",
+		"emoji": "💠",
+		"description": "DIAMOND SHAPE WITH A DOT INSIDE≊ diamond with a dot",
+		"flagged": false,
+		"keywords": ["comic", "diamond", "geometric", "inside"]
+	},
+	{
+		"no": 1523,
+		"code": "U+1F518",
+		"emoji": "🔘",
+		"description": "RADIO BUTTON",
+		"flagged": false,
+		"keywords": ["button", "geometric", "radio"]
+	},
+	{
+		"no": 1524,
+		"code": "U+1F532",
+		"emoji": "🔲",
+		"description": "BLACK SQUARE BUTTON",
+		"flagged": false,
+		"keywords": ["button", "geometric", "square"]
+	},
+	{
+		"no": 1525,
+		"code": "U+1F533",
+		"emoji": "🔳",
+		"description": "WHITE SQUARE BUTTON",
+		"flagged": false,
+		"keywords": ["button", "geometric", "outlined", "square"]
+	},
+	{
+		"no": 1526,
+		"code": "U+26AA",
+		"emoji": "⚪",
+		"description": "MEDIUM WHITE CIRCLE≊ white circle",
+		"flagged": false,
+		"keywords": ["circle", "geometric"]
+	},
+	{
+		"no": 1527,
+		"code": "U+26AB",
+		"emoji": "⚫",
+		"description": "MEDIUM BLACK CIRCLE≊ black circle",
+		"flagged": false,
+		"keywords": ["circle", "geometric"]
+	},
+	{
+		"no": 1528,
+		"code": "U+1F534",
+		"emoji": "🔴",
+		"description": "LARGE RED CIRCLE≊ red circle",
+		"flagged": false,
+		"keywords": ["circle", "geometric", "red"]
+	},
+	{
+		"no": 1529,
+		"code": "U+1F535",
+		"emoji": "🔵",
+		"description": "LARGE BLUE CIRCLE≊ blue circle",
+		"flagged": false,
+		"keywords": ["blue", "circle", "geometric"]
+	}
+]

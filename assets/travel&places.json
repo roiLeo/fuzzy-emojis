@@ -1,0 +1,1767 @@
+[
+	{
+		"no": 816,
+		"code": "U+1F30D",
+		"emoji": "🌍",
+		"description": "EARTH GLOBE EUROPE-AFRICA≊ globe showing europe-africa",
+		"flagged": false,
+		"keywords": ["africa", "earth", "europe", "globe", "world"]
+	},
+	{
+		"no": 817,
+		"code": "U+1F30E",
+		"emoji": "🌎",
+		"description": "EARTH GLOBE AMERICAS≊ globe showing americas",
+		"flagged": false,
+		"keywords": ["americas", "earth", "globe", "world"]
+	},
+	{
+		"no": 818,
+		"code": "U+1F30F",
+		"emoji": "🌏",
+		"description": "EARTH GLOBE ASIA-AUSTRALIA≊ globe showing asia-australia",
+		"flagged": false,
+		"keywords": ["asia", "australia", "earth", "globe", "world"]
+	},
+	{
+		"no": 819,
+		"code": "U+1F310",
+		"emoji": "🌐",
+		"description": "GLOBE WITH MERIDIANS",
+		"flagged": false,
+		"keywords": ["earth", "globe", "meridians", "world"]
+	},
+	{
+		"no": 820,
+		"code": "U+1F5FA",
+		"emoji": "🗺",
+		"description": "WORLD MAP",
+		"flagged": false,
+		"keywords": ["map", "world"]
+	},
+	{
+		"no": 821,
+		"code": "U+1F5FE",
+		"emoji": "🗾",
+		"description": "SILHOUETTE OF JAPAN≊ map of japan",
+		"flagged": false,
+		"keywords": ["japan", "map"]
+	},
+	{
+		"no": 822,
+		"code": "U+1F3D4",
+		"emoji": "🏔",
+		"description": "SNOW CAPPED MOUNTAIN≊ snow-capped mountain",
+		"flagged": false,
+		"keywords": ["cold", "mountain", "snow"]
+	},
+	{
+		"no": 823,
+		"code": "U+26F0",
+		"emoji": "⛰",
+		"description": "MOUNTAIN",
+		"flagged": false,
+		"keywords": ["mountain"]
+	},
+	{
+		"no": 824,
+		"code": "U+1F30B",
+		"emoji": "🌋",
+		"description": "VOLCANO",
+		"flagged": false,
+		"keywords": ["eruption", "mountain", "volcano", "weather"]
+	},
+	{
+		"no": 825,
+		"code": "U+1F5FB",
+		"emoji": "🗻",
+		"description": "MOUNT FUJI",
+		"flagged": false,
+		"keywords": ["fuji", "mountain"]
+	},
+	{
+		"no": 826,
+		"code": "U+1F3D5",
+		"emoji": "🏕",
+		"description": "CAMPING",
+		"flagged": false,
+		"keywords": ["camping"]
+	},
+	{
+		"no": 827,
+		"code": "U+1F3D6",
+		"emoji": "🏖",
+		"description": "BEACH WITH UMBRELLA",
+		"flagged": false,
+		"keywords": ["beach", "umbrella"]
+	},
+	{
+		"no": 828,
+		"code": "U+1F3DC",
+		"emoji": "🏜",
+		"description": "DESERT",
+		"flagged": false,
+		"keywords": ["desert"]
+	},
+	{
+		"no": 829,
+		"code": "U+1F3DD",
+		"emoji": "🏝",
+		"description": "DESERT ISLAND",
+		"flagged": false,
+		"keywords": ["desert", "island"]
+	},
+	{
+		"no": 830,
+		"code": "U+1F3DE",
+		"emoji": "🏞",
+		"description": "NATIONAL PARK",
+		"flagged": false,
+		"keywords": ["national park", "park"]
+	},
+	{
+		"no": 831,
+		"code": "U+1F3DF",
+		"emoji": "🏟",
+		"description": "STADIUM",
+		"flagged": false,
+		"keywords": ["stadium"]
+	},
+	{
+		"no": 832,
+		"code": "U+1F3DB",
+		"emoji": "🏛",
+		"description": "CLASSICAL BUILDING",
+		"flagged": false,
+		"keywords": ["building", "classical"]
+	},
+	{
+		"no": 833,
+		"code": "U+1F3D7",
+		"emoji": "🏗",
+		"description": "BUILDING CONSTRUCTION",
+		"flagged": false,
+		"keywords": ["building", "construction"]
+	},
+	{
+		"no": 834,
+		"code": "U+1F3D8",
+		"emoji": "🏘",
+		"description": "HOUSE BUILDINGS",
+		"flagged": false,
+		"keywords": ["building", "house"]
+	},
+	{
+		"no": 835,
+		"code": "U+1F3D9",
+		"emoji": "🏙",
+		"description": "CITYSCAPE",
+		"flagged": false,
+		"keywords": ["building", "city"]
+	},
+	{
+		"no": 836,
+		"code": "U+1F3DA",
+		"emoji": "🏚",
+		"description": "DERELICT HOUSE BUILDING",
+		"flagged": false,
+		"keywords": ["building", "derelict", "house"]
+	},
+	{
+		"no": 837,
+		"code": "U+1F3E0",
+		"emoji": "🏠",
+		"description": "HOUSE BUILDING",
+		"flagged": false,
+		"keywords": ["building", "home", "house"]
+	},
+	{
+		"no": 838,
+		"code": "U+1F3E1",
+		"emoji": "🏡",
+		"description": "HOUSE WITH GARDEN",
+		"flagged": false,
+		"keywords": ["building", "garden", "home", "house"]
+	},
+	{
+		"no": 839,
+		"code": "U+1F3E2",
+		"emoji": "🏢",
+		"description": "OFFICE BUILDING",
+		"flagged": false,
+		"keywords": ["building"]
+	},
+	{
+		"no": 840,
+		"code": "U+1F3E3",
+		"emoji": "🏣",
+		"description": "JAPANESE POST OFFICE",
+		"flagged": false,
+		"keywords": ["building", "japanese", "post"]
+	},
+	{
+		"no": 841,
+		"code": "U+1F3E4",
+		"emoji": "🏤",
+		"description": "EUROPEAN POST OFFICE≊ post office",
+		"flagged": false,
+		"keywords": ["building", "european", "post"]
+	},
+	{
+		"no": 842,
+		"code": "U+1F3E5",
+		"emoji": "🏥",
+		"description": "HOSPITAL",
+		"flagged": false,
+		"keywords": ["building", "doctor", "hospital", "medicine"]
+	},
+	{
+		"no": 843,
+		"code": "U+1F3E6",
+		"emoji": "🏦",
+		"description": "BANK",
+		"flagged": false,
+		"keywords": ["bank", "building"]
+	},
+	{
+		"no": 844,
+		"code": "U+1F3E8",
+		"emoji": "🏨",
+		"description": "HOTEL",
+		"flagged": false,
+		"keywords": ["building", "hotel"]
+	},
+	{
+		"no": 845,
+		"code": "U+1F3E9",
+		"emoji": "🏩",
+		"description": "LOVE HOTEL",
+		"flagged": false,
+		"keywords": ["building", "hotel", "love"]
+	},
+	{
+		"no": 846,
+		"code": "U+1F3EA",
+		"emoji": "🏪",
+		"description": "CONVENIENCE STORE",
+		"flagged": false,
+		"keywords": ["building", "convenience", "store"]
+	},
+	{
+		"no": 847,
+		"code": "U+1F3EB",
+		"emoji": "🏫",
+		"description": "SCHOOL",
+		"flagged": false,
+		"keywords": ["building", "school"]
+	},
+	{
+		"no": 848,
+		"code": "U+1F3EC",
+		"emoji": "🏬",
+		"description": "DEPARTMENT STORE",
+		"flagged": false,
+		"keywords": ["building", "department", "store"]
+	},
+	{
+		"no": 849,
+		"code": "U+1F3ED",
+		"emoji": "🏭",
+		"description": "FACTORY",
+		"flagged": false,
+		"keywords": ["building", "factory"]
+	},
+	{
+		"no": 850,
+		"code": "U+1F3EF",
+		"emoji": "🏯",
+		"description": "JAPANESE CASTLE",
+		"flagged": false,
+		"keywords": ["building", "castle", "japanese"]
+	},
+	{
+		"no": 851,
+		"code": "U+1F3F0",
+		"emoji": "🏰",
+		"description": "EUROPEAN CASTLE≊ castle",
+		"flagged": false,
+		"keywords": ["building", "castle", "european"]
+	},
+	{
+		"no": 852,
+		"code": "U+1F492",
+		"emoji": "💒",
+		"description": "WEDDING",
+		"flagged": false,
+		"keywords": ["activity", "chapel", "romance", "wedding"]
+	},
+	{
+		"no": 853,
+		"code": "U+1F5FC",
+		"emoji": "🗼",
+		"description": "TOKYO TOWER",
+		"flagged": false,
+		"keywords": ["tokyo", "tower"]
+	},
+	{
+		"no": 854,
+		"code": "U+1F5FD",
+		"emoji": "🗽",
+		"description": "STATUE OF LIBERTY",
+		"flagged": false,
+		"keywords": ["liberty", "statue"]
+	},
+	{
+		"no": 855,
+		"code": "U+26EA",
+		"emoji": "⛪",
+		"description": "CHURCH",
+		"flagged": false,
+		"keywords": ["building", "christian", "church", "cross", "religion"]
+	},
+	{
+		"no": 856,
+		"code": "U+1F54C",
+		"emoji": "🕌",
+		"description": "MOSQUE",
+		"flagged": false,
+		"keywords": ["islam", "mosque", "muslim", "religion"]
+	},
+	{
+		"no": 857,
+		"code": "U+1F54D",
+		"emoji": "🕍",
+		"description": "SYNAGOGUE",
+		"flagged": false,
+		"keywords": ["jew", "jewish", "religion", "synagogue", "temple"]
+	},
+	{
+		"no": 858,
+		"code": "U+26E9",
+		"emoji": "⛩",
+		"description": "SHINTO SHRINE",
+		"flagged": false,
+		"keywords": ["religion", "shinto", "shrine"]
+	},
+	{
+		"no": 859,
+		"code": "U+1F54B",
+		"emoji": "🕋",
+		"description": "KAABA",
+		"flagged": false,
+		"keywords": ["islam", "kaaba", "muslim", "religion"]
+	},
+	{
+		"no": 860,
+		"code": "U+26F2",
+		"emoji": "⛲",
+		"description": "FOUNTAIN",
+		"flagged": false,
+		"keywords": ["fountain"]
+	},
+	{
+		"no": 861,
+		"code": "U+26FA",
+		"emoji": "⛺",
+		"description": "TENT",
+		"flagged": false,
+		"keywords": ["camping", "tent"]
+	},
+	{
+		"no": 862,
+		"code": "U+1F301",
+		"emoji": "🌁",
+		"description": "FOGGY",
+		"flagged": false,
+		"keywords": ["fog", "weather"]
+	},
+	{
+		"no": 863,
+		"code": "U+1F303",
+		"emoji": "🌃",
+		"description": "NIGHT WITH STARS",
+		"flagged": false,
+		"keywords": ["night", "star", "weather"]
+	},
+	{
+		"no": 864,
+		"code": "U+1F304",
+		"emoji": "🌄",
+		"description": "SUNRISE OVER MOUNTAINS",
+		"flagged": false,
+		"keywords": ["morning", "mountain", "sun", "sunrise", "weather"]
+	},
+	{
+		"no": 865,
+		"code": "U+1F305",
+		"emoji": "🌅",
+		"description": "SUNRISE",
+		"flagged": false,
+		"keywords": ["morning", "sun", "sunrise", "weather"]
+	},
+	{
+		"no": 866,
+		"code": "U+1F306",
+		"emoji": "🌆",
+		"description": "CITYSCAPE AT DUSK",
+		"flagged": false,
+		"keywords": [
+			"building",
+			"city",
+			"dusk",
+			"evening",
+			"landscape",
+			"sun",
+			"sunset",
+			"weather"
+		]
+	},
+	{
+		"no": 867,
+		"code": "U+1F307",
+		"emoji": "🌇",
+		"description": "SUNSET OVER BUILDINGS≊ sunset",
+		"flagged": false,
+		"keywords": ["building", "dusk", "sun", "sunset", "weather"]
+	},
+	{
+		"no": 868,
+		"code": "U+1F309",
+		"emoji": "🌉",
+		"description": "BRIDGE AT NIGHT",
+		"flagged": false,
+		"keywords": ["bridge", "night", "weather"]
+	},
+	{
+		"no": 869,
+		"code": "U+2668",
+		"emoji": "♨",
+		"description": "HOT SPRINGS",
+		"flagged": false,
+		"keywords": ["hot", "hotsprings", "springs", "steaming"]
+	},
+	{
+		"no": 870,
+		"code": "U+1F30C",
+		"emoji": "🌌",
+		"description": "MILKY WAY",
+		"flagged": false,
+		"keywords": ["milky way", "space", "weather"]
+	},
+	{
+		"no": 871,
+		"code": "U+1F3A0",
+		"emoji": "🎠",
+		"description": "CAROUSEL HORSE",
+		"flagged": false,
+		"keywords": ["activity", "carousel", "entertainment", "horse"]
+	},
+	{
+		"no": 872,
+		"code": "U+1F3A1",
+		"emoji": "🎡",
+		"description": "FERRIS WHEEL",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"amusement park",
+			"entertainment",
+			"ferris",
+			"wheel"
+		]
+	},
+	{
+		"no": 873,
+		"code": "U+1F3A2",
+		"emoji": "🎢",
+		"description": "ROLLER COASTER",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"amusement park",
+			"coaster",
+			"entertainment",
+			"roller"
+		]
+	},
+	{
+		"no": 874,
+		"code": "U+1F488",
+		"emoji": "💈",
+		"description": "BARBER POLE",
+		"flagged": false,
+		"keywords": ["barber", "haircut", "pole"]
+	},
+	{
+		"no": 875,
+		"code": "U+1F3AA",
+		"emoji": "🎪",
+		"description": "CIRCUS TENT",
+		"flagged": false,
+		"keywords": ["activity", "circus", "entertainment", "tent"]
+	},
+	{
+		"no": 876,
+		"code": "U+1F3AD",
+		"emoji": "🎭",
+		"description": "PERFORMING ARTS",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"art",
+			"entertainment",
+			"mask",
+			"performing",
+			"theater",
+			"theatre"
+		]
+	},
+	{
+		"no": 877,
+		"code": "U+1F5BC",
+		"emoji": "🖼",
+		"description": "FRAME WITH PICTURE",
+		"flagged": false,
+		"keywords": ["art", "frame", "museum", "painting", "picture"]
+	},
+	{
+		"no": 878,
+		"code": "U+1F3A8",
+		"emoji": "🎨",
+		"description": "ARTIST PALETTE",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"art",
+			"entertainment",
+			"museum",
+			"painting",
+			"palette"
+		]
+	},
+	{
+		"no": 879,
+		"code": "U+1F3B0",
+		"emoji": "🎰",
+		"description": "SLOT MACHINE",
+		"flagged": false,
+		"keywords": ["activity", "game", "slot"]
+	},
+	{
+		"no": 880,
+		"code": "U+1F682",
+		"emoji": "🚂",
+		"description": "STEAM LOCOMOTIVE≊ locomotive",
+		"flagged": false,
+		"keywords": [
+			"engine",
+			"locomotive",
+			"railway",
+			"steam",
+			"train",
+			"vehicle"
+		]
+	},
+	{
+		"no": 881,
+		"code": "U+1F683",
+		"emoji": "🚃",
+		"description": "RAILWAY CAR",
+		"flagged": false,
+		"keywords": [
+			"car",
+			"electric",
+			"railway",
+			"train",
+			"tram",
+			"trolleybus",
+			"vehicle"
+		]
+	},
+	{
+		"no": 882,
+		"code": "U+1F684",
+		"emoji": "🚄",
+		"description": "HIGH-SPEED TRAIN",
+		"flagged": false,
+		"keywords": ["railway", "shinkansen", "speed", "train", "vehicle"]
+	},
+	{
+		"no": 883,
+		"code": "U+1F685",
+		"emoji": "🚅",
+		"description": "HIGH-SPEED TRAIN WITH BULLET NOSE",
+		"flagged": false,
+		"keywords": [
+			"bullet",
+			"railway",
+			"shinkansen",
+			"speed",
+			"train",
+			"vehicle"
+		]
+	},
+	{
+		"no": 884,
+		"code": "U+1F686",
+		"emoji": "🚆",
+		"description": "TRAIN",
+		"flagged": false,
+		"keywords": ["railway", "train", "vehicle"]
+	},
+	{
+		"no": 885,
+		"code": "U+1F687",
+		"emoji": "🚇",
+		"description": "METRO",
+		"flagged": false,
+		"keywords": ["metro", "subway", "vehicle"]
+	},
+	{
+		"no": 886,
+		"code": "U+1F688",
+		"emoji": "🚈",
+		"description": "LIGHT RAIL",
+		"flagged": false,
+		"keywords": ["railway", "vehicle"]
+	},
+	{
+		"no": 887,
+		"code": "U+1F689",
+		"emoji": "🚉",
+		"description": "STATION",
+		"flagged": false,
+		"keywords": ["railway", "station", "train", "vehicle"]
+	},
+	{
+		"no": 888,
+		"code": "U+1F68A",
+		"emoji": "🚊",
+		"description": "TRAM",
+		"flagged": false,
+		"keywords": ["tram", "trolleybus", "vehicle"]
+	},
+	{
+		"no": 889,
+		"code": "U+1F69D",
+		"emoji": "🚝",
+		"description": "MONORAIL",
+		"flagged": false,
+		"keywords": ["monorail", "vehicle"]
+	},
+	{
+		"no": 890,
+		"code": "U+1F69E",
+		"emoji": "🚞",
+		"description": "MOUNTAIN RAILWAY",
+		"flagged": false,
+		"keywords": ["car", "mountain", "railway", "vehicle"]
+	},
+	{
+		"no": 891,
+		"code": "U+1F68B",
+		"emoji": "🚋",
+		"description": "TRAM CAR",
+		"flagged": false,
+		"keywords": ["car", "tram", "trolleybus", "vehicle"]
+	},
+	{
+		"no": 892,
+		"code": "U+1F68C",
+		"emoji": "🚌",
+		"description": "BUS",
+		"flagged": false,
+		"keywords": ["bus", "vehicle"]
+	},
+	{
+		"no": 893,
+		"code": "U+1F68D",
+		"emoji": "🚍",
+		"description": "ONCOMING BUS",
+		"flagged": false,
+		"keywords": ["bus", "oncoming", "vehicle"]
+	},
+	{
+		"no": 894,
+		"code": "U+1F68E",
+		"emoji": "🚎",
+		"description": "TROLLEYBUS",
+		"flagged": false,
+		"keywords": ["bus", "tram", "trolley", "trolleybus", "vehicle"]
+	},
+	{
+		"no": 895,
+		"code": "U+1F68F",
+		"emoji": "🚏",
+		"description": "BUS STOP",
+		"flagged": false,
+		"keywords": ["bus", "busstop", "stop"]
+	},
+	{
+		"no": 896,
+		"code": "U+1F690",
+		"emoji": "🚐",
+		"description": "MINIBUS",
+		"flagged": false,
+		"keywords": ["bus", "minibus", "vehicle"]
+	},
+	{
+		"no": 897,
+		"code": "U+1F691",
+		"emoji": "🚑",
+		"description": "AMBULANCE",
+		"flagged": false,
+		"keywords": ["ambulance", "vehicle"]
+	},
+	{
+		"no": 898,
+		"code": "U+1F692",
+		"emoji": "🚒",
+		"description": "FIRE ENGINE",
+		"flagged": false,
+		"keywords": ["engine", "fire", "truck", "vehicle"]
+	},
+	{
+		"no": 899,
+		"code": "U+1F693",
+		"emoji": "🚓",
+		"description": "POLICE CAR",
+		"flagged": false,
+		"keywords": ["car", "patrol", "police", "vehicle"]
+	},
+	{
+		"no": 900,
+		"code": "U+1F694",
+		"emoji": "🚔",
+		"description": "ONCOMING POLICE CAR",
+		"flagged": false,
+		"keywords": ["car", "oncoming", "police", "vehicle"]
+	},
+	{
+		"no": 901,
+		"code": "U+1F695",
+		"emoji": "🚕",
+		"description": "TAXI",
+		"flagged": false,
+		"keywords": ["taxi", "vehicle"]
+	},
+	{
+		"no": 902,
+		"code": "U+1F696",
+		"emoji": "🚖",
+		"description": "ONCOMING TAXI",
+		"flagged": false,
+		"keywords": ["oncoming", "taxi", "vehicle"]
+	},
+	{
+		"no": 903,
+		"code": "U+1F697",
+		"emoji": "🚗",
+		"description": "AUTOMOBILE",
+		"flagged": false,
+		"keywords": ["automobile", "car", "vehicle"]
+	},
+	{
+		"no": 904,
+		"code": "U+1F698",
+		"emoji": "🚘",
+		"description": "ONCOMING AUTOMOBILE",
+		"flagged": false,
+		"keywords": ["automobile", "car", "oncoming", "vehicle"]
+	},
+	{
+		"no": 905,
+		"code": "U+1F699",
+		"emoji": "🚙",
+		"description": "RECREATIONAL VEHICLE",
+		"flagged": false,
+		"keywords": ["recreational", "rv", "vehicle"]
+	},
+	{
+		"no": 906,
+		"code": "U+1F69A",
+		"emoji": "🚚",
+		"description": "DELIVERY TRUCK",
+		"flagged": false,
+		"keywords": ["delivery", "truck", "vehicle"]
+	},
+	{
+		"no": 907,
+		"code": "U+1F69B",
+		"emoji": "🚛",
+		"description": "ARTICULATED LORRY",
+		"flagged": false,
+		"keywords": ["lorry", "semi", "truck", "vehicle"]
+	},
+	{
+		"no": 908,
+		"code": "U+1F69C",
+		"emoji": "🚜",
+		"description": "TRACTOR",
+		"flagged": false,
+		"keywords": ["tractor", "vehicle"]
+	},
+	{
+		"no": 909,
+		"code": "U+1F6B2",
+		"emoji": "🚲",
+		"description": "BICYCLE",
+		"flagged": false,
+		"keywords": ["bicycle", "bike", "vehicle"]
+	},
+	{
+		"no": 910,
+		"code": "U+26FD",
+		"emoji": "⛽",
+		"description": "FUEL PUMP",
+		"flagged": false,
+		"keywords": ["fuel", "fuelpump", "gas", "pump", "station"]
+	},
+	{
+		"no": 911,
+		"code": "U+1F6E3",
+		"emoji": "🛣",
+		"description": "MOTORWAY",
+		"flagged": false,
+		"keywords": ["highway", "motorway", "road"]
+	},
+	{
+		"no": 912,
+		"code": "U+1F6E4",
+		"emoji": "🛤",
+		"description": "RAILWAY TRACK",
+		"flagged": false,
+		"keywords": ["railway", "train"]
+	},
+	{
+		"no": 913,
+		"code": "U+1F6A8",
+		"emoji": "🚨",
+		"description": "POLICE CARS REVOLVING LIGHT≊ police car’s light",
+		"flagged": false,
+		"keywords": ["beacon", "car", "light", "police", "revolving", "vehicle"]
+	},
+	{
+		"no": 914,
+		"code": "U+1F6A5",
+		"emoji": "🚥",
+		"description": "HORIZONTAL TRAFFIC LIGHT",
+		"flagged": false,
+		"keywords": ["light", "signal", "traffic"]
+	},
+	{
+		"no": 915,
+		"code": "U+1F6A6",
+		"emoji": "🚦",
+		"description": "VERTICAL TRAFFIC LIGHT",
+		"flagged": false,
+		"keywords": ["light", "signal", "traffic"]
+	},
+	{
+		"no": 916,
+		"code": "U+1F6A7",
+		"emoji": "🚧",
+		"description": "CONSTRUCTION SIGN≊ construction",
+		"flagged": false,
+		"keywords": ["barrier", "construction"]
+	},
+	{
+		"no": 917,
+		"code": "U+1F6D1",
+		"emoji": "🛑",
+		"description": "OCTAGONAL SIGN",
+		"flagged": true,
+		"keywords": ["octagonal", "stop"]
+	},
+	{
+		"no": 918,
+		"code": "U+1F6F4",
+		"emoji": "🛴",
+		"description": "SCOOTER",
+		"flagged": true,
+		"keywords": ["kick", "scooter"]
+	},
+	{
+		"no": 919,
+		"code": "U+1F6F5",
+		"emoji": "🛵",
+		"description": "MOTOR SCOOTER",
+		"flagged": true,
+		"keywords": ["motor", "scooter"]
+	},
+	{
+		"no": 920,
+		"code": "U+2693",
+		"emoji": "⚓",
+		"description": "ANCHOR",
+		"flagged": false,
+		"keywords": ["anchor", "ship", "tool"]
+	},
+	{
+		"no": 921,
+		"code": "U+26F5",
+		"emoji": "⛵",
+		"description": "SAILBOAT",
+		"flagged": false,
+		"keywords": ["boat", "resort", "sailboat", "sea", "vehicle", "yacht"]
+	},
+	{
+		"no": 922,
+		"code": "U+1F6A3",
+		"emoji": "🚣",
+		"description": "ROWBOAT",
+		"flagged": false,
+		"keywords": ["boat", "rowboat", "vehicle"],
+		"types": [
+			"U+1F6A3 U+1F3FF",
+			"U+1F6A3 U+1F3FE",
+			"U+1F6A3 U+1F3FD",
+			"U+1F6A3 U+1F3FC",
+			"U+1F6A3 U+1F3FB"
+		]
+	},
+	{
+		"no": 928,
+		"code": "U+1F6F6",
+		"emoji": "🛶",
+		"description": "CANOE",
+		"flagged": true,
+		"keywords": ["boat", "canoe"]
+	},
+	{
+		"no": 929,
+		"code": "U+1F6A4",
+		"emoji": "🚤",
+		"description": "SPEEDBOAT",
+		"flagged": false,
+		"keywords": ["boat", "speedboat", "vehicle"]
+	},
+	{
+		"no": 930,
+		"code": "U+1F6F3",
+		"emoji": "🛳",
+		"description": "PASSENGER SHIP",
+		"flagged": false,
+		"keywords": ["passenger", "ship", "vehicle"]
+	},
+	{
+		"no": 931,
+		"code": "U+26F4",
+		"emoji": "⛴",
+		"description": "FERRY",
+		"flagged": false,
+		"keywords": ["boat", "ferry"]
+	},
+	{
+		"no": 932,
+		"code": "U+1F6E5",
+		"emoji": "🛥",
+		"description": "MOTOR BOAT",
+		"flagged": false,
+		"keywords": ["boat", "motorboat", "vehicle"]
+	},
+	{
+		"no": 933,
+		"code": "U+1F6A2",
+		"emoji": "🚢",
+		"description": "SHIP",
+		"flagged": false,
+		"keywords": ["ship", "vehicle"]
+	},
+	{
+		"no": 934,
+		"code": "U+2708",
+		"emoji": "✈",
+		"description": "AIRPLANE",
+		"flagged": false,
+		"keywords": ["airplane", "vehicle"]
+	},
+	{
+		"no": 935,
+		"code": "U+1F6E9",
+		"emoji": "🛩",
+		"description": "SMALL AIRPLANE",
+		"flagged": false,
+		"keywords": ["airplane", "vehicle"]
+	},
+	{
+		"no": 936,
+		"code": "U+1F6EB",
+		"emoji": "🛫",
+		"description": "AIRPLANE DEPARTURE",
+		"flagged": false,
+		"keywords": [
+			"airplane",
+			"check-in",
+			"departure",
+			"departures",
+			"vehicle"
+		]
+	},
+	{
+		"no": 937,
+		"code": "U+1F6EC",
+		"emoji": "🛬",
+		"description": "AIRPLANE ARRIVING≊ airplane arrival",
+		"flagged": false,
+		"keywords": ["airplane", "arrivals", "arriving", "landing", "vehicle"]
+	},
+	{
+		"no": 938,
+		"code": "U+1F4BA",
+		"emoji": "💺",
+		"description": "SEAT",
+		"flagged": false,
+		"keywords": ["chair", "seat"]
+	},
+	{
+		"no": 939,
+		"code": "U+1F681",
+		"emoji": "🚁",
+		"description": "HELICOPTER",
+		"flagged": false,
+		"keywords": ["helicopter", "vehicle"]
+	},
+	{
+		"no": 940,
+		"code": "U+1F69F",
+		"emoji": "🚟",
+		"description": "SUSPENSION RAILWAY",
+		"flagged": false,
+		"keywords": ["railway", "suspension", "vehicle"]
+	},
+	{
+		"no": 941,
+		"code": "U+1F6A0",
+		"emoji": "🚠",
+		"description": "MOUNTAIN CABLEWAY",
+		"flagged": false,
+		"keywords": ["cable", "gondola", "mountain", "vehicle"]
+	},
+	{
+		"no": 942,
+		"code": "U+1F6A1",
+		"emoji": "🚡",
+		"description": "AERIAL TRAMWAY",
+		"flagged": false,
+		"keywords": [
+			"aerial",
+			"cable",
+			"car",
+			"gondola",
+			"ropeway",
+			"tramway",
+			"vehicle"
+		]
+	},
+	{
+		"no": 943,
+		"code": "U+1F680",
+		"emoji": "🚀",
+		"description": "ROCKET",
+		"flagged": false,
+		"keywords": ["rocket", "space", "vehicle"]
+	},
+	{
+		"no": 944,
+		"code": "U+1F6F0",
+		"emoji": "🛰",
+		"description": "SATELLITE",
+		"flagged": false,
+		"keywords": ["satellite", "space", "vehicle"]
+	},
+	{
+		"no": 945,
+		"code": "U+1F6CE",
+		"emoji": "🛎",
+		"description": "BELLHOP BELL",
+		"flagged": false,
+		"keywords": ["bell", "bellhop", "hotel"]
+	},
+	{
+		"no": 946,
+		"code": "U+1F6AA",
+		"emoji": "🚪",
+		"description": "DOOR",
+		"flagged": false,
+		"keywords": ["door"]
+	},
+	{
+		"no": 947,
+		"code": "U+1F6CC",
+		"emoji": "🛌",
+		"description": "SLEEPING ACCOMMODATION≊ person in bed",
+		"flagged": false,
+		"keywords": ["hotel", "sleep"]
+	},
+	{
+		"no": 948,
+		"code": "U+1F6CF",
+		"emoji": "🛏",
+		"description": "BED",
+		"flagged": false,
+		"keywords": ["bed", "hotel", "sleep"]
+	},
+	{
+		"no": 949,
+		"code": "U+1F6CB",
+		"emoji": "🛋",
+		"description": "COUCH AND LAMP",
+		"flagged": false,
+		"keywords": ["couch", "hotel", "lamp"]
+	},
+	{
+		"no": 950,
+		"code": "U+1F6BD",
+		"emoji": "🚽",
+		"description": "TOILET",
+		"flagged": false,
+		"keywords": ["toilet"]
+	},
+	{
+		"no": 951,
+		"code": "U+1F6BF",
+		"emoji": "🚿",
+		"description": "SHOWER",
+		"flagged": false,
+		"keywords": ["shower", "water"]
+	},
+	{
+		"no": 952,
+		"code": "U+1F6C0",
+		"emoji": "🛀",
+		"description": "BATH≊ person taking bath",
+		"flagged": false,
+		"keywords": ["bath", "bathtub"],
+		"types": [
+			"U+1F6C0 U+1F3FF",
+			"U+1F6C0 U+1F3FE",
+			"U+1F6C0 U+1F3FD",
+			"U+1F6C0 U+1F3FC",
+			"U+1F6C0 U+1F3FB"
+		]
+	},
+	{
+		"no": 958,
+		"code": "U+1F6C1",
+		"emoji": "🛁",
+		"description": "BATHTUB",
+		"flagged": false,
+		"keywords": ["bath", "bathtub"]
+	},
+	{
+		"no": 959,
+		"code": "U+231B",
+		"emoji": "⌛",
+		"description": "HOURGLASS",
+		"flagged": false,
+		"keywords": ["hourglass", "sand", "timer"]
+	},
+	{
+		"no": 960,
+		"code": "U+23F3",
+		"emoji": "⏳",
+		"description": "HOURGLASS WITH FLOWING SAND",
+		"flagged": false,
+		"keywords": ["hourglass", "sand", "timer"]
+	},
+	{
+		"no": 961,
+		"code": "U+231A",
+		"emoji": "⌚",
+		"description": "WATCH",
+		"flagged": false,
+		"keywords": ["clock", "watch"]
+	},
+	{
+		"no": 962,
+		"code": "U+23F0",
+		"emoji": "⏰",
+		"description": "ALARM CLOCK",
+		"flagged": false,
+		"keywords": ["alarm", "clock"]
+	},
+	{
+		"no": 963,
+		"code": "U+23F1",
+		"emoji": "⏱",
+		"description": "STOPWATCH",
+		"flagged": false,
+		"keywords": ["clock", "stopwatch"]
+	},
+	{
+		"no": 964,
+		"code": "U+23F2",
+		"emoji": "⏲",
+		"description": "TIMER CLOCK",
+		"flagged": false,
+		"keywords": ["clock", "timer"]
+	},
+	{
+		"no": 965,
+		"code": "U+1F570",
+		"emoji": "🕰",
+		"description": "MANTELPIECE CLOCK",
+		"flagged": false,
+		"keywords": ["clock"]
+	},
+	{
+		"no": 966,
+		"code": "U+1F55B",
+		"emoji": "🕛",
+		"description": "CLOCK FACE TWELVE OCLOCK≊ twelve o’clock",
+		"flagged": false,
+		"keywords": ["00", "12", "12:00", "clock", "o’clock", "twelve"]
+	},
+	{
+		"no": 967,
+		"code": "U+1F567",
+		"emoji": "🕧",
+		"description": "CLOCK FACE TWELVE-THIRTY≊ twelve-thirty",
+		"flagged": false,
+		"keywords": ["12", "12:30", "30", "clock", "thirty", "twelve"]
+	},
+	{
+		"no": 968,
+		"code": "U+1F550",
+		"emoji": "🕐",
+		"description": "CLOCK FACE ONE OCLOCK≊ one o’clock",
+		"flagged": false,
+		"keywords": ["00", "1", "1:00", "clock", "o’clock", "one"]
+	},
+	{
+		"no": 969,
+		"code": "U+1F55C",
+		"emoji": "🕜",
+		"description": "CLOCK FACE ONE-THIRTY≊ one-thirty",
+		"flagged": false,
+		"keywords": ["1", "1:30", "30", "clock", "one", "thirty"]
+	},
+	{
+		"no": 970,
+		"code": "U+1F551",
+		"emoji": "🕑",
+		"description": "CLOCK FACE TWO OCLOCK≊ two o’clock",
+		"flagged": false,
+		"keywords": ["00", "2", "2:00", "clock", "o’clock", "two"]
+	},
+	{
+		"no": 971,
+		"code": "U+1F55D",
+		"emoji": "🕝",
+		"description": "CLOCK FACE TWO-THIRTY≊ two-thirty",
+		"flagged": false,
+		"keywords": ["2", "2:30", "30", "clock", "thirty", "two"]
+	},
+	{
+		"no": 972,
+		"code": "U+1F552",
+		"emoji": "🕒",
+		"description": "CLOCK FACE THREE OCLOCK≊ three o’clock",
+		"flagged": false,
+		"keywords": ["00", "3", "3:00", "clock", "o’clock", "three"]
+	},
+	{
+		"no": 973,
+		"code": "U+1F55E",
+		"emoji": "🕞",
+		"description": "CLOCK FACE THREE-THIRTY≊ three-thirty",
+		"flagged": false,
+		"keywords": ["3", "3:30", "30", "clock", "thirty", "three"]
+	},
+	{
+		"no": 974,
+		"code": "U+1F553",
+		"emoji": "🕓",
+		"description": "CLOCK FACE FOUR OCLOCK≊ four o’clock",
+		"flagged": false,
+		"keywords": ["00", "4", "4:00", "clock", "four", "o’clock"]
+	},
+	{
+		"no": 975,
+		"code": "U+1F55F",
+		"emoji": "🕟",
+		"description": "CLOCK FACE FOUR-THIRTY≊ four-thirty",
+		"flagged": false,
+		"keywords": ["30", "4", "4:30", "clock", "four", "thirty"]
+	},
+	{
+		"no": 976,
+		"code": "U+1F554",
+		"emoji": "🕔",
+		"description": "CLOCK FACE FIVE OCLOCK≊ five o’clock",
+		"flagged": false,
+		"keywords": ["00", "5", "5:00", "clock", "five", "o’clock"]
+	},
+	{
+		"no": 977,
+		"code": "U+1F560",
+		"emoji": "🕠",
+		"description": "CLOCK FACE FIVE-THIRTY≊ five-thirty",
+		"flagged": false,
+		"keywords": ["30", "5", "5:30", "clock", "five", "thirty"]
+	},
+	{
+		"no": 978,
+		"code": "U+1F555",
+		"emoji": "🕕",
+		"description": "CLOCK FACE SIX OCLOCK≊ six o’clock",
+		"flagged": false,
+		"keywords": ["00", "6", "6:00", "clock", "o’clock", "six"]
+	},
+	{
+		"no": 979,
+		"code": "U+1F561",
+		"emoji": "🕡",
+		"description": "CLOCK FACE SIX-THIRTY≊ six-thirty",
+		"flagged": false,
+		"keywords": ["30", "6", "6:30", "clock", "six", "thirty"]
+	},
+	{
+		"no": 980,
+		"code": "U+1F556",
+		"emoji": "🕖",
+		"description": "CLOCK FACE SEVEN OCLOCK≊ seven o’clock",
+		"flagged": false,
+		"keywords": ["00", "7", "7:00", "clock", "o’clock", "seven"]
+	},
+	{
+		"no": 981,
+		"code": "U+1F562",
+		"emoji": "🕢",
+		"description": "CLOCK FACE SEVEN-THIRTY≊ seven-thirty",
+		"flagged": false,
+		"keywords": ["30", "7", "7:30", "clock", "seven", "thirty"]
+	},
+	{
+		"no": 982,
+		"code": "U+1F557",
+		"emoji": "🕗",
+		"description": "CLOCK FACE EIGHT OCLOCK≊ eight o’clock",
+		"flagged": false,
+		"keywords": ["00", "8", "8:00", "clock", "eight", "o’clock"]
+	},
+	{
+		"no": 983,
+		"code": "U+1F563",
+		"emoji": "🕣",
+		"description": "CLOCK FACE EIGHT-THIRTY≊ eight-thirty",
+		"flagged": false,
+		"keywords": ["30", "8", "8:30", "clock", "eight", "thirty"]
+	},
+	{
+		"no": 984,
+		"code": "U+1F558",
+		"emoji": "🕘",
+		"description": "CLOCK FACE NINE OCLOCK≊ nine o’clock",
+		"flagged": false,
+		"keywords": ["00", "9", "9:00", "clock", "nine", "o’clock"]
+	},
+	{
+		"no": 985,
+		"code": "U+1F564",
+		"emoji": "🕤",
+		"description": "CLOCK FACE NINE-THIRTY≊ nine-thirty",
+		"flagged": false,
+		"keywords": ["30", "9", "9:30", "clock", "nine", "thirty"]
+	},
+	{
+		"no": 986,
+		"code": "U+1F559",
+		"emoji": "🕙",
+		"description": "CLOCK FACE TEN OCLOCK≊ ten o’clock",
+		"flagged": false,
+		"keywords": ["00", "10", "10:00", "clock", "o’clock", "ten"]
+	},
+	{
+		"no": 987,
+		"code": "U+1F565",
+		"emoji": "🕥",
+		"description": "CLOCK FACE TEN-THIRTY≊ ten-thirty",
+		"flagged": false,
+		"keywords": ["10", "10:30", "30", "clock", "ten", "thirty"]
+	},
+	{
+		"no": 988,
+		"code": "U+1F55A",
+		"emoji": "🕚",
+		"description": "CLOCK FACE ELEVEN OCLOCK≊ eleven o’clock",
+		"flagged": false,
+		"keywords": ["00", "11", "11:00", "clock", "eleven", "o’clock"]
+	},
+	{
+		"no": 989,
+		"code": "U+1F566",
+		"emoji": "🕦",
+		"description": "CLOCK FACE ELEVEN-THIRTY≊ eleven-thirty",
+		"flagged": false,
+		"keywords": ["11", "11:30", "30", "clock", "eleven", "thirty"]
+	},
+	{
+		"no": 990,
+		"code": "U+1F311",
+		"emoji": "🌑",
+		"description": "NEW MOON SYMBOL≊ new moon",
+		"flagged": false,
+		"keywords": ["dark", "moon", "space", "weather"]
+	},
+	{
+		"no": 991,
+		"code": "U+1F312",
+		"emoji": "🌒",
+		"description": "WAXING CRESCENT MOON SYMBOL≊ waxing crescent moon",
+		"flagged": false,
+		"keywords": ["crescent", "moon", "space", "waxing", "weather"]
+	},
+	{
+		"no": 992,
+		"code": "U+1F313",
+		"emoji": "🌓",
+		"description": "FIRST QUARTER MOON SYMBOL≊ first quarter moon",
+		"flagged": false,
+		"keywords": ["moon", "quarter", "space", "weather"]
+	},
+	{
+		"no": 993,
+		"code": "U+1F314",
+		"emoji": "🌔",
+		"description": "WAXING GIBBOUS MOON SYMBOL≊ waxing gibbous moon",
+		"flagged": false,
+		"keywords": ["gibbous", "moon", "space", "waxing", "weather"]
+	},
+	{
+		"no": 994,
+		"code": "U+1F315",
+		"emoji": "🌕",
+		"description": "FULL MOON SYMBOL≊ full moon",
+		"flagged": false,
+		"keywords": ["full", "moon", "space", "weather"]
+	},
+	{
+		"no": 995,
+		"code": "U+1F316",
+		"emoji": "🌖",
+		"description": "WANING GIBBOUS MOON SYMBOL≊ waning gibbous moon",
+		"flagged": false,
+		"keywords": ["gibbous", "moon", "space", "waning", "weather"]
+	},
+	{
+		"no": 996,
+		"code": "U+1F317",
+		"emoji": "🌗",
+		"description": "LAST QUARTER MOON SYMBOL≊ last quarter moon",
+		"flagged": false,
+		"keywords": ["moon", "quarter", "space", "weather"]
+	},
+	{
+		"no": 997,
+		"code": "U+1F318",
+		"emoji": "🌘",
+		"description": "WANING CRESCENT MOON SYMBOL≊ waning crescent moon",
+		"flagged": false,
+		"keywords": ["crescent", "moon", "space", "waning", "weather"]
+	},
+	{
+		"no": 998,
+		"code": "U+1F319",
+		"emoji": "🌙",
+		"description": "CRESCENT MOON",
+		"flagged": false,
+		"keywords": ["crescent", "moon", "space", "weather"]
+	},
+	{
+		"no": 999,
+		"code": "U+1F31A",
+		"emoji": "🌚",
+		"description": "NEW MOON WITH FACE≊ new moon face",
+		"flagged": false,
+		"keywords": ["face", "moon", "space", "weather"]
+	},
+	{
+		"no": 1000,
+		"code": "U+1F31B",
+		"emoji": "🌛",
+		"description": "FIRST QUARTER MOON WITH FACE",
+		"flagged": false,
+		"keywords": ["face", "moon", "quarter", "space", "weather"]
+	},
+	{
+		"no": 1001,
+		"code": "U+1F31C",
+		"emoji": "🌜",
+		"description": "LAST QUARTER MOON WITH FACE",
+		"flagged": false,
+		"keywords": ["face", "moon", "quarter", "space", "weather"]
+	},
+	{
+		"no": 1002,
+		"code": "U+1F321",
+		"emoji": "🌡",
+		"description": "THERMOMETER",
+		"flagged": false,
+		"keywords": ["thermometer", "weather"]
+	},
+	{
+		"no": 1003,
+		"code": "U+2600",
+		"emoji": "☀",
+		"description": "BLACK SUN WITH RAYS≊ sun",
+		"flagged": false,
+		"keywords": ["bright", "rays", "space", "sun", "sunny", "weather"]
+	},
+	{
+		"no": 1004,
+		"code": "U+1F31D",
+		"emoji": "🌝",
+		"description": "FULL MOON WITH FACE",
+		"flagged": false,
+		"keywords": ["bright", "face", "full", "moon", "space", "weather"]
+	},
+	{
+		"no": 1005,
+		"code": "U+1F31E",
+		"emoji": "🌞",
+		"description": "SUN WITH FACE",
+		"flagged": false,
+		"keywords": ["bright", "face", "space", "sun", "weather"]
+	},
+	{
+		"no": 1006,
+		"code": "U+2B50",
+		"emoji": "⭐",
+		"description": "WHITE MEDIUM STAR",
+		"flagged": false,
+		"keywords": ["star"]
+	},
+	{
+		"no": 1007,
+		"code": "U+1F31F",
+		"emoji": "🌟",
+		"description": "GLOWING STAR",
+		"flagged": false,
+		"keywords": ["glittery", "glow", "shining", "sparkle", "star"]
+	},
+	{
+		"no": 1008,
+		"code": "U+1F320",
+		"emoji": "🌠",
+		"description": "SHOOTING STAR",
+		"flagged": false,
+		"keywords": ["activity", "falling", "shooting", "space", "star"]
+	},
+	{
+		"no": 1009,
+		"code": "U+2601",
+		"emoji": "☁",
+		"description": "CLOUD",
+		"flagged": false,
+		"keywords": ["cloud", "weather"]
+	},
+	{
+		"no": 1010,
+		"code": "U+26C5",
+		"emoji": "⛅",
+		"description": "SUN BEHIND CLOUD",
+		"flagged": false,
+		"keywords": ["cloud", "sun", "weather"]
+	},
+	{
+		"no": 1011,
+		"code": "U+26C8",
+		"emoji": "⛈",
+		"description": "THUNDER CLOUD AND RAIN≊ cloud with lightning and rain",
+		"flagged": false,
+		"keywords": ["cloud", "rain", "thunder", "weather"]
+	},
+	{
+		"no": 1012,
+		"code": "U+1F324",
+		"emoji": "🌤",
+		"description": "WHITE SUN WITH SMALL CLOUD≊ sun behind small cloud",
+		"flagged": false,
+		"keywords": ["cloud", "sun", "weather"]
+	},
+	{
+		"no": 1013,
+		"code": "U+1F325",
+		"emoji": "🌥",
+		"description": "WHITE SUN BEHIND CLOUD≊ sun behind large cloud",
+		"flagged": false,
+		"keywords": ["cloud", "sun", "weather"]
+	},
+	{
+		"no": 1014,
+		"code": "U+1F326",
+		"emoji": "🌦",
+		"description": "WHITE SUN BEHIND CLOUD WITH RAIN≊ sun behind cloud with rain",
+		"flagged": false,
+		"keywords": ["cloud", "rain", "sun", "weather"]
+	},
+	{
+		"no": 1015,
+		"code": "U+1F327",
+		"emoji": "🌧",
+		"description": "CLOUD WITH RAIN",
+		"flagged": false,
+		"keywords": ["cloud", "rain", "weather"]
+	},
+	{
+		"no": 1016,
+		"code": "U+1F328",
+		"emoji": "🌨",
+		"description": "CLOUD WITH SNOW",
+		"flagged": false,
+		"keywords": ["cloud", "cold", "snow", "weather"]
+	},
+	{
+		"no": 1017,
+		"code": "U+1F329",
+		"emoji": "🌩",
+		"description": "CLOUD WITH LIGHTNING",
+		"flagged": false,
+		"keywords": ["cloud", "lightning", "weather"]
+	},
+	{
+		"no": 1018,
+		"code": "U+1F32A",
+		"emoji": "🌪",
+		"description": "CLOUD WITH TORNADO≊ tornado",
+		"flagged": false,
+		"keywords": ["cloud", "tornado", "weather", "whirlwind"]
+	},
+	{
+		"no": 1019,
+		"code": "U+1F32B",
+		"emoji": "🌫",
+		"description": "FOG",
+		"flagged": false,
+		"keywords": ["cloud", "fog", "weather"]
+	},
+	{
+		"no": 1020,
+		"code": "U+1F32C",
+		"emoji": "🌬",
+		"description": "WIND BLOWING FACE≊ wind face",
+		"flagged": false,
+		"keywords": ["blow", "cloud", "face", "weather", "wind"]
+	},
+	{
+		"no": 1021,
+		"code": "U+1F300",
+		"emoji": "🌀",
+		"description": "CYCLONE",
+		"flagged": false,
+		"keywords": ["cyclone", "dizzy", "twister", "typhoon", "weather"]
+	},
+	{
+		"no": 1022,
+		"code": "U+1F308",
+		"emoji": "🌈",
+		"description": "RAINBOW",
+		"flagged": false,
+		"keywords": ["rain", "rainbow", "weather"]
+	},
+	{
+		"no": 1023,
+		"code": "U+1F302",
+		"emoji": "🌂",
+		"description": "CLOSED UMBRELLA",
+		"flagged": false,
+		"keywords": ["clothing", "rain", "umbrella", "weather"]
+	},
+	{
+		"no": 1024,
+		"code": "U+2602",
+		"emoji": "☂",
+		"description": "UMBRELLA",
+		"flagged": false,
+		"keywords": ["clothing", "rain", "umbrella", "weather"]
+	},
+	{
+		"no": 1025,
+		"code": "U+2614",
+		"emoji": "☔",
+		"description": "UMBRELLA WITH RAIN DROPS",
+		"flagged": false,
+		"keywords": ["clothing", "drop", "rain", "umbrella", "weather"]
+	},
+	{
+		"no": 1026,
+		"code": "U+26F1",
+		"emoji": "⛱",
+		"description": "UMBRELLA ON GROUND",
+		"flagged": false,
+		"keywords": ["rain", "sun", "umbrella", "weather"]
+	},
+	{
+		"no": 1027,
+		"code": "U+26A1",
+		"emoji": "⚡",
+		"description": "HIGH VOLTAGE SIGN≊ high voltage",
+		"flagged": false,
+		"keywords": [
+			"danger",
+			"electric",
+			"electricity",
+			"lightning",
+			"voltage",
+			"zap"
+		]
+	},
+	{
+		"no": 1028,
+		"code": "U+2744",
+		"emoji": "❄",
+		"description": "SNOWFLAKE",
+		"flagged": false,
+		"keywords": ["cold", "snow", "snowflake", "weather"]
+	},
+	{
+		"no": 1029,
+		"code": "U+2603",
+		"emoji": "☃",
+		"description": "SNOWMAN",
+		"flagged": false,
+		"keywords": ["cold", "snow", "snowman", "weather"]
+	},
+	{
+		"no": 1030,
+		"code": "U+26C4",
+		"emoji": "⛄",
+		"description": "SNOWMAN WITHOUT SNOW",
+		"flagged": false,
+		"keywords": ["cold", "snow", "snowman", "weather"]
+	},
+	{
+		"no": 1031,
+		"code": "U+2604",
+		"emoji": "☄",
+		"description": "COMET",
+		"flagged": false,
+		"keywords": ["comet", "space"]
+	},
+	{
+		"no": 1032,
+		"code": "U+1F525",
+		"emoji": "🔥",
+		"description": "FIRE",
+		"flagged": false,
+		"keywords": ["fire", "flame", "tool"]
+	},
+	{
+		"no": 1033,
+		"code": "U+1F4A7",
+		"emoji": "💧",
+		"description": "DROPLET",
+		"flagged": false,
+		"keywords": ["cold", "comic", "drop", "sweat", "weather"]
+	},
+	{
+		"no": 1034,
+		"code": "U+1F30A",
+		"emoji": "🌊",
+		"description": "WATER WAVE",
+		"flagged": false,
+		"keywords": ["ocean", "water", "wave", "weather"]
+	}
+]

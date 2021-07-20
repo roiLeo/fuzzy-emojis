@@ -1,0 +1,1527 @@
+[
+	{
+		"no": 1166,
+		"code": "U+1F507",
+		"emoji": "🔇",
+		"description": "SPEAKER WITH CANCELLATION STROKE≊ speaker off",
+		"flagged": false,
+		"keywords": ["mute", "quiet", "silent", "speaker", "volume"]
+	},
+	{
+		"no": 1167,
+		"code": "U+1F508",
+		"emoji": "🔈",
+		"description": "SPEAKER",
+		"flagged": false,
+		"keywords": ["speaker", "volume"]
+	},
+	{
+		"no": 1168,
+		"code": "U+1F509",
+		"emoji": "🔉",
+		"description": "SPEAKER WITH ONE SOUND WAVE≊ speaker on",
+		"flagged": false,
+		"keywords": ["low", "speaker", "volume", "wave"]
+	},
+	{
+		"no": 1169,
+		"code": "U+1F50A",
+		"emoji": "🔊",
+		"description": "SPEAKER WITH THREE SOUND WAVES≊ speaker loud",
+		"flagged": false,
+		"keywords": [
+			"3",
+			"entertainment",
+			"high",
+			"loud",
+			"speaker",
+			"three",
+			"volume"
+		]
+	},
+	{
+		"no": 1170,
+		"code": "U+1F4E2",
+		"emoji": "📢",
+		"description": "PUBLIC ADDRESS LOUDSPEAKER≊ loudspeaker",
+		"flagged": false,
+		"keywords": ["communication", "loud", "loudspeaker", "public address"]
+	},
+	{
+		"no": 1171,
+		"code": "U+1F4E3",
+		"emoji": "📣",
+		"description": "CHEERING MEGAPHONE≊ megaphone",
+		"flagged": false,
+		"keywords": ["cheering", "communication", "megaphone"]
+	},
+	{
+		"no": 1172,
+		"code": "U+1F4EF",
+		"emoji": "📯",
+		"description": "POSTAL HORN",
+		"flagged": false,
+		"keywords": ["communication", "entertainment", "horn", "post", "postal"]
+	},
+	{
+		"no": 1173,
+		"code": "U+1F514",
+		"emoji": "🔔",
+		"description": "BELL",
+		"flagged": false,
+		"keywords": ["bell"]
+	},
+	{
+		"no": 1174,
+		"code": "U+1F515",
+		"emoji": "🔕",
+		"description": "BELL WITH CANCELLATION STROKE≊ bell with slash",
+		"flagged": false,
+		"keywords": [
+			"bell",
+			"forbidden",
+			"mute",
+			"no",
+			"not",
+			"prohibited",
+			"quiet",
+			"silent"
+		]
+	},
+	{
+		"no": 1175,
+		"code": "U+1F3BC",
+		"emoji": "🎼",
+		"description": "MUSICAL SCORE",
+		"flagged": false,
+		"keywords": ["activity", "entertainment", "music", "score"]
+	},
+	{
+		"no": 1176,
+		"code": "U+1F3B5",
+		"emoji": "🎵",
+		"description": "MUSICAL NOTE",
+		"flagged": false,
+		"keywords": ["activity", "entertainment", "music", "note"]
+	},
+	{
+		"no": 1177,
+		"code": "U+1F3B6",
+		"emoji": "🎶",
+		"description": "MULTIPLE MUSICAL NOTES≊ musical notes",
+		"flagged": false,
+		"keywords": ["activity", "entertainment", "music", "note", "notes"]
+	},
+	{
+		"no": 1178,
+		"code": "U+1F399",
+		"emoji": "🎙",
+		"description": "STUDIO MICROPHONE",
+		"flagged": false,
+		"keywords": ["mic", "microphone", "music", "studio"]
+	},
+	{
+		"no": 1179,
+		"code": "U+1F39A",
+		"emoji": "🎚",
+		"description": "LEVEL SLIDER",
+		"flagged": false,
+		"keywords": ["level", "music", "slider"]
+	},
+	{
+		"no": 1180,
+		"code": "U+1F39B",
+		"emoji": "🎛",
+		"description": "CONTROL KNOBS",
+		"flagged": false,
+		"keywords": ["control", "knobs", "music"]
+	},
+	{
+		"no": 1181,
+		"code": "U+1F3A4",
+		"emoji": "🎤",
+		"description": "MICROPHONE",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"karaoke",
+			"mic",
+			"microphone"
+		]
+	},
+	{
+		"no": 1182,
+		"code": "U+1F3A7",
+		"emoji": "🎧",
+		"description": "HEADPHONE",
+		"flagged": false,
+		"keywords": ["activity", "earbud", "entertainment", "headphone"]
+	},
+	{
+		"no": 1183,
+		"code": "U+1F4FB",
+		"emoji": "📻",
+		"description": "RADIO",
+		"flagged": false,
+		"keywords": ["entertainment", "radio", "video"]
+	},
+	{
+		"no": 1184,
+		"code": "U+1F3B7",
+		"emoji": "🎷",
+		"description": "SAXOPHONE",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"instrument",
+			"music",
+			"sax",
+			"saxophone"
+		]
+	},
+	{
+		"no": 1185,
+		"code": "U+1F3B8",
+		"emoji": "🎸",
+		"description": "GUITAR",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"guitar",
+			"instrument",
+			"music"
+		]
+	},
+	{
+		"no": 1186,
+		"code": "U+1F3B9",
+		"emoji": "🎹",
+		"description": "MUSICAL KEYBOARD",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"instrument",
+			"keyboard",
+			"music",
+			"piano"
+		]
+	},
+	{
+		"no": 1187,
+		"code": "U+1F3BA",
+		"emoji": "🎺",
+		"description": "TRUMPET",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"instrument",
+			"music",
+			"trumpet"
+		]
+	},
+	{
+		"no": 1188,
+		"code": "U+1F3BB",
+		"emoji": "🎻",
+		"description": "VIOLIN",
+		"flagged": false,
+		"keywords": [
+			"activity",
+			"entertainment",
+			"instrument",
+			"music",
+			"violin"
+		]
+	},
+	{
+		"no": 1189,
+		"code": "U+1F941",
+		"emoji": "🥁",
+		"description": "DRUM WITH DRUMSTICKS",
+		"flagged": true,
+		"keywords": ["drum", "drumsticks", "music"]
+	},
+	{
+		"no": 1190,
+		"code": "U+1F4F1",
+		"emoji": "📱",
+		"description": "MOBILE PHONE",
+		"flagged": false,
+		"keywords": ["cell", "communication", "mobile", "phone", "telephone"]
+	},
+	{
+		"no": 1191,
+		"code": "U+1F4F2",
+		"emoji": "📲",
+		"description": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT≊ mobile phone with arrow",
+		"flagged": false,
+		"keywords": [
+			"arrow",
+			"call",
+			"cell",
+			"communication",
+			"mobile",
+			"phone",
+			"receive",
+			"telephone"
+		]
+	},
+	{
+		"no": 1192,
+		"code": "U+260E",
+		"emoji": "☎",
+		"description": "BLACK TELEPHONE≊ telephone",
+		"flagged": false,
+		"keywords": ["phone", "telephone"]
+	},
+	{
+		"no": 1193,
+		"code": "U+1F4DE",
+		"emoji": "📞",
+		"description": "TELEPHONE RECEIVER",
+		"flagged": false,
+		"keywords": ["communication", "phone", "receiver", "telephone"]
+	},
+	{
+		"no": 1194,
+		"code": "U+1F4DF",
+		"emoji": "📟",
+		"description": "PAGER",
+		"flagged": false,
+		"keywords": ["communication", "pager"]
+	},
+	{
+		"no": 1195,
+		"code": "U+1F4E0",
+		"emoji": "📠",
+		"description": "FAX MACHINE",
+		"flagged": false,
+		"keywords": ["communication", "fax"]
+	},
+	{
+		"no": 1196,
+		"code": "U+1F50B",
+		"emoji": "🔋",
+		"description": "BATTERY",
+		"flagged": false,
+		"keywords": ["battery"]
+	},
+	{
+		"no": 1197,
+		"code": "U+1F50C",
+		"emoji": "🔌",
+		"description": "ELECTRIC PLUG",
+		"flagged": false,
+		"keywords": ["electric", "electricity", "plug"]
+	},
+	{
+		"no": 1198,
+		"code": "U+1F4BB",
+		"emoji": "💻",
+		"description": "PERSONAL COMPUTER≊ laptop computer",
+		"flagged": false,
+		"keywords": ["computer", "pc", "personal"]
+	},
+	{
+		"no": 1199,
+		"code": "U+1F5A5",
+		"emoji": "🖥",
+		"description": "DESKTOP COMPUTER",
+		"flagged": false,
+		"keywords": ["computer", "desktop"]
+	},
+	{
+		"no": 1200,
+		"code": "U+1F5A8",
+		"emoji": "🖨",
+		"description": "PRINTER",
+		"flagged": false,
+		"keywords": ["computer", "printer"]
+	},
+	{
+		"no": 1201,
+		"code": "U+2328",
+		"emoji": "⌨",
+		"description": "KEYBOARD",
+		"flagged": false,
+		"keywords": ["computer", "keyboard"]
+	},
+	{
+		"no": 1202,
+		"code": "U+1F5B1",
+		"emoji": "🖱",
+		"description": "THREE BUTTON MOUSE≊ computer mouse",
+		"flagged": false,
+		"keywords": ["3", "button", "computer", "mouse", "three"]
+	},
+	{
+		"no": 1203,
+		"code": "U+1F5B2",
+		"emoji": "🖲",
+		"description": "TRACKBALL",
+		"flagged": false,
+		"keywords": ["computer", "trackball"]
+	},
+	{
+		"no": 1204,
+		"code": "U+1F4BD",
+		"emoji": "💽",
+		"description": "MINIDISC",
+		"flagged": false,
+		"keywords": ["computer", "disk", "entertainment", "minidisk", "optical"]
+	},
+	{
+		"no": 1205,
+		"code": "U+1F4BE",
+		"emoji": "💾",
+		"description": "FLOPPY DISK",
+		"flagged": false,
+		"keywords": ["computer", "disk", "floppy"]
+	},
+	{
+		"no": 1206,
+		"code": "U+1F4BF",
+		"emoji": "💿",
+		"description": "OPTICAL DISC",
+		"flagged": false,
+		"keywords": ["blu-ray", "cd", "computer", "disk", "dvd", "optical"]
+	},
+	{
+		"no": 1207,
+		"code": "U+1F4C0",
+		"emoji": "📀",
+		"description": "DVD",
+		"flagged": false,
+		"keywords": [
+			"blu-ray",
+			"cd",
+			"computer",
+			"disk",
+			"dvd",
+			"entertainment",
+			"optical"
+		]
+	},
+	{
+		"no": 1208,
+		"code": "U+1F3A5",
+		"emoji": "🎥",
+		"description": "MOVIE CAMERA",
+		"flagged": false,
+		"keywords": ["activity", "camera", "cinema", "entertainment", "movie"]
+	},
+	{
+		"no": 1209,
+		"code": "U+1F39E",
+		"emoji": "🎞",
+		"description": "FILM FRAMES",
+		"flagged": false,
+		"keywords": ["cinema", "entertainment", "film", "frames", "movie"]
+	},
+	{
+		"no": 1210,
+		"code": "U+1F4FD",
+		"emoji": "📽",
+		"description": "FILM PROJECTOR",
+		"flagged": false,
+		"keywords": [
+			"cinema",
+			"entertainment",
+			"film",
+			"movie",
+			"projector",
+			"video"
+		]
+	},
+	{
+		"no": 1211,
+		"code": "U+1F3AC",
+		"emoji": "🎬",
+		"description": "CLAPPER BOARD",
+		"flagged": false,
+		"keywords": ["activity", "clapper", "entertainment", "movie"]
+	},
+	{
+		"no": 1212,
+		"code": "U+1F4FA",
+		"emoji": "📺",
+		"description": "TELEVISION",
+		"flagged": false,
+		"keywords": ["entertainment", "television", "tv", "video"]
+	},
+	{
+		"no": 1213,
+		"code": "U+1F4F7",
+		"emoji": "📷",
+		"description": "CAMERA",
+		"flagged": false,
+		"keywords": ["camera", "entertainment", "video"]
+	},
+	{
+		"no": 1214,
+		"code": "U+1F4F8",
+		"emoji": "📸",
+		"description": "CAMERA WITH FLASH",
+		"flagged": false,
+		"keywords": ["camera", "flash", "video"]
+	},
+	{
+		"no": 1215,
+		"code": "U+1F4F9",
+		"emoji": "📹",
+		"description": "VIDEO CAMERA",
+		"flagged": false,
+		"keywords": ["camera", "entertainment", "video"]
+	},
+	{
+		"no": 1216,
+		"code": "U+1F4FC",
+		"emoji": "📼",
+		"description": "VIDEOCASSETTE",
+		"flagged": false,
+		"keywords": ["entertainment", "tape", "vhs", "video", "videocassette"]
+	},
+	{
+		"no": 1217,
+		"code": "U+1F50D",
+		"emoji": "🔍",
+		"description": "LEFT-POINTING MAGNIFYING GLASS",
+		"flagged": false,
+		"keywords": ["glass", "magnifying", "search", "tool"]
+	},
+	{
+		"no": 1218,
+		"code": "U+1F50E",
+		"emoji": "🔎",
+		"description": "RIGHT-POINTING MAGNIFYING GLASS",
+		"flagged": false,
+		"keywords": ["glass", "magnifying", "search", "tool"]
+	},
+	{
+		"no": 1219,
+		"code": "U+1F52C",
+		"emoji": "🔬",
+		"description": "MICROSCOPE",
+		"flagged": false,
+		"keywords": ["microscope", "tool"]
+	},
+	{
+		"no": 1220,
+		"code": "U+1F52D",
+		"emoji": "🔭",
+		"description": "TELESCOPE",
+		"flagged": false,
+		"keywords": ["telescope", "tool"]
+	},
+	{
+		"no": 1221,
+		"code": "U+1F4E1",
+		"emoji": "📡",
+		"description": "SATELLITE ANTENNA",
+		"flagged": false,
+		"keywords": ["antenna", "communication", "dish", "satellite"]
+	},
+	{
+		"no": 1222,
+		"code": "U+1F56F",
+		"emoji": "🕯",
+		"description": "CANDLE",
+		"flagged": false,
+		"keywords": ["candle", "light"]
+	},
+	{
+		"no": 1223,
+		"code": "U+1F4A1",
+		"emoji": "💡",
+		"description": "ELECTRIC LIGHT BULB≊ light bulb",
+		"flagged": false,
+		"keywords": ["bulb", "comic", "electric", "idea", "light"]
+	},
+	{
+		"no": 1224,
+		"code": "U+1F526",
+		"emoji": "🔦",
+		"description": "ELECTRIC TORCH≊ flashlight",
+		"flagged": false,
+		"keywords": ["electric", "flashlight", "light", "tool", "torch"]
+	},
+	{
+		"no": 1225,
+		"code": "U+1F3EE",
+		"emoji": "🏮",
+		"description": "IZAKAYA LANTERN≊ red paper lantern",
+		"flagged": false,
+		"keywords": ["bar", "japanese", "lantern", "light", "red"]
+	},
+	{
+		"no": 1226,
+		"code": "U+1F4D4",
+		"emoji": "📔",
+		"description": "NOTEBOOK WITH DECORATIVE COVER",
+		"flagged": false,
+		"keywords": ["book", "cover", "decorated", "notebook"]
+	},
+	{
+		"no": 1227,
+		"code": "U+1F4D5",
+		"emoji": "📕",
+		"description": "CLOSED BOOK",
+		"flagged": false,
+		"keywords": ["book", "closed"]
+	},
+	{
+		"no": 1228,
+		"code": "U+1F4D6",
+		"emoji": "📖",
+		"description": "OPEN BOOK",
+		"flagged": false,
+		"keywords": ["book", "open"]
+	},
+	{
+		"no": 1229,
+		"code": "U+1F4D7",
+		"emoji": "📗",
+		"description": "GREEN BOOK",
+		"flagged": false,
+		"keywords": ["book", "green"]
+	},
+	{
+		"no": 1230,
+		"code": "U+1F4D8",
+		"emoji": "📘",
+		"description": "BLUE BOOK",
+		"flagged": false,
+		"keywords": ["blue", "book"]
+	},
+	{
+		"no": 1231,
+		"code": "U+1F4D9",
+		"emoji": "📙",
+		"description": "ORANGE BOOK",
+		"flagged": false,
+		"keywords": ["book", "orange"]
+	},
+	{
+		"no": 1232,
+		"code": "U+1F4DA",
+		"emoji": "📚",
+		"description": "BOOKS",
+		"flagged": false,
+		"keywords": ["book", "books"]
+	},
+	{
+		"no": 1233,
+		"code": "U+1F4D3",
+		"emoji": "📓",
+		"description": "NOTEBOOK",
+		"flagged": false,
+		"keywords": ["notebook"]
+	},
+	{
+		"no": 1234,
+		"code": "U+1F4D2",
+		"emoji": "📒",
+		"description": "LEDGER",
+		"flagged": false,
+		"keywords": ["ledger", "notebook"]
+	},
+	{
+		"no": 1235,
+		"code": "U+1F4C3",
+		"emoji": "📃",
+		"description": "PAGE WITH CURL",
+		"flagged": false,
+		"keywords": ["curl", "document", "page"]
+	},
+	{
+		"no": 1236,
+		"code": "U+1F4DC",
+		"emoji": "📜",
+		"description": "SCROLL",
+		"flagged": false,
+		"keywords": ["paper", "scroll"]
+	},
+	{
+		"no": 1237,
+		"code": "U+1F4C4",
+		"emoji": "📄",
+		"description": "PAGE FACING UP",
+		"flagged": false,
+		"keywords": ["document", "page"]
+	},
+	{
+		"no": 1238,
+		"code": "U+1F4F0",
+		"emoji": "📰",
+		"description": "NEWSPAPER",
+		"flagged": false,
+		"keywords": ["communication", "news", "newspaper", "paper"]
+	},
+	{
+		"no": 1239,
+		"code": "U+1F5DE",
+		"emoji": "🗞",
+		"description": "ROLLED-UP NEWSPAPER",
+		"flagged": false,
+		"keywords": ["news", "newspaper", "paper", "rolled"]
+	},
+	{
+		"no": 1240,
+		"code": "U+1F4D1",
+		"emoji": "📑",
+		"description": "BOOKMARK TABS",
+		"flagged": false,
+		"keywords": ["bookmark", "mark", "marker", "tabs"]
+	},
+	{
+		"no": 1241,
+		"code": "U+1F516",
+		"emoji": "🔖",
+		"description": "BOOKMARK",
+		"flagged": false,
+		"keywords": ["bookmark", "mark"]
+	},
+	{
+		"no": 1242,
+		"code": "U+1F3F7",
+		"emoji": "🏷",
+		"description": "LABEL",
+		"flagged": false,
+		"keywords": ["label"]
+	},
+	{
+		"no": 1243,
+		"code": "U+1F4B0",
+		"emoji": "💰",
+		"description": "MONEY BAG",
+		"flagged": false,
+		"keywords": ["bag", "dollar", "money", "moneybag"]
+	},
+	{
+		"no": 1244,
+		"code": "U+1F4B4",
+		"emoji": "💴",
+		"description": "BANKNOTE WITH YEN SIGN≊ yen banknote",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"banknote",
+			"bill",
+			"currency",
+			"money",
+			"note",
+			"yen"
+		]
+	},
+	{
+		"no": 1245,
+		"code": "U+1F4B5",
+		"emoji": "💵",
+		"description": "BANKNOTE WITH DOLLAR SIGN≊ dollar banknote",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"banknote",
+			"bill",
+			"currency",
+			"dollar",
+			"money",
+			"note"
+		]
+	},
+	{
+		"no": 1246,
+		"code": "U+1F4B6",
+		"emoji": "💶",
+		"description": "BANKNOTE WITH EURO SIGN≊ euro banknote",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"banknote",
+			"bill",
+			"currency",
+			"euro",
+			"money",
+			"note"
+		]
+	},
+	{
+		"no": 1247,
+		"code": "U+1F4B7",
+		"emoji": "💷",
+		"description": "BANKNOTE WITH POUND SIGN≊ pound banknote",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"banknote",
+			"bill",
+			"currency",
+			"money",
+			"note",
+			"pound"
+		]
+	},
+	{
+		"no": 1248,
+		"code": "U+1F4B8",
+		"emoji": "💸",
+		"description": "MONEY WITH WINGS",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"banknote",
+			"bill",
+			"dollar",
+			"fly",
+			"money",
+			"note",
+			"wings"
+		]
+	},
+	{
+		"no": 1249,
+		"code": "U+1F4B3",
+		"emoji": "💳",
+		"description": "CREDIT CARD",
+		"flagged": false,
+		"keywords": ["bank", "card", "credit", "money"]
+	},
+	{
+		"no": 1250,
+		"code": "U+1F4B9",
+		"emoji": "💹",
+		"description": "CHART WITH UPWARDS TREND AND YEN SIGN≊ chart increasing with yen",
+		"flagged": false,
+		"keywords": [
+			"bank",
+			"chart",
+			"currency",
+			"graph",
+			"growth",
+			"market",
+			"money",
+			"rise",
+			"trend",
+			"upward",
+			"yen"
+		]
+	},
+	{
+		"no": 1251,
+		"code": "U+1F4B1",
+		"emoji": "💱",
+		"description": "CURRENCY EXCHANGE",
+		"flagged": false,
+		"keywords": ["bank", "currency", "exchange", "money"]
+	},
+	{
+		"no": 1252,
+		"code": "U+1F4B2",
+		"emoji": "💲",
+		"description": "HEAVY DOLLAR SIGN",
+		"flagged": false,
+		"keywords": ["currency", "dollar", "money"]
+	},
+	{
+		"no": 1253,
+		"code": "U+2709",
+		"emoji": "✉",
+		"description": "ENVELOPE",
+		"flagged": false,
+		"keywords": ["e-mail", "email", "envelope"]
+	},
+	{
+		"no": 1254,
+		"code": "U+1F4E7",
+		"emoji": "📧",
+		"description": "E-MAIL SYMBOL≊ e-mail",
+		"flagged": false,
+		"keywords": ["communication", "e-mail", "email", "letter", "mail"]
+	},
+	{
+		"no": 1255,
+		"code": "U+1F4E8",
+		"emoji": "📨",
+		"description": "INCOMING ENVELOPE",
+		"flagged": false,
+		"keywords": [
+			"communication",
+			"e-mail",
+			"email",
+			"envelope",
+			"incoming",
+			"letter",
+			"mail",
+			"receive"
+		]
+	},
+	{
+		"no": 1256,
+		"code": "U+1F4E9",
+		"emoji": "📩",
+		"description": "ENVELOPE WITH DOWNWARDS ARROW ABOVE≊ envelope with arrow",
+		"flagged": false,
+		"keywords": [
+			"arrow",
+			"communication",
+			"down",
+			"e-mail",
+			"email",
+			"envelope",
+			"letter",
+			"mail",
+			"outgoing",
+			"sent"
+		]
+	},
+	{
+		"no": 1257,
+		"code": "U+1F4E4",
+		"emoji": "📤",
+		"description": "OUTBOX TRAY",
+		"flagged": false,
+		"keywords": [
+			"box",
+			"communication",
+			"letter",
+			"mail",
+			"outbox",
+			"sent",
+			"tray"
+		]
+	},
+	{
+		"no": 1258,
+		"code": "U+1F4E5",
+		"emoji": "📥",
+		"description": "INBOX TRAY",
+		"flagged": false,
+		"keywords": [
+			"box",
+			"communication",
+			"inbox",
+			"letter",
+			"mail",
+			"receive",
+			"tray"
+		]
+	},
+	{
+		"no": 1259,
+		"code": "U+1F4E6",
+		"emoji": "📦",
+		"description": "PACKAGE",
+		"flagged": false,
+		"keywords": ["box", "communication", "package", "parcel"]
+	},
+	{
+		"no": 1260,
+		"code": "U+1F4EB",
+		"emoji": "📫",
+		"description": "CLOSED MAILBOX WITH RAISED FLAG",
+		"flagged": false,
+		"keywords": [
+			"closed",
+			"communication",
+			"flag",
+			"mail",
+			"mailbox",
+			"postbox"
+		]
+	},
+	{
+		"no": 1261,
+		"code": "U+1F4EA",
+		"emoji": "📪",
+		"description": "CLOSED MAILBOX WITH LOWERED FLAG",
+		"flagged": false,
+		"keywords": [
+			"closed",
+			"communication",
+			"flag",
+			"lowered",
+			"mail",
+			"mailbox",
+			"postbox"
+		]
+	},
+	{
+		"no": 1262,
+		"code": "U+1F4EC",
+		"emoji": "📬",
+		"description": "OPEN MAILBOX WITH RAISED FLAG",
+		"flagged": false,
+		"keywords": [
+			"communication",
+			"flag",
+			"mail",
+			"mailbox",
+			"open",
+			"postbox"
+		]
+	},
+	{
+		"no": 1263,
+		"code": "U+1F4ED",
+		"emoji": "📭",
+		"description": "OPEN MAILBOX WITH LOWERED FLAG",
+		"flagged": false,
+		"keywords": [
+			"communication",
+			"flag",
+			"lowered",
+			"mail",
+			"mailbox",
+			"open",
+			"postbox"
+		]
+	},
+	{
+		"no": 1264,
+		"code": "U+1F4EE",
+		"emoji": "📮",
+		"description": "POSTBOX",
+		"flagged": false,
+		"keywords": ["communication", "mail", "mailbox", "postbox"]
+	},
+	{
+		"no": 1265,
+		"code": "U+1F5F3",
+		"emoji": "🗳",
+		"description": "BALLOT BOX WITH BALLOT",
+		"flagged": false,
+		"keywords": ["ballot", "box"]
+	},
+	{
+		"no": 1266,
+		"code": "U+270F",
+		"emoji": "✏",
+		"description": "PENCIL",
+		"flagged": false,
+		"keywords": ["pencil"]
+	},
+	{
+		"no": 1267,
+		"code": "U+2712",
+		"emoji": "✒",
+		"description": "BLACK NIB",
+		"flagged": false,
+		"keywords": ["nib", "pen"]
+	},
+	{
+		"no": 1268,
+		"code": "U+1F58B",
+		"emoji": "🖋",
+		"description": "LOWER LEFT FOUNTAIN PEN≊ fountain pen",
+		"flagged": false,
+		"keywords": ["communication", "fountain", "pen"]
+	},
+	{
+		"no": 1269,
+		"code": "U+1F58A",
+		"emoji": "🖊",
+		"description": "LOWER LEFT BALLPOINT PEN≊ pen",
+		"flagged": false,
+		"keywords": ["ballpoint", "communication", "pen"]
+	},
+	{
+		"no": 1270,
+		"code": "U+1F58C",
+		"emoji": "🖌",
+		"description": "LOWER LEFT PAINTBRUSH≊ paintbrush",
+		"flagged": false,
+		"keywords": ["communication", "paintbrush", "painting"]
+	},
+	{
+		"no": 1271,
+		"code": "U+1F58D",
+		"emoji": "🖍",
+		"description": "LOWER LEFT CRAYON≊ crayon",
+		"flagged": false,
+		"keywords": ["communication", "crayon"]
+	},
+	{
+		"no": 1272,
+		"code": "U+1F4DD",
+		"emoji": "📝",
+		"description": "MEMO",
+		"flagged": false,
+		"keywords": ["communication", "memo", "pencil"]
+	},
+	{
+		"no": 1273,
+		"code": "U+1F4BC",
+		"emoji": "💼",
+		"description": "BRIEFCASE",
+		"flagged": false,
+		"keywords": ["briefcase"]
+	},
+	{
+		"no": 1274,
+		"code": "U+1F4C1",
+		"emoji": "📁",
+		"description": "FILE FOLDER",
+		"flagged": false,
+		"keywords": ["file", "folder"]
+	},
+	{
+		"no": 1275,
+		"code": "U+1F4C2",
+		"emoji": "📂",
+		"description": "OPEN FILE FOLDER",
+		"flagged": false,
+		"keywords": ["file", "folder", "open"]
+	},
+	{
+		"no": 1276,
+		"code": "U+1F5C2",
+		"emoji": "🗂",
+		"description": "CARD INDEX DIVIDERS",
+		"flagged": false,
+		"keywords": ["card", "dividers", "index"]
+	},
+	{
+		"no": 1277,
+		"code": "U+1F4C5",
+		"emoji": "📅",
+		"description": "CALENDAR",
+		"flagged": false,
+		"keywords": ["calendar", "date"]
+	},
+	{
+		"no": 1278,
+		"code": "U+1F4C6",
+		"emoji": "📆",
+		"description": "TEAR-OFF CALENDAR",
+		"flagged": false,
+		"keywords": ["calendar"]
+	},
+	{
+		"no": 1279,
+		"code": "U+1F5D2",
+		"emoji": "🗒",
+		"description": "SPIRAL NOTE PAD≊ spiral notepad",
+		"flagged": false,
+		"keywords": ["note", "pad", "spiral"]
+	},
+	{
+		"no": 1280,
+		"code": "U+1F5D3",
+		"emoji": "🗓",
+		"description": "SPIRAL CALENDAR PAD≊ spiral calendar",
+		"flagged": false,
+		"keywords": ["calendar", "pad", "spiral"]
+	},
+	{
+		"no": 1281,
+		"code": "U+1F4C7",
+		"emoji": "📇",
+		"description": "CARD INDEX",
+		"flagged": false,
+		"keywords": ["card", "index", "rolodex"]
+	},
+	{
+		"no": 1282,
+		"code": "U+1F4C8",
+		"emoji": "📈",
+		"description": "CHART WITH UPWARDS TREND≊ chart increasing",
+		"flagged": false,
+		"keywords": ["chart", "graph", "growth", "trend", "upward"]
+	},
+	{
+		"no": 1283,
+		"code": "U+1F4C9",
+		"emoji": "📉",
+		"description": "CHART WITH DOWNWARDS TREND≊ chart decreasing",
+		"flagged": false,
+		"keywords": ["chart", "down", "graph", "trend"]
+	},
+	{
+		"no": 1284,
+		"code": "U+1F4CA",
+		"emoji": "📊",
+		"description": "BAR CHART",
+		"flagged": false,
+		"keywords": ["bar", "chart", "graph"]
+	},
+	{
+		"no": 1285,
+		"code": "U+1F4CB",
+		"emoji": "📋",
+		"description": "CLIPBOARD",
+		"flagged": false,
+		"keywords": ["clipboard"]
+	},
+	{
+		"no": 1286,
+		"code": "U+1F4CC",
+		"emoji": "📌",
+		"description": "PUSHPIN",
+		"flagged": false,
+		"keywords": ["pin", "pushpin"]
+	},
+	{
+		"no": 1287,
+		"code": "U+1F4CD",
+		"emoji": "📍",
+		"description": "ROUND PUSHPIN",
+		"flagged": false,
+		"keywords": ["pin", "pushpin"]
+	},
+	{
+		"no": 1288,
+		"code": "U+1F4CE",
+		"emoji": "📎",
+		"description": "PAPERCLIP",
+		"flagged": false,
+		"keywords": ["paperclip"]
+	},
+	{
+		"no": 1289,
+		"code": "U+1F587",
+		"emoji": "🖇",
+		"description": "LINKED PAPERCLIPS",
+		"flagged": false,
+		"keywords": ["communication", "link", "paperclip"]
+	},
+	{
+		"no": 1290,
+		"code": "U+1F4CF",
+		"emoji": "📏",
+		"description": "STRAIGHT RULER",
+		"flagged": false,
+		"keywords": ["ruler", "straight edge"]
+	},
+	{
+		"no": 1291,
+		"code": "U+1F4D0",
+		"emoji": "📐",
+		"description": "TRIANGULAR RULER",
+		"flagged": false,
+		"keywords": ["ruler", "set", "triangle"]
+	},
+	{
+		"no": 1292,
+		"code": "U+2702",
+		"emoji": "✂",
+		"description": "BLACK SCISSORS≊ scissors",
+		"flagged": false,
+		"keywords": ["scissors", "tool"]
+	},
+	{
+		"no": 1293,
+		"code": "U+1F5C3",
+		"emoji": "🗃",
+		"description": "CARD FILE BOX",
+		"flagged": false,
+		"keywords": ["box", "card", "file"]
+	},
+	{
+		"no": 1294,
+		"code": "U+1F5C4",
+		"emoji": "🗄",
+		"description": "FILE CABINET",
+		"flagged": false,
+		"keywords": ["cabinet", "file"]
+	},
+	{
+		"no": 1295,
+		"code": "U+1F5D1",
+		"emoji": "🗑",
+		"description": "WASTEBASKET",
+		"flagged": false,
+		"keywords": ["wastebasket"]
+	},
+	{
+		"no": 1296,
+		"code": "U+1F512",
+		"emoji": "🔒",
+		"description": "LOCK",
+		"flagged": false,
+		"keywords": ["closed", "lock"]
+	},
+	{
+		"no": 1297,
+		"code": "U+1F513",
+		"emoji": "🔓",
+		"description": "OPEN LOCK",
+		"flagged": false,
+		"keywords": ["lock", "open", "unlock"]
+	},
+	{
+		"no": 1298,
+		"code": "U+1F50F",
+		"emoji": "🔏",
+		"description": "LOCK WITH INK PEN≊ lock with pen",
+		"flagged": false,
+		"keywords": ["ink", "lock", "nib", "pen", "privacy"]
+	},
+	{
+		"no": 1299,
+		"code": "U+1F510",
+		"emoji": "🔐",
+		"description": "CLOSED LOCK WITH KEY",
+		"flagged": false,
+		"keywords": ["closed", "key", "lock", "secure"]
+	},
+	{
+		"no": 1300,
+		"code": "U+1F511",
+		"emoji": "🔑",
+		"description": "KEY",
+		"flagged": false,
+		"keywords": ["key", "lock", "password"]
+	},
+	{
+		"no": 1301,
+		"code": "U+1F5DD",
+		"emoji": "🗝",
+		"description": "OLD KEY",
+		"flagged": false,
+		"keywords": ["clue", "key", "lock", "old"]
+	},
+	{
+		"no": 1302,
+		"code": "U+1F528",
+		"emoji": "🔨",
+		"description": "HAMMER",
+		"flagged": false,
+		"keywords": ["hammer", "tool"]
+	},
+	{
+		"no": 1303,
+		"code": "U+26CF",
+		"emoji": "⛏",
+		"description": "PICK",
+		"flagged": false,
+		"keywords": ["mining", "pick", "tool"]
+	},
+	{
+		"no": 1304,
+		"code": "U+2692",
+		"emoji": "⚒",
+		"description": "HAMMER AND PICK",
+		"flagged": false,
+		"keywords": ["hammer", "pick", "tool"]
+	},
+	{
+		"no": 1305,
+		"code": "U+1F6E0",
+		"emoji": "🛠",
+		"description": "HAMMER AND WRENCH",
+		"flagged": false,
+		"keywords": ["hammer", "tool", "wrench"]
+	},
+	{
+		"no": 1306,
+		"code": "U+1F5E1",
+		"emoji": "🗡",
+		"description": "DAGGER KNIFE≊ dagger",
+		"flagged": false,
+		"keywords": ["dagger", "knife", "weapon"]
+	},
+	{
+		"no": 1307,
+		"code": "U+2694",
+		"emoji": "⚔",
+		"description": "CROSSED SWORDS",
+		"flagged": false,
+		"keywords": ["crossed", "swords", "weapon"]
+	},
+	{
+		"no": 1308,
+		"code": "U+1F52B",
+		"emoji": "🔫",
+		"description": "PISTOL",
+		"flagged": false,
+		"keywords": ["gun", "handgun", "pistol", "revolver", "tool", "weapon"]
+	},
+	{
+		"no": 1309,
+		"code": "U+1F3F9",
+		"emoji": "🏹",
+		"description": "BOW AND ARROW",
+		"flagged": false,
+		"keywords": [
+			"archer",
+			"arrow",
+			"bow",
+			"sagittarius",
+			"tool",
+			"weapon",
+			"zodiac"
+		]
+	},
+	{
+		"no": 1310,
+		"code": "U+1F6E1",
+		"emoji": "🛡",
+		"description": "SHIELD",
+		"flagged": false,
+		"keywords": ["shield", "weapon"]
+	},
+	{
+		"no": 1311,
+		"code": "U+1F527",
+		"emoji": "🔧",
+		"description": "WRENCH",
+		"flagged": false,
+		"keywords": ["tool", "wrench"]
+	},
+	{
+		"no": 1312,
+		"code": "U+1F529",
+		"emoji": "🔩",
+		"description": "NUT AND BOLT",
+		"flagged": false,
+		"keywords": ["bolt", "nut", "tool"]
+	},
+	{
+		"no": 1313,
+		"code": "U+2699",
+		"emoji": "⚙",
+		"description": "GEAR",
+		"flagged": false,
+		"keywords": ["gear", "tool"]
+	},
+	{
+		"no": 1314,
+		"code": "U+1F5DC",
+		"emoji": "🗜",
+		"description": "COMPRESSION",
+		"flagged": false,
+		"keywords": ["compression", "tool", "vice"]
+	},
+	{
+		"no": 1315,
+		"code": "U+2697",
+		"emoji": "⚗",
+		"description": "ALEMBIC",
+		"flagged": false,
+		"keywords": ["alembic", "chemistry", "tool"]
+	},
+	{
+		"no": 1316,
+		"code": "U+2696",
+		"emoji": "⚖",
+		"description": "SCALES≊ balance scale",
+		"flagged": false,
+		"keywords": [
+			"balance",
+			"justice",
+			"libra",
+			"scales",
+			"tool",
+			"weight",
+			"zodiac"
+		]
+	},
+	{
+		"no": 1317,
+		"code": "U+1F517",
+		"emoji": "🔗",
+		"description": "LINK SYMBOL≊ link",
+		"flagged": false,
+		"keywords": ["link"]
+	},
+	{
+		"no": 1318,
+		"code": "U+26D3",
+		"emoji": "⛓",
+		"description": "CHAINS",
+		"flagged": false,
+		"keywords": ["chain"]
+	},
+	{
+		"no": 1319,
+		"code": "U+1F489",
+		"emoji": "💉",
+		"description": "SYRINGE",
+		"flagged": false,
+		"keywords": [
+			"doctor",
+			"medicine",
+			"needle",
+			"shot",
+			"sick",
+			"syringe",
+			"tool"
+		]
+	},
+	{
+		"no": 1320,
+		"code": "U+1F48A",
+		"emoji": "💊",
+		"description": "PILL",
+		"flagged": false,
+		"keywords": ["doctor", "medicine", "pill", "sick"]
+	},
+	{
+		"no": 1321,
+		"code": "U+1F6AC",
+		"emoji": "🚬",
+		"description": "SMOKING SYMBOL≊ smoking",
+		"flagged": false,
+		"keywords": ["activity", "smoking"]
+	},
+	{
+		"no": 1322,
+		"code": "U+26B0",
+		"emoji": "⚰",
+		"description": "COFFIN",
+		"flagged": false,
+		"keywords": ["coffin", "death"]
+	},
+	{
+		"no": 1323,
+		"code": "U+26B1",
+		"emoji": "⚱",
+		"description": "FUNERAL URN",
+		"flagged": false,
+		"keywords": ["death", "funeral", "urn"]
+	},
+	{
+		"no": 1324,
+		"code": "U+1F5FF",
+		"emoji": "🗿",
+		"description": "MOYAI≊ moai",
+		"flagged": false,
+		"keywords": ["face", "moyai", "statue"]
+	},
+	{
+		"no": 1325,
+		"code": "U+1F6E2",
+		"emoji": "🛢",
+		"description": "OIL DRUM",
+		"flagged": false,
+		"keywords": ["drum", "oil"]
+	},
+	{
+		"no": 1326,
+		"code": "U+1F52E",
+		"emoji": "🔮",
+		"description": "CRYSTAL BALL",
+		"flagged": false,
+		"keywords": [
+			"ball",
+			"crystal",
+			"fairy tale",
+			"fantasy",
+			"fortune",
+			"tool"
+		]
+	},
+	{
+		"no": 1327,
+		"code": "U+1F6D2",
+		"emoji": "🛒",
+		"description": "SHOPPING TROLLEY",
+		"flagged": true,
+		"keywords": ["cart", "shopping", "trolley"]
+	}
+]
