@@ -64,17 +64,21 @@
 				</b-tabs>
 			</div>
 		</div>
+
+		<ScrollTop />
 	</section>
 </template>
 
 <script>
 import SearchBar from '~/components/SearchBar'
+import ScrollTop from '~/components/ScrollTop'
 import EmojisList from '~/components/EmojisList'
 import FullEmojisList from '~/components/FullEmojisList'
 
 export default {
 	components: {
 		SearchBar,
+		ScrollTop,
 		EmojisList,
 		FullEmojisList,
 	}
