@@ -37,26 +37,29 @@
 		<div class="hero-foot">
 			<div class="container">
 				<b-tabs type="is-toggle has-background-white" expanded>
+					<b-tab-item label="All">
+						<FullEmojisList :emojis="$store.state.emojis" />
+					</b-tab-item>
 					<b-tab-item label="Activities">
-						<ActivityEmoji />
+						<EmojisList :emojis="$store.state.emojis['Activities']" />
 					</b-tab-item>
 					<b-tab-item label="People">
-						<PeopleEmoji />
+						<EmojisList :emojis="$store.state.emojis['Smileys & People']" />
 					</b-tab-item>
 					<b-tab-item label="Nature">
-						<NatureEmoji />
+						<EmojisList :emojis="$store.state.emojis['Animals & Nature']" />
 					</b-tab-item>
 					<b-tab-item label="Objects">
-						<ObjectEmoji />
+						<EmojisList :emojis="$store.state.emojis['Objects']" />
 					</b-tab-item>
 					<b-tab-item label="Places">
-						<PlaceEmoji />
+						<EmojisList :emojis="$store.state.emojis['Travel & Places']" />
 					</b-tab-item>
 					<b-tab-item label="Symbols">
-						<SymbolEmoji />
+						<EmojisList :emojis="$store.state.emojis['Symbols']" />
 					</b-tab-item>
 					<b-tab-item label="Flags">
-						<FlagEmoji />
+						<EmojisList :emojis="$store.state.emojis['Flags']" />
 					</b-tab-item>
 				</b-tabs>
 			</div>
@@ -66,24 +69,14 @@
 
 <script>
 import SearchBar from '~/components/SearchBar'
-import ActivityEmoji from '~/components/Tabs/ActivityEmoji'
-import PeopleEmoji from '~/components/Tabs/PeopleEmoji'
-import NatureEmoji from '~/components/Tabs/NatureEmoji'
-import ObjectEmoji from '~/components/Tabs/ObjectEmoji'
-import PlaceEmoji from '~/components/Tabs/PlaceEmoji'
-import SymbolEmoji from '~/components/Tabs/SymbolEmoji'
-import FlagEmoji from '~/components/Tabs/FlagEmoji'
+import EmojisList from '~/components/EmojisList'
+import FullEmojisList from '~/components/FullEmojisList'
 
 export default {
 	components: {
 		SearchBar,
-		ActivityEmoji,
-		PeopleEmoji,
-		NatureEmoji,
-		ObjectEmoji,
-		PlaceEmoji,
-		SymbolEmoji,
-		FlagEmoji
+		EmojisList,
+		FullEmojisList,
 	}
 }
 </script>
